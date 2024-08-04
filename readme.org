@@ -2,7 +2,7 @@
 
 This is a fan app for the board game Marvel United: X-Men. Currently I am cleaning and organizing the data.
 
-** TODO
+** TODOS
 
 - Create MongoDB database.
 - Add boxes collection with =_id=, =wave=, and =name=.
