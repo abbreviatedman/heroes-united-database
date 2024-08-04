@@ -12,7 +12,6 @@ async function convert() {
       const consolidatedHero = {
         type: "hero",
         name: hero.Hero,
-        wave: hero.Wave,
         cards: [],
       };
 
@@ -52,7 +51,7 @@ async function convert() {
   }
 
   fs.writeFile(
-    "./cards.json",
+    "./heroes.json",
     JSON.stringify(consolidatedHeroes, null, 2),
     "utf8"
   );
