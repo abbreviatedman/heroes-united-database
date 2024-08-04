@@ -1,0 +1,11 @@
+* Marvel United: X-Men App
+
+This is a fan app for the board game Marvel United: X-Men. Currently I am cleaning and organizing the data.
+
+** TODO
+
+- Create MongoDB database.
+- Add boxes collection with =_id=, =wave=, and =name=.
+- Add =box= field to each hero, holding the box =id=. This can be done programmatically-ish with some JS arrays. See =convert.js= for an example.
+- Add =anti-hero= with =true= to anti-heroes, similarly to the above step.
+- Add heroes to a
