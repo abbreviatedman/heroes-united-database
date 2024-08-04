@@ -1,0 +1,9481 @@
+[
+  {
+    "type": "hero",
+    "name": "Adam Warlock",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Immortality",
+        "specialAbility": "As long as this card is face-up in the Storyline, you cannot be forced to discard your last card."
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ],
+        "name": "Avatar of Life",
+        "specialAbility": "The next Master Plan card will be played face down with no effect."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Quantum Magic",
+        "specialAbility": "Look at the top 3 Master Plan cards and put them back on top in any order."
+      },
+      {
+        "symbols": [
+          "w",
+          null
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "America Chavez",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Star Portal",
+        "specialAbility": "&w &w"
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Invulnerability",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Energy Infusion",
+        "specialAbility": "&f &f"
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Angel",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Attack from Above",
+        "specialAbility": "Move to any Location and defeat 2 Thugs."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Attack from Above",
+        "specialAbility": "Move to any Location and defeat 2 Thugs."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ],
+        "name": "Worthington Industries Resources",
+        "specialAbility": "Distribute 2 🟊 tokens from the pool among any number of Heroes."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ],
+        "name": "Worthington Industries Resources",
+        "specialAbility": "Distribute 2 🟊 tokens from the pool among any number of Heroes."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Ant-Man",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Shrink",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Grow",
+        "specialAbility": "&m and then &f&f against a single target."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Quantum Leap",
+        "specialAbility": "Swap this card with any of your face-up cards in the Storyline. That card becomes the one you played this turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Apocalypse",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Celestial Energy Manipulation",
+        "specialAbility": "You MUST gain &w &w tokens. At the end of your turn, turn this card face down."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Celestial Energy Manipulation",
+        "specialAbility": "You MUST gain &w &w tokens. At the end of your turn, turn this card face down."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Self Molecular Manipulation",
+        "specialAbility": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Self Molecular Manipulation",
+        "specialAbility": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Survival of the Fittest",
+        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Survival of the Fittest",
+        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Survival of the Fittest",
+        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Immortality",
+        "specialAbility": "Draw 1 card. As long as this card is face-up in the Storyline, when you are KO'd, the Villain doesn't activate their BAM or any alternate effect."
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Archangel",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Wing Shielding",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Wing Shielding",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Techno Organic Wings",
+        "specialAbility": "&f&f&f in an adjacent location. "
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Techno Organic Wings",
+        "specialAbility": "&f&f&f in an adjacent location. "
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Banshee",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Stunning Waves",
+        "specialAbility": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Stunning Waves",
+        "specialAbility": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Sonic Blasts",
+        "specialAbility": "&f&f in an adjacent location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Sonic Blasts",
+        "specialAbility": "&f&f in an adjacent location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Beast",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Genius Intelligence",
+        "specialAbility": "This turn you can treat 🟊 as &w."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Genius Intelligence",
+        "specialAbility": "This turn you can treat 🟊 as &w."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Regenerating Factor",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Regenerating Factor",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Beast (First Class)",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Brilliant Student",
+        "specialAbility": "Gain 1 &m, 🟊 or &f token."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Brilliant Student",
+        "specialAbility": "Gain 1 &m, 🟊 or &f token."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Star Athlete",
+        "specialAbility": "&m 🟊"
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Star Athlete",
+        "specialAbility": "&m &f"
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Beta Ray Bill",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Stormbreaker",
+        "specialAbility": "&f &f­­. Draw 1 card."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Stormbreaker",
+        "specialAbility": "&f &f­­. Draw 1 card."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Stormbreaker",
+        "specialAbility": "&f &f­­. Draw 1 card."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Bishop",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Energy Absorption",
+        "specialAbility": "You gain 1 &f token. You may ignore 1 damage until the beginning of your next round."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Energy Absorption",
+        "specialAbility": "You gain 1 &f token. You may ignore 1 damage until the beginning of your next round."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Energy Absorption",
+        "specialAbility": "You gain 1 &f token. You may ignore 1 damage until the beginning of your next round."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Energy Resistance",
+        "specialAbility": "As long as this card is face-up in the Storyline,  you cannot take any damage from adjacent locations."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Black Cat",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Cat Instincts",
+        "specialAbility": "Gain any combination of 2 &m, 🟊 or &f tokens."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Cat Instincts",
+        "specialAbility": "Gain any combination of 2 &m, 🟊 or &f tokens."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Cat Luck",
+        "specialAbility": "When the next master Plan card is revealed, you may put it on the bottom and draw another one instead."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Cat Luck",
+        "specialAbility": "When the next master Plan card is revealed, you may put it on the bottom and draw another one instead."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Cat Claws",
+        "specialAbility": "When the next master Plan card is revealed, you may put it on the bottom and draw another one instead."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Cat Claws",
+        "specialAbility": "When the next master Plan card is revealed, you may put it on the bottom and draw another one instead."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Black Panther",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Panther Habit",
+        "specialAbility": "🟊 &f"
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Panther Habit",
+        "specialAbility": "&m &f"
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Panther Habit",
+        "specialAbility": "&m 🟊"
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Black Widow",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Interrogate",
+        "specialAbility": "Look at the top card of the Master Plan deck. You may place it on the bottom."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Interrogate",
+        "specialAbility": "Look at the top card of the Master Plan deck. You may place it on the bottom."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Interrogate",
+        "specialAbility": "Look at the top card of the Master Plan deck. You may place it on the bottom."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Blade",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Hunter Skills",
+        "specialAbility": "Double each &f you use against a single enemy this turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Bloodbath",
+        "specialAbility": "Defeat all Thugs in your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Vampiric Healing",
+        "specialAbility": "Draw 1 card."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Blink",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Warp Portals",
+        "specialAbility": "Move to any Location. Then you may move any Heroes to your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Warp Portals",
+        "specialAbility": "Move to any Location. Then you may move any Heroes to your Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Warp Portals",
+        "specialAbility": "Move to any Location. Then you may move any Heroes to your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Warp Portals",
+        "specialAbility": "Move to any Location. Then you may move any Heroes to your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Bob of Hydra",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Messing Stuff Up",
+        "specialAbility": "&w &w. Draw a Master Plan card and add it face down in the Storyline, OR give 1 Crisis token to each Hero if there are effects in the game that use them."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Throw Clumsily",
+        "specialAbility": "Give 2 &f tokens from the pool to another Hero in your location. Accelerate the next Villain turn by 1 card."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Run Away",
+        "specialAbility": "Until the beginning of your next turn, if a Villain ends their movement in your Location, you MUST move to the next clockwise Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Plan Z",
+        "specialAbility": "Add 2 Civilian, 2 Thug, or 1 Threat token from the pool to the corresponding Mission card of your choice. Accelerate the next Villain turn by 1 card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Accidentally Heroic",
+        "specialAbility": "Clear a Threat card in your Location. Then discard all cards from your hand to the bottom of your deck."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "I Wish I Joined AIM Instead",
+        "specialAbility": "Gain 1 &w token. Each other Hero must discard 1 Action token if they have any."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Deadpool's Pet",
+        "specialAbility": "Until the beginning of your next turn, if you have to discard cards, you can have hero Deadpool discard that number of cards instead."
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Boom-Boom",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Time Bomb",
+        "specialAbility": "Place a Bomb token in your Location or an adjacent one. At the start of the next Villain turn, remove the token, deal 1 damage to EVERYTHING in the location, and discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Time Bomb",
+        "specialAbility": "Place a Bomb token in your Location or an adjacent one. At the start of the next Villain turn, remove the token, deal 1 damage to EVERYTHING in the location, and discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Meltdown",
+        "specialAbility": "&f ­against a single target in an adjacent location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Meltdown",
+        "specialAbility": "&f ­against a single target in an adjacent location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Cable",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Technoactive Manipulation",
+        "specialAbility": "Discard 1 card from your hand to the bottom of your deck to perform &w &w."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Technoactive Manipulation",
+        "specialAbility": "Discard 1 card from your hand to the bottom of your deck to perform &w &w."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Techno-Organic Physiology",
+        "specialAbility": "&f and you may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Techno-Organic Physiology",
+        "specialAbility": "&f and you may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Psychic Mastery",
+        "specialAbility": "Each Hero draws 1 card, then discards 1 card from their hand to the bottom of their deck."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Psychic Mastery",
+        "specialAbility": "Each Hero draws 1 card, then discards 1 card from their hand to the bottom of their deck."
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Cannonball",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Energy Field Propulsion",
+        "specialAbility": "This turn, each time you perform a &m action, gain a &f token."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Energy Field Propulsion",
+        "specialAbility": "This turn, each time you perform a &m action, gain a &f token."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Blast Field",
+        "specialAbility": "Gain 1 &m token. You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Blast Field",
+        "specialAbility": "Gain 1 &m token. You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Captain America",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Leadership",
+        "specialAbility": "Give 1 &w token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Leadership",
+        "specialAbility": "Give 1 &w token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Leadership",
+        "specialAbility": "Give 1 &w token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Captain Britain",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Channel Interdimensional Energy",
+        "specialAbility": "Draw 1 card OR gain any combination of 2 &m, 🟊 or &f tokens."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Channel Interdimensional Energy",
+        "specialAbility": "Draw 1 card OR gain any combination of 2 &m, 🟊 or &f tokens."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Channel Interdimensional Energy",
+        "specialAbility": "Draw 1 card OR gain any combination of 2 &m, 🟊 or &f tokens."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Channel Interdimensional Energy",
+        "specialAbility": "Draw 1 card OR gain any combination of 2 &m, 🟊 or &f tokens."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Captain Marvel",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Photon Blast",
+        "specialAbility": "­­&f &f in one adjacent Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Photon Blast",
+        "specialAbility": "­­&f &f in one adjacent Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Photon Blast",
+        "specialAbility": "­­&f &f in one adjacent Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Cloak",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Darkforce Channeling",
+        "specialAbility": "Remove both Cloak and a Henchman in his Location from play. At the beginning of your next turn. Put them in any Location with no Threat and deal 2 damage to that Henchman."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Darkforce Channeling",
+        "specialAbility": "Remove both Cloak and a Henchman in his Location from play. At the beginning of your next turn. Put them in any Location with no Threat and deal 2 damage to that Henchman."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Darkforce Teleportation",
+        "specialAbility": "As long as this card is face-up in the Storyline, you can use &m to move to any Location. If Dagger is in your Location, she can move with you."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Darkforce Teleportation",
+        "specialAbility": "As long as this card is face-up in the Storyline, you can use &m to move to any Location. If Dagger is in your Location, she can move with you."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Colossus",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Fastball Special",
+        "specialAbility": "Move another Hero from your location to an adjacent location. That Hero shows their hand and does as many &f there as are shown on the bottom of their cards."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Fastball Special",
+        "specialAbility": "Move another Hero from your location to an adjacent location. That Hero shows their hand and does as many &f there as are shown on the bottom of their cards."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Fastball Special",
+        "specialAbility": "Move another Hero from your location to an adjacent location. That Hero shows their hand and does as many &f there as are shown on the bottom of their cards."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Organic Steel Body",
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage in each Villain turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Cyclops",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Leadership",
+        "specialAbility": "Give 1 &w token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Leadership",
+        "specialAbility": "Give 1 &w token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Optic Blasts",
+        "specialAbility": "&f­ in both adjacent Locations."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Optic Blasts",
+        "specialAbility": "&f­ in both adjacent Locations."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Cyclops (First Class)",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Precision Blast",
+        "specialAbility": "&f in an adjacent Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Precision Blast",
+        "specialAbility": "&f in an adjacent Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Optic Blasts",
+        "specialAbility": "Deal 1 damage to EVERYTHING else in this Location (except Havok), and discard all Civilians here."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Optic Blasts",
+        "specialAbility": "Deal 1 damage to EVERYTHING else in this Location (except Havok), and discard all Civilians here."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Dagger",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Lightforce Generation",
+        "specialAbility": "As long as this card is face-up in the Storyline, if you start this turn with 2 or more cards in hand (before the draw step), you may immediately play a free 🟊 in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Lightforce Purge",
+        "specialAbility": "Turn up to 2 Thugs in your Location into Civilians, and then rescue them."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Lightforce Daggers",
+        "specialAbility": "&f against up to 3 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Bond",
+        "specialAbility": "If Cloak is in your Location, he may draw cards until there are 3 in his hand."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Daredevil",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Radar Sense",
+        "specialAbility": "Gain either a 🟊 or &f token for each Location you enter this turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "The Man Without Fear",
+        "specialAbility": "Gain 1 &m token for each Civilian you rescue this turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Blind Justice",
+        "specialAbility": "Gain 1 &m token for each Thug you defeat this turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Dazzler",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Light Projection",
+        "specialAbility": "Gain 🟊 tokens equal to the number of Thugs in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Light Projection",
+        "specialAbility": "Gain 🟊 tokens equal to the number of Thugs in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Sound Conversion",
+        "specialAbility": "Gain &f tokens equal to the number of Civilians in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Sound Conversion",
+        "specialAbility": "Gain &f tokens equal to the number of Civilians in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Deadpool",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Unpredictable",
+        "specialAbility": "Gain 1 &w token. On your next turn, you must play your Hero card randomly."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Unpredictable",
+        "specialAbility": "Gain 1 &w token. On your next turn, you must play your Hero card randomly."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Regenerative Healing Factor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Breaking the Fourth Wall",
+        "specialAbility": "You must draw the top 2 cards from the Deadpool Chaos Challenge Deck, choose 1, and resolve it."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Breaking the Fourth Wall",
+        "specialAbility": "You must draw the top 2 cards from the Deadpool Chaos Challenge Deck, choose 1, and resolve it."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Resistance to Everything",
+        "specialAbility": "Any special effects on the next Master Plan card played have no effect on Deadpool."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Fight Through the Pain",
+        "specialAbility": "Gain 1 &f token. You may ignore 1 damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Fight Through the Pain",
+        "specialAbility": "Gain 1 &f token. You may ignore 1 damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Maximum Effort",
+        "specialAbility": "&f&f&f against a single target in your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Maximum Effort",
+        "specialAbility": "&f&f&f against a single target in your Location."
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Doctor Doom",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Mine is the Power",
+        "specialAbility": "This turn you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline. Then turn them all face down."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Mine is the Power",
+        "specialAbility": "This turn you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline. Then turn them all face down."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Mine is the Power",
+        "specialAbility": "This turn you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline. Then turn them all face down."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Pain is for Lesser Men",
+        "specialAbility": "As long as this card is face-up in the Storyline, for each damage you take during a Villain turn, you may gain 1 &m, 🟊 or &f token."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Doctor Strange",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Eye of Agamotto",
+        "specialAbility": "You may take any Master Plan card from the Storyline and reshuffle it into the Master Plan deck."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Cloak of Levitation",
+        "specialAbility": "Either &f in an adjacent Location or &m."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Dimensional Portal",
+        "specialAbility": "Move to any Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Book of Vishanti",
+        "specialAbility": "You may search the Master Plan deck, remove one card from the game, then reshuffle the deck."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Orb of Agamotto",
+        "specialAbility": "As long as this card is face-up in the Storyline, the top card of the Master Plan deck is revealed."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Domino",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Probability Manipulation",
+        "specialAbility": "If this is the latest Domino card in the Storyline, BAM effects of Henchmen are canceled during the next Villain turn."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Probability Manipulation",
+        "specialAbility": "If this is the latest Domino card in the Storyline, BAM effects of Henchmen are canceled during the next Villain turn."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Probability Manipulation",
+        "specialAbility": "If this is the latest Domino card in the Storyline, BAM effects of Henchmen are canceled during the next Villain turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Master Assassin",
+        "specialAbility": "&f&f&f to a single Villain or Henchman in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Doop",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Professional Videographer",
+        "specialAbility": "As long as this card is face-up in the Storyline, if another Hero performs 2 or more 🟊 or &f in your Location, that Hero gains 1 &w token."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Dimensional Gate",
+        "specialAbility": "Move to any Location and &w &w there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Psionic Mass Control",
+        "specialAbility": "Relocate any number of Civilians and Thugs between Locations."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Travel Across the Margins",
+        "specialAbility": "At the end of your turn, swap this card with any Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Travel Across the Margins",
+        "specialAbility": "At the end of your turn, swap this card with any Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Travel Across the Margins",
+        "specialAbility": "At the end of your turn, swap this card with any Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Accelerated Regeneration",
+        "specialAbility": "As long as this card is face-up in the Storyline, gain 1 &w token whenever you are KO'd."
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Drax",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Revenge",
+        "specialAbility": "Move to the next clockwise Location with any enemies and &f there."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Revenge",
+        "specialAbility": "Move to the next clockwise Location with any enemies and &f there."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Revenge",
+        "specialAbility": "Move to the next clockwise Location with any enemies and &f there."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Elektra",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Master Assassin",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Ninja Training",
+        "specialAbility": "&f&f, OR you cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Sai",
+        "specialAbility": "Deal &f in both adjacent Locations."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Emma Frost",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Omega Class Telepath",
+        "specialAbility": "This turn, you can use the symbols at the bottom of the 2 previous Hero cards in the Storyline."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Omega Class Telepath",
+        "specialAbility": "This turn, you can use the symbols at the bottom of the 2 previous Hero cards in the Storyline."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Organic Diamond Form",
+        "specialAbility": "If you have less than 3 cards in hand, draw 1 card. You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Organic Diamond Form",
+        "specialAbility": "If you have less than 3 cards in hand, draw 1 card. You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Falcon",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Air Strike",
+        "specialAbility": "Move to any Location and &f there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Air Strike",
+        "specialAbility": "Move to any Location and &f there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Air Strike",
+        "specialAbility": "Move to any Location and &f there."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Fantomex",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Analytic Intelligence",
+        "specialAbility": "Look at the top card of the Master Plan deck and put it back on top."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Analytic Intelligence",
+        "specialAbility": "Look at the top card of the Master Plan deck and put it back on top."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Misdirection",
+        "specialAbility": "As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately move to an adjacent location."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Cyber Mind",
+        "specialAbility": "As long as this card is face-up in the Storyline, at the end of each Villain turn, you may perform 1 🟊 or 1 &f in the Villain's Location."
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Feral",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Acute Senses",
+        "specialAbility": "The next time you would take 1 damage or be assigned 1 Crisis token, you may flip this card face down to avoid it."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Acute Senses",
+        "specialAbility": "The next time you would take 1 damage or be assigned 1 Crisis token, you may flip this card face down to avoid it."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Claws and Teeth",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Claws and Teeth",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Firestar",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Microwave Heat Emission",
+        "specialAbility": "&f&f against a single target in your location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Microwave Heat Emission",
+        "specialAbility": "&f&f against a single target in your location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Microwave Energy Manipulation",
+        "specialAbility": "🟊🟊"
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Microwave Energy Manipulation",
+        "specialAbility": "🟊🟊"
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Forge",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Spirit Sight",
+        "specialAbility": "Pick another Location. This turn, you may use your 🟊 and &f there."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Spirit Sight",
+        "specialAbility": "Pick another Location. This turn, you may use your 🟊 and &f there."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Intuitive Genius",
+        "specialAbility": "This turn, for each 🟊 you use to clear Threats, place 🟊🟊."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Intuitive Genius",
+        "specialAbility": "This turn, for each 🟊 you use to clear Threats, place 🟊🟊."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Gambit",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Master Thief",
+        "specialAbility": "Gain 1 &w token and take 1 Action token of your choice from each other Hero."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Master Thief",
+        "specialAbility": "Gain 1 &w token and take 1 Action token of your choice from each other Hero."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Molecular Acceleration",
+        "specialAbility": "Discard any token to &f&f&f in an adjacent Location. "
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Molecular Acceleration",
+        "specialAbility": "Discard any token to &f&f&f in an adjacent Location. "
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Gamora",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Deadliest in the Galaxy",
+        "specialAbility": "Each &w or &f token you spend this turn gives you an additional &f action."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Deadliest in the Galaxy",
+        "specialAbility": "Each &w or &f token you spend this turn gives you an additional &f action."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Deadliest in the Galaxy",
+        "specialAbility": "Each &w or &f token you spend this turn gives you an additional &f action."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Ghost Rider (R Reyes)",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Hellfire Manipulation",
+        "specialAbility": "Deal &f&f&f to a single enemy in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Mystical Chain",
+        "specialAbility": "Deal &f&f to each Thug in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Supernatural Awareness",
+        "specialAbility": "🟊 and &f then draw 1 card."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Ghost-Spider",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Free-Style Beatdown",
+        "specialAbility": "Defeat all Thugs in this Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Spider-Sense",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Web Weaver",
+        "specialAbility": "Swap two Threat cards in play."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Groot",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "I am Groot?",
+        "specialAbility": "Move any other Hero to a Location adjacent to them."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "I am Groot?",
+        "specialAbility": "Move any other Hero to a Location adjacent to them."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "I am Groot?",
+        "specialAbility": "Move any other Hero to a Location adjacent to them."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "We are Groot",
+        "specialAbility": "You and another Hero draw 1 card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "We are Groot",
+        "specialAbility": "You and another Hero draw 1 card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "We are Groot",
+        "specialAbility": "You and another Hero draw 1 card."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "I am Groot!",
+        "specialAbility": "You and another Hero deal &f in your respective Locations."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "I am Groot!",
+        "specialAbility": "You and another Hero deal &f in your respective Locations."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "I am Groot!",
+        "specialAbility": "You and another Hero deal &f in your respective Locations."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "I am Groot!",
+        "specialAbility": "You and another Hero deal &f in your respective Locations."
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Guardian",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Leadership",
+        "specialAbility": "Give 1 &w token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Alpha Flight",
+        "specialAbility": "Gain 1 &w token for each face-up Alpha Flight card in the Storyline."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Battlesuit Armor",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Electromagnetic Beams",
+        "specialAbility": "&f against up to 2 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Gwenpool",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Send to Gutter Space",
+        "specialAbility": "Remove both Gwenpool and a Henchman in her Location from play. At the beginning of your next turn, place them in any location with no Threat and deal 2 damage to that Henchman."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Send to Gutter Space",
+        "specialAbility": "Remove both Gwenpool and a Henchman in her Location from play. At the beginning of your next turn, place them in any location with no Threat and deal 2 damage to that Henchman."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Jeffrey the Land Shark",
+        "specialAbility": "As long as this card is face-up in the Storyline, at the end of your turn, you can deal 1 damage to a Thug or Henchman in your Location that you did not damage this turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "No Consequences in a Fictional World",
+        "specialAbility": "Discard cards until you have 1 in your hand. For each card discarded, deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "No Consequences in a Fictional World",
+        "specialAbility": "Discard cards until you have 1 in your hand. For each card discarded, deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Havok",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Absorb Cosmic Energy",
+        "specialAbility": "Gain 1 &f token. You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Absorb Cosmic Energy",
+        "specialAbility": "Gain 1 &f token. You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Plasma Blast",
+        "specialAbility": "&f&f&f in 1 adjacent Location."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Plasma Blast",
+        "specialAbility": "&f&f&f in 1 adjacent Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Hawkeye",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Master Marksman",
+        "specialAbility": "This turn you may treat each symbol on the Storyline as  &f&f."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Longshot",
+        "specialAbility": "Deal &f&f in the opposite Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Martial Artist",
+        "specialAbility": "Until the beginning of your next turn, any damage you would take can be redirected to enemies in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Hope Summers",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Denying",
+        "specialAbility": "The next Master Plan card is played face down in the Storyline with no affect. Then remove the top card of the Master Plan deck from play and flip this card face down."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Embracing Destiny",
+        "specialAbility": "Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Embracing Destiny",
+        "specialAbility": "Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Embracing Destiny",
+        "specialAbility": "Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Howard the Duck",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Neutron Disintegrator",
+        "specialAbility": "Deal damage to a Villain or Henchman in your Location until they have 1 Health. You cannot use any &f this turn."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "No More Mister Nice Duck",
+        "specialAbility": "Deal &f&f to each enemy in your Location."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Big Freaking Gun",
+        "specialAbility": "Deal &f&f in any Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Hulk",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Hulk Smash!",
+        "specialAbility": "Deal 1 damage to EVERYTHING else in this Location. Discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Hulk Smash!",
+        "specialAbility": "Deal 1 damage to EVERYTHING else in this Location. Discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Hulk Smash!",
+        "specialAbility": "Deal 1 damage to EVERYTHING else in this Location. Discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Human Torch",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Nova Flame",
+        "specialAbility": "Discard 1 card from your hand to the bottom of your deck to deal 2 damage to EVERYTHING else in your Location. Discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Pyrogenesis",
+        "specialAbility": "As long as this card is face-up in the Storyline, you can treat 🟊 as &f."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Teamwork",
+        "specialAbility": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 &m token from the pool to the Fantastic Four card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Teamwork",
+        "specialAbility": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 🟊 token from the pool to the Fantastic Four card."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Iceman",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Organic Ice Body",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Organic Ice Body",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Cryokinesis",
+        "specialAbility": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Cryokinesis",
+        "specialAbility": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Iceman (First Class)",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Freeze",
+        "specialAbility": "Attach a Frozen token to a Villain in your Location. Next Villain turn, that Villain cannot move and the token is discarded."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Freeze",
+        "specialAbility": "Attach a Frozen token to a Villain in your Location. Next Villain turn, that Villain cannot move and the token is discarded."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Ice Slide",
+        "specialAbility": "Place a Frozen token in your Location. Heroes may leave this location without performing &m. At the beginning of your next turn, discard the token."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Ice Slide",
+        "specialAbility": "Place a Frozen token in your Location. Heroes may leave this location without performing &m. At the beginning of your next turn, discard the token."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Invisible Woman",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Psionic Force Fields",
+        "specialAbility": "Gain 2 &w tokens."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Teamwork",
+        "specialAbility": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 &m token from the pool to the Fantastic Four card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Teamwork",
+        "specialAbility": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 🟊 token from the pool to the Fantastic Four card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Invisibility",
+        "specialAbility": "As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may choose not to take any damage until the beginning of your next turn. If you do so, next turn you must play your card face down."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Iron Fist",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Chi Augmentation",
+        "specialAbility": "Deal &f&f split as you like in your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Chi Augmentation",
+        "specialAbility": "Deal &f&f split as you like in your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Chi Augmentation",
+        "specialAbility": "Deal &f&f split as you like in your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Iron Man",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Advanced Combat Analysis",
+        "specialAbility": "Distribute 2 &f tokens from the pool among any number of Heroes."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Power Recharge",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Stark Resources",
+        "specialAbility": "Distribute 2 ­&m tokens from the pool among any number of Heroes."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Jean Grey",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Telepathy",
+        "specialAbility": "Swap the previous Hero card in the Storyline with any other Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Telepathy",
+        "specialAbility": "Swap the previous Hero card in the Storyline with any other Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Major Telekinesis",
+        "specialAbility": "🟊 &f split as you like in your and adjacent locations."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Major Telekinesis",
+        "specialAbility": "🟊 &f split as you like in your and adjacent locations."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Jessica Jones",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Expert Detective",
+        "specialAbility": "Remove the top card of the Master Plan deck. Gain &w tokens equal to the movement number written on it."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Psionic Protection",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Private Investigator",
+        "specialAbility": "Reveal the top card of the master Plan deck. You may move to any Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Jubilee",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Explosive Light Blasts",
+        "specialAbility": "&f against up to 3 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Explosive Light Blasts",
+        "specialAbility": "&f against up to 3 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Psionic Shields",
+        "specialAbility": "Ignore the direct effects of the next Villain BAM that would affect you (it can still affect other Heroes)."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Psionic Shields",
+        "specialAbility": "Ignore the direct effects of the next Villain BAM that would affect you (it can still affect other Heroes)."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Kitty Pryde",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Phasing Others",
+        "specialAbility": "You can move another Hero with you this turn. Other Heroes in your Location cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Phasing Others",
+        "specialAbility": "You can move another Hero with you this turn. Other Heroes in your Location cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Phasing",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn. For each damage you would take, gain 1 🟊 token instead."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Phasing",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn. For each damage you would take, gain 1 🟊 token instead."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Lockheed, Go",
+        "specialAbility": "Put Lockheed in play in your Location or an adjacent one. As long as this card is face-up in the Storyline, you may use your &m to move Lockheed."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Lockheed Fire Breath",
+        "specialAbility": "&f&f in the Location Lockheed is in."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Lockheed Fire Breath",
+        "specialAbility": "&f&f in the Location Lockheed is in."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Lockheed Fire Breath",
+        "specialAbility": "&f&f in the Location Lockheed is in."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Help Them, Lockheed",
+        "specialAbility": "🟊 in the Location Lockheed is in."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Get Them, Lockheed",
+        "specialAbility": "­&f n the Location Lockheed is in."
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Korg",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Kronan Fighter",
+        "specialAbility": "­­&f in both adjacent Locations, OR ­­ &f&f in your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Kronan Fighter",
+        "specialAbility": "­­&f in both adjacent Locations, OR ­­ &f&f in your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Kronan Fighter",
+        "specialAbility": "­­&f in both adjacent Locations, OR ­­ &f&f in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Lady Deadpool",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Regenerative Healing Factor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Rescuing Charles",
+        "specialAbility": "Move to any Location with Civilians. Rescue 1 Civilian and defeat all Thugs there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Rescuing Charles",
+        "specialAbility": "Move to any Location with Civilians. Rescue 1 Civilian and defeat all Thugs there."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Resistance to Everything",
+        "specialAbility": "Any special effects on the next Master Plan card played have no effect on Lady Deadpool."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Totally Unpredictable",
+        "specialAbility": "Gain 1 &w token. On your next turn, you must play your Hero card randomly."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Totally Unpredictable",
+        "specialAbility": "Gain 1 &w token. On your next turn, you must play your Hero card randomly."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Master Assassin",
+        "specialAbility": "&f&f&f against a single target in your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Master Assassin",
+        "specialAbility": "&f&f&f against a single target in your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Merc with a Mouth with Lipgloss",
+        "specialAbility": "Rescue 1 Civilian in your location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Merc with a Mouth with Lipgloss",
+        "specialAbility": "Rescue 1 Civilian in your location."
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Legion",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Jack Wayne",
+        "specialAbility": "Heroes anywhere can freely exchange their Action tokens between them."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Susan in Sunshine",
+        "specialAbility": "Each other Hero, Villain and Henchman in your Location takes double damage until your next turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Zero G. Priestly",
+        "specialAbility": "If the next Master Plan card has a Special Effect, the effect is canceled. As long as this card is face-up in the Storyline, Heroes must play with their hands revealed."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Bleeding Image",
+        "specialAbility": "Take 1 damage. Then deal 2 damage to EVERYTHING else in your Location. Discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Delphic",
+        "specialAbility": "Look at the top card of the Master Plan deck. You may place it on the bottom. Each other Hero in your Location takes 1 damage."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Hypnoblocke",
+        "specialAbility": "Delay the next Villain turn by 1 card. Heroes must play their card randomly until the next Villain turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Tyrranik",
+        "specialAbility": "You may move any Heroes to any Locations of your choice. Moved Heroes must discard one card from their hands to the bottom of their decks."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Chain",
+        "specialAbility": "This turn you may use your 🟊 and &f actions in Locations where there are other Heroes. If you do, Heroes in those Locations must discard 1 Action token each, if possible."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Cindy",
+        "specialAbility": "&f in an adjacent Location. Each Hero there takes 1 damage."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Sally",
+        "specialAbility": "Each other Hero in your Location takes 1 damage. You cannot take any damage until the beginning of your next turn."
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Logan",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Withstanding the Pain",
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage during each Villain turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Fighting Experience",
+        "specialAbility": "&f and draw 1 card."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Fighting Experience",
+        "specialAbility": "&f and draw 1 card."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Fighting Experience",
+        "specialAbility": "&f and draw 1 card."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Longshot",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Healing Factor",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Healing Factor",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Probability Manipulation",
+        "specialAbility": "Look at the top 3 cards of the Master Plan deck, then place them back on top in any order."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Probability Manipulation",
+        "specialAbility": "Look at the top 3 cards of the Master Plan deck, then place them back on top in any order."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Luke Cage",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Superhuman Strength",
+        "specialAbility": "This turn you have as many &f as cards in your hand."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Nigh-Invulnerability",
+        "specialAbility": "Draw 1 card. You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Regenerative Healing Factor",
+        "specialAbility": "Draw 2 cards."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Magik",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Mystical Armor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have any Crisis tokens at the end of a Villain turn, you may discard 1 with no consequence."
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ],
+        "name": "Soulsword",
+        "specialAbility": "Deal 1 extra damage to any Villain, Henchman or Thug you deal any damage to this turn."
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ],
+        "name": "Soulsword",
+        "specialAbility": "Deal 1 extra damage to any Villain, Henchman or Thug you deal any damage to this turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Stepping Disks",
+        "specialAbility": "Move to any Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Stepping Disks",
+        "specialAbility": "Move to any Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Magneto",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Prodigal Intelligence",
+        "specialAbility": "This turn you can treat all symbols as &w."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Genius Intelligence",
+        "specialAbility": "This turn you can treat &m as  &w."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Magnetokinesis",
+        "specialAbility": "&f&f&f split as you like in your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Magnetokinesis",
+        "specialAbility": "&f&f&f split as you like in your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Mantis",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Emphatic Manipulation",
+        "specialAbility": "Cancel any BAM on the next Master Plan card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Astral Projection",
+        "specialAbility": "This turn you may use each Action as if you are in a different Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Psychic Healing",
+        "specialAbility": "Another Hero draws 2 cards."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Marrow",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Bone Weapons",
+        "specialAbility": "&f&f&f split as you like in your and adjacent Locations.\n"
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Bone Weapons",
+        "specialAbility": "&f&f&f split as you like in your and adjacent Locations.\n"
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Bone Armor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if a Villain or Henchman in your Location deals damage to you during a Villain turn, they take 1 damage at the end of that turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Bone Armor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if a Villain or Henchman in your Location deals damage to you during a Villain turn, they take 1 damage at the end of that turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Marvel Girl",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Telekinesis",
+        "specialAbility": "🟊 or &f in your or an adjacent Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Telekinesis",
+        "specialAbility": "🟊 or &f in your or an adjacent Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Telekinesis",
+        "specialAbility": "🟊 or &f in your or an adjacent Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Telekinesis",
+        "specialAbility": "🟊 or &f in your or an adjacent Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Miles Morales",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Web",
+        "specialAbility": "If you are in the same Location as the Villain, delay the next Villain turn by 1 card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Invisibility",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Venom Strike",
+        "specialAbility": "&f&f against a single enemy in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Mirage",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Resist Death",
+        "specialAbility": "Until the beginning of your next turn, all heroes in your location cannot be forced to discard their last card."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Resist Death",
+        "specialAbility": "Until the beginning of your next turn, all heroes in your location cannot be forced to discard their last card."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Empathic Illusion",
+        "specialAbility": "Relocate any number of Civilian, Thug, and Threat cards between your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Empathic Illusion",
+        "specialAbility": "Relocate any number of Civilian, Thug, and Threat cards between your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Neural Arrow",
+        "specialAbility": "­&f. This turn you can use your &f actions in adjacent Locations."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Neural Arrow",
+        "specialAbility": "­&f. This turn you can use your &f actions in adjacent Locations."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Mister Fantastic",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "h",
+          "f"
+        ],
+        "name": "Super Genius",
+        "specialAbility": "This turn you can treat all symbols as &w."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Plasticity",
+        "specialAbility": "As long as this card is face-up in the Storyline, during your Hero turn you can use 1 of your 🟊 or &f actions in an adjacent location."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Teamwork",
+        "specialAbility": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 &w token from the pool to the Fantastic Four card."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Teamwork",
+        "specialAbility": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 &m token from the pool to the Fantastic Four card."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Mockingbird",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Spymaster",
+        "specialAbility": "The next Master Plan card played cannot add any Civilians or Thugs to your Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Spymaster",
+        "specialAbility": "The next Master Plan card played cannot add any Civilians or Thugs to your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Battle Staves",
+        "specialAbility": "Defeat 2 Thugs in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Moon Knight",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "f",
+          "f"
+        ],
+        "name": "Dissociative Identity Disorder",
+        "specialAbility": "Shuffle your hand and deck together, then draw 3 cards."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Moon Knight's Suit",
+        "specialAbility": "Until the beginning of your next turn, if you would take damage, ignore it and move to any Location instead."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Konshu's Power",
+        "specialAbility": "&w for each of your Special Effect cards in the Storyline (including this one)."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Ms. Marvel",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Appearance Alteration",
+        "specialAbility": "Count all Action symbols as &w this turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Morphogenetics",
+        "specialAbility": "Swap any number of cards in your hand with any of your face-up cards in the Storyline."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Elongation",
+        "specialAbility": "Your attacks may target enemies in adjacent Locations this turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Multiple Man",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Spreading Dupes",
+        "specialAbility": "Move up to 2 Dupe tokens to Locations adjacent to them."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Spreading Dupes",
+        "specialAbility": "Move up to 2 Dupe tokens to Locations adjacent to them."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Spreading Dupes",
+        "specialAbility": "Move up to 2 Dupe tokens to Locations adjacent to them."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ],
+        "name": "Spreading Dupes",
+        "specialAbility": "Move up to 2 Dupe tokens to Locations adjacent to them."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Duplication Absorption",
+        "specialAbility": "Remove as many Dupe tokens from your Location as you wish. Draw 1 card for each token removed."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Duplication Absorption",
+        "specialAbility": "Remove as many Dupe tokens from your Location as you wish. Draw 1 card for each token removed."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Duplication Absorption",
+        "specialAbility": "Remove as many Dupe tokens from your Location as you wish. Draw 1 card for each token removed."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Duplication Absorption",
+        "specialAbility": "Remove as many Dupe tokens from your Location as you wish. Draw 1 card for each token removed."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Kinetic Duplication",
+        "specialAbility": "As long as this card is face-up in the Storyline, once per turn you may place 1 Dupe token in your Location (functions as a Civilian). You may use 🟊 and &f actions as if you were in any Dupe's Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Dupes, Assemble",
+        "specialAbility": "Each Dupe may perform 1 free 🟊 or &f. Then remove each activated Dupe token."
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Mystique",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Spymaster",
+        "specialAbility": "The next Master Plan card played cannot add Civilians or Thugs to your Location or one of the two  adjacent ones (your choice)."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Spymaster",
+        "specialAbility": "The next Master Plan card played cannot add Civilians or Thugs to your Location or one of the two  adjacent ones (your choice)."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Metamorph",
+        "specialAbility": "On the next Villain turn, you may redirect any damage dealt to you to a Henchman or any Thug in your Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Metamorph",
+        "specialAbility": "On the next Villain turn, you may redirect any damage dealt to you to a Henchman or any Thug in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Namor",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "King of Atlantis",
+        "specialAbility": "You may discard either 1 Civilian or 1 Thug from your Location and from each adjacent Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "King of Atlantis",
+        "specialAbility": "You may discard either 1 Civilian or 1 Thug from your Location and from each adjacent Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Avenging Son of Atlantis",
+        "specialAbility": "&f&f in any Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Avenging Son of Atlantis",
+        "specialAbility": "&f&f in any Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Nebula",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Image Projection",
+        "specialAbility": "Every Hero can swap a card from their hand with one of their cards in the Storyline. Remove the top card of the Master Plan deck from the game."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Regeneration Implant",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Electroshock Batons",
+        "specialAbility": "&f&f in both adjacent locations."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Nick Fury, Jr.",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Director of SHIELD",
+        "specialAbility": "A Hero of your choice immediately performs &m&m."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Director of SHIELD",
+        "specialAbility": "A Hero of your choice immediately performs 🟊🟊."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Director of SHIELD",
+        "specialAbility": "A Hero of your choice immediately performs &f&f."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Nightcrawler",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "h",
+          "h"
+        ],
+        "name": "*Bamf* Fear No Evil",
+        "specialAbility": "You MUST move to any other Location."
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ],
+        "name": "*Bamf* Auf Wiedersehen!",
+        "specialAbility": "You MUST move to any other Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "*Bamf* Anybody Need a Lift?",
+        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "*Bamf* Anybody Need a Lift?",
+        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "*Bamf* Anybody Need a Lift?",
+        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "*Bamf* Anybody Need a Lift?",
+        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "*Bamf* En Garde!",
+        "specialAbility": "You MUST move to any other Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "*Bamf* En Garde!",
+        "specialAbility": "You MUST move to any other Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "*Bamf* En Garde!",
+        "specialAbility": "You MUST move to any other Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "*Bamf* En Garde!",
+        "specialAbility": "You MUST move to any other Location."
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Northstar",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Flight",
+        "specialAbility": "As long as this card is face-up in the Storyline, when you perform &m actions, you may bring another Hero to your Location with you."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Concussive Blasts",
+        "specialAbility": "&f&f split as you like between your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Concussive Blasts",
+        "specialAbility": "&f&f split as you like between your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Alpha Flight",
+        "specialAbility": "Gain 1 🟊 token for each face-up Alpha Flight card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Nova",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "I am the Help",
+        "specialAbility": "🟊🟊 in an adjacent Location."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "I am the Help",
+        "specialAbility": "🟊🟊 in an adjacent Location."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "I am the Help",
+        "specialAbility": "🟊🟊 in an adjacent Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Okoye",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "h",
+          "h"
+        ],
+        "name": "Dora Milaje",
+        "specialAbility": "Until the beginning of your next turn, if another Hero in your Location takes damage, you may take it instead."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Accomplished Strategist",
+        "specialAbility": "Reveal the top card of your deck. You may put it at the bottom of your deck."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Vibranium Spear",
+        "specialAbility": "&f&f in an adjacent Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Old Man Logan",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "My Name is Wolverine",
+        "specialAbility": "Gain 4 &f tokens. If Retired is face-up in the Storyline, turn it face down."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Retired",
+        "specialAbility": "Gain 2 &f tokens. As long as this card is face-up in the Storyline, you can't use &f tokens to Attack."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Tired of Fighting",
+        "specialAbility": "If Retired is face-up in the Storyline, gain 1 &f token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Tired of Fighting",
+        "specialAbility": "If Retired is face-up in the Storyline, gain 1 &f token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Tired of Fighting",
+        "specialAbility": "If Retired is face-up in the Storyline, gain 1 &f token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Tired of Fighting",
+        "specialAbility": "If Retired is face-up in the Storyline, gain 1 &f token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Phoenix",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Uncanny Power",
+        "specialAbility": "As long as this card is face-up in the Storyline, other Heroes must ignore and skip Phoenix cards in the Storyline."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Time Manipulation",
+        "specialAbility": "Delay the next Villain turn by 1 card."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Empathy",
+        "specialAbility": "Give 1 &w token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Empathy",
+        "specialAbility": "Give 1 &w token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Phoenix Cry",
+        "specialAbility": "&w &w &w &w &w Then discard all cards from your hand to the bottom of your deck."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Phoenix Force Avatar",
+        "specialAbility": "&w &w &w"
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Phoenix Force Avatar",
+        "specialAbility": "&w &w &w"
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Phoenix Force Avatar",
+        "specialAbility": "&w &w"
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Phoenix Force Avatar",
+        "specialAbility": "&w &w"
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Phoenix Force Avatar",
+        "specialAbility": "&w &w"
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Pixie",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Hallucinatory Dust",
+        "specialAbility": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Hallucinatory Dust",
+        "specialAbility": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Teleporting Spell",
+        "specialAbility": "You and all other Heroes in your Location MUST move together to any other Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Teleporting Spell",
+        "specialAbility": "You and all other Heroes in your Location MUST move together to any other Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Polaris",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Magnetic Manipulation",
+        "specialAbility": "&f&f in your or an adjacent Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Magnetic Manipulation",
+        "specialAbility": "&f&f in your or an adjacent Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Magnetic Field",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Magnetic Field",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Professor X",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Telepathy",
+        "specialAbility": "Choose another Hero. They can swap any number of cards in their hand with cards in the Storyline."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Mind Alteration",
+        "specialAbility": "Turn up to 2 Thugs in your Location into Civilians."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Genius Intelligence",
+        "specialAbility": "This turn you may treat 🟊 as &w."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Genius Intelligence",
+        "specialAbility": "This turn you may treat &f as &w."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Leadership",
+        "specialAbility": "Give 🟊🟊 tokens from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Leadership",
+        "specialAbility": "Give &f&f tokens from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Psylocke",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Telepathy",
+        "specialAbility": "Swap the previous Hero card in the Storyline with any other Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Telepathy",
+        "specialAbility": "Swap the previous Hero card in the Storyline with any other Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Psionic Blast",
+        "specialAbility": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is removed."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Psionic Blast",
+        "specialAbility": "Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is removed."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Puck",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Tactical Intelligence",
+        "specialAbility": "Swap the Threat in your Location with one in an adjacent location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Alpha Flight",
+        "specialAbility": "Gain 1 &m or 1 &f token for each face-up Alpha Flight card in the Storyline."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Compressed Rubber Physiology",
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage dealt by a Henchman each Villain turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Acrobatic Fighting Style",
+        "specialAbility": "&m&f"
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Punisher",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Special Ops Training",
+        "specialAbility": "You can move to any Location and &f&f there."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Heavy Firepower",
+        "specialAbility": "&f&f in any Location, and &f in both adjacent locations."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Precision Shot",
+        "specialAbility": "&f&f&f&f against a single enemy. Damage you deal this turn can't be canceled or reduced."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Quicksilver",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "m"
+        ],
+        "name": "Superhuman Speed",
+        "specialAbility": "You can move other Heroes with you this turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ],
+        "name": "Speed Fighting",
+        "specialAbility": "You can defeat 1 Thug in each Location you enter this turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ],
+        "name": "Run to the Rescue",
+        "specialAbility": "You can rescue 1 Civilian in each Location you enter this turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Rocket",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Master Tinkerer",
+        "specialAbility": "Gain 1 &w token, OR your Action tokens can be used twice this turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Master Tinkerer",
+        "specialAbility": "Gain 1 &w token, OR your Action tokens can be used twice this turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Raccoon Senses",
+        "specialAbility": "Gain 1 &w token, OR convert any number of Action tokens you own into &w tokens."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Rogue",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Power Absorption",
+        "specialAbility": "Use the Action symbols at the bottom of another Hero's face-up card in the Storyline. At the end of your turn, turn that card face down."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Power Absorption",
+        "specialAbility": "Use the Action symbols at the bottom of another Hero's face-up card in the Storyline. At the end of your turn, turn that card face down."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Power Absorption",
+        "specialAbility": "Use the Action symbols at the bottom of another Hero's face-up card in the Storyline. At the end of your turn, turn that card face down."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Power Absorption",
+        "specialAbility": "Use the Action symbols at the bottom of another Hero's face-up card in the Storyline. At the end of your turn, turn that card face down."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "w"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Sasquatch",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Alpha Flight",
+        "specialAbility": "Gain 1 &f token for each face-up Alpha Flight card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Claws",
+        "specialAbility": "&f&f against a single target in your Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Controlled Fury",
+        "specialAbility": "&f against up to 2 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Controlled Fury",
+        "specialAbility": "&f against up to 2 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Scarlet Witch",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Chaos Magic",
+        "specialAbility": "Another Hero can swap one card from their hand with one of their face-up cards in the Storyline."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Psionic Energy Blast",
+        "specialAbility": "&f&f&f against a single enemy in an adjacent Location."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Psionic Energy Field",
+        "specialAbility": "Cancel the first damage each Hero would suffer from the effects of the next Master Plan card."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Shang Chi",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Master Martial Artist",
+        "specialAbility": "Double each &f on the previous Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Master Martial Artist",
+        "specialAbility": "Double each &f on the previous Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Master Martial Artist",
+        "specialAbility": "Double each &f on the previous Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Shatterstar",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Vibratory Shockwaves",
+        "specialAbility": "You may discard 1 card from your hand to the bottom of your deck to &f&f&f­­­, split as you like in your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Vibratory Shockwaves",
+        "specialAbility": "You may discard 1 card from your hand to the bottom of your deck to &f&f&f­­­, split as you like in your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Healing Factor",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Healing Factor",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "She-Hulk",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Transformation",
+        "specialAbility": "&f plus another &f for each Transformation card in the Storyline (including this one)."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Transformation",
+        "specialAbility": "&f plus another &f for each Transformation card in the Storyline (including this one)."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Transformation",
+        "specialAbility": "&f plus another &f for each Transformation card in the Storyline (including this one)."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Transformation",
+        "specialAbility": "&f plus another &f for each Transformation card in the Storyline (including this one)."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Shuri",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Young Genius",
+        "specialAbility": "Give 1 &w token from the pool to any Hero. They may draw cards until they have 3 in their hand."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Young Genius",
+        "specialAbility": "Give 1 &w token from the pool to any Hero. They may draw cards until they have 3 in their hand."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Young Genius",
+        "specialAbility": "Give 1 &w token from the pool to any Hero. They may draw cards until they have 3 in their hand."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Silver Surfer",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Cosmic Awareness",
+        "specialAbility": "As long as this card is face-up in the Storyline, during your turn one of your 🟊 or &f actions can be performed in any Location."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Dimensional Travel",
+        "specialAbility": "If you are not in the Villain's starting Location, replace your Location with any other not in play (move everything from your Location to the new one)."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Near Immortality",
+        "specialAbility": "As long as this card is face-up in the Storyline, you draw 2 cards during the draw step of your turn."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Teleport",
+        "specialAbility": "You may move to any Location."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Teleport",
+        "specialAbility": "You may move to any Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Snowbird",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Animal Shapeshifting",
+        "specialAbility": "&w 🟊"
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Animal Shapeshifting",
+        "specialAbility": "&w &f"
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Alpha Flight",
+        "specialAbility": "Gain 1 &m or 🟊 token for each face-up Alpha Flight card in the Storyline."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Post Cognition",
+        "specialAbility": "As long as this card is face-up in the Storyline, gain 1 &w whenever one of your cards in the Storyline is turned face down."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Mystical Resistance",
+        "specialAbility": "As long as this card is face-up in the Storyline, you can't be forced to play cards randomly."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Spider-Ham",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Toony Web",
+        "specialAbility": "If you end your turn in the Villain Location, negate the next Villain movement."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Toony Essence",
+        "specialAbility": "Until the beginning of your next turn, you cannot be forced to discard your last card."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Toony Weapon",
+        "specialAbility": "&f in any Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Spider-Man",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Great Power",
+        "specialAbility": "Defeat up to 3 Thugs in your Location. For each Thug defeated with this Special Effect, gain 1 🟊 token."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Great Responsibility",
+        "specialAbility": "Rescue up to 3 Civilians in your Location. For each Civilian rescued with this Special Effect, gain 1 &f token."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Webslinging",
+        "specialAbility": "Gain 2 &m tokens."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Spider-Man 2099",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Lyla Resistance",
+        "specialAbility": "🟊 in any Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Enhanced Senses",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Claws",
+        "specialAbility": "&f&f against a single enemy. Damage you deal this turn cannot be reduced."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Spider-Woman",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Super Resistance",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Poison Blast",
+        "specialAbility": "Choose &f&f, OR delay the next Villain turn by 1 card."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Poison Blast",
+        "specialAbility": "Choose &f&f, OR delay the next Villain turn by 1 card."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Spiral",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Teleport Away",
+        "specialAbility": "Gain 1 &w token. As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately discard 1 Action token to move all Heroes in your Location to any other Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Spell Dance",
+        "specialAbility": "For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 🟊 token, or &f against a Thug or Henchman in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Spell Dance",
+        "specialAbility": "For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 🟊 token, or &f against a Thug or Henchman in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Spell Dance",
+        "specialAbility": "For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 🟊 token, or &f against a Thug or Henchman in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Spell Dance",
+        "specialAbility": "For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 🟊 token, or &f against a Thug or Henchman in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Sqirrel Girl",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Night Vision",
+        "specialAbility": "Reveal the top card of the Master Plan deck. You may put it at the bottom."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Squirrel Army",
+        "specialAbility": "Deal 1 damage to a single enemy in every Location."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Common Sense",
+        "specialAbility": "If the number of Special Effect cards in the Storyline is greater than the Villain's current Health, the Heroes win the game."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Star-Lord",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Problem Solver",
+        "specialAbility": "Give a &m, 🟊 or &f token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Problem Solver",
+        "specialAbility": "Give a &m, 🟊 or &f token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Problem Solver",
+        "specialAbility": "Give a &m, 🟊 or &f token from the pool to another Hero."
+      },
+      {
+        "symbols": [
+          "m",
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Storm",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Goddess of Weather",
+        "specialAbility": "Relocate any Heroes to different Locations."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Goddess of Weather",
+        "specialAbility": "Relocate any Heroes to different Locations."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Atomkinesis",
+        "specialAbility": "&f&f in any Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Atomkinesis",
+        "specialAbility": "&f&f in any Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Storm (Mohawk)",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Preemptive Strike",
+        "specialAbility": "&f against up to 3 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Preemptive Strike",
+        "specialAbility": "&f against up to 3 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Preemptive Strike",
+        "specialAbility": "&f against up to 3 different targets in your Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Indomitable Will",
+        "specialAbility": "As long as this card is face-up in the Storyline, ignore the first Crisis token you receive during each Hero and Villain turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Strong Guy",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Kinetic Energy Absorption",
+        "specialAbility": "You cannot take any damage until the start of your next turn. For each damage that you would take, gain 1 &f token instead. If this card is face-up in the Storyline and you have 4 or more Action tokens, discard all your Action tokens and your hand."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Kinetic Energy Absorption",
+        "specialAbility": "You cannot take any damage until the start of your next turn. For each damage that you would take, gain 1 &f token instead. If this card is face-up in the Storyline and you have 4 or more Action tokens, discard all your Action tokens and your hand."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Kinetic Energy Absorption",
+        "specialAbility": "You cannot take any damage until the start of your next turn. For each damage that you would take, gain 1 &f token instead. If this card is face-up in the Storyline and you have 4 or more Action tokens, discard all your Action tokens and your hand."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Kinetic Energy Absorption",
+        "specialAbility": "You cannot take any damage until the start of your next turn. For each damage that you would take, gain 1 &f token instead. If this card is face-up in the Storyline and you have 4 or more Action tokens, discard all your Action tokens and your hand."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Sunfire",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Absorb Solar Radiation",
+        "specialAbility": "Gain 1 &f token for each Location with no Civilians or Thugs."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Absorb Solar Radiation",
+        "specialAbility": "Gain 1 &f token for each Location with no Civilians or Thugs."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Solar Flare",
+        "specialAbility": "Deal 1 damage to EVERYTHING in an adjacent location and discard all Civilians there."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Solar Flare",
+        "specialAbility": "Deal 1 damage to EVERYTHING in an adjacent location and discard all Civilians there."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Sunspot",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Solar Radiation Absorption",
+        "specialAbility": "At the end of your turn, gain 1 &m, 🟊 or &f token for each different Location you visited this turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Solar Radiation Absorption",
+        "specialAbility": "At the end of your turn, gain 1 &m, 🟊 or &f token for each different Location you visited this turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Solar Radiation Absorption",
+        "specialAbility": "At the end of your turn, gain 1 &m, 🟊 or &f token for each different Location you visited this turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Solar Re-Channeling",
+        "specialAbility": "Gain 1 &w token. You may turn any Action tokens you have into &w tokens."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Solar Re-Channeling",
+        "specialAbility": "Gain 1 &w token. You may turn any Action tokens you have into &w tokens."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Solar Re-Channeling",
+        "specialAbility": "Gain 1 &w token. You may turn any Action tokens you have into &w tokens."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Thing",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "It's Clobberin' Time",
+        "specialAbility": "&f&f against a single target in your location. Then &f&f against a different target there."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Teamwork",
+        "specialAbility": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 &f token from the pool to the Fantastic Four card."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Teamwork",
+        "specialAbility": "Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 &f token from the pool to the Fantastic Four card."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Rock-like Skin",
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage during each Villain turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Thor",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Mjolnir",
+        "specialAbility": "&f&f&f against a single enemy in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Mjolnir",
+        "specialAbility": "&f&f&f against a single enemy in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Mjolnir",
+        "specialAbility": "&f&f&f against a single enemy in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Valkyrie",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Warsong",
+        "specialAbility": "You may move to any Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Warsong",
+        "specialAbility": "You may move to any Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Warsong",
+        "specialAbility": "You may move to any Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Venom",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Regeneration",
+        "specialAbility": "You may draw cards until you have 3 in your hand."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Tracking",
+        "specialAbility": "You can move to any Location and &f there."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Symbiote Enhancement",
+        "specialAbility": "&m&f"
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Vision",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Evolving Intellect",
+        "specialAbility": "Gain a &w token for each Location with no empty Thug/Civilian slots."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Intangibility",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Solar Gem Blast",
+        "specialAbility": "Add all &f at the bottom of the last 4 Hero cards in the Storyline. Deal that much damage to a single enemy in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "War Machine",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Rocket Launcher",
+        "specialAbility": "&f&f in an adjacent Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Strafing Run",
+        "specialAbility": "&f&f then &m"
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Beam Weapon",
+        "specialAbility": "&f in an adjacent Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Warlock",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Nanite Weapon",
+        "specialAbility": "Gain 1 x token. Then you may freely exchange Action tokens with another Hero in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Nanite Weapon",
+        "specialAbility": "Gain 1 x token. Then you may freely exchange Action tokens with another Hero in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Techno-Organic Feeding",
+        "specialAbility": "Draw 1 card. Then discard 1 Crisis token from your Location or from another Hero in your Location (if possible)."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Techno-Organic Feeding",
+        "specialAbility": "Draw 1 card. Then discard 1 Crisis token from your Location or from another Hero in your Location (if possible)."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Techno-Organic Lifeform",
+        "specialAbility": "As long as this card is face-up in the Storyline, ignore the first Crisis token you receive during each Hero or Villain turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Warpath",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Superhuman Physical Abilities",
+        "specialAbility": "&f and draw 1 card."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Superhuman Physical Abilities",
+        "specialAbility": "&f and draw 1 card."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Acute Senses",
+        "specialAbility": "Look at the top card of the Master Plan deck and put it back on top."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Acute Senses",
+        "specialAbility": "Look at the top card of the Master Plan deck and put it back on top."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Wasp",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Shrink",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Wings",
+        "specialAbility": "You may move yourself and any number of Heroes from your Location to any other Location."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Energy Projection",
+        "specialAbility": "You can move to any Location and &f there."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Weapon X",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Healing Factor",
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage each Villain turn. If you do, your next Hero card must be played randomly."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Adamantium Claws",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Adamantium Claws",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Adamantium Claws",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Winter Soldier",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Expert Assassin",
+        "specialAbility": "Gain 2 &f tokens."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Expert Assassin",
+        "specialAbility": "Gain 2 &f tokens."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Expert Assassin",
+        "specialAbility": "Gain 2 &f tokens."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Wolfsbane",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Hyper-Keen Senses",
+        "specialAbility": "If, during the next Villain turn, the Villain ends their movement in your Location, you may immediately move to an adjacent one and &f&f there."
+      },
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Hyper-Keen Senses",
+        "specialAbility": "If, during the next Villain turn, the Villain ends their movement in your Location, you may immediately move to an adjacent one and &f&f there."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Feral Attack",
+        "specialAbility": "Defeat all Thugs in your Location."
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Feral Attack",
+        "specialAbility": "Defeat all Thugs in your Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Wolverine",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "w"
+        ],
+        "name": "Adamantium Claws",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Adamantium Claws",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Adamantium Claws",
+        "specialAbility": "&f&f"
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Healing Factor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "X-23",
+    "wave": 2,
+    "cards": [
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Master Martial Artist",
+        "specialAbility": "Double each &f on the previous Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ],
+        "name": "Master Martial Artist",
+        "specialAbility": "Double each &f on the previous Hero card in the Storyline."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Tactical Genius",
+        "specialAbility": "For each 🟊 you perform this turn, give 1 &m or 1 &f token from the pool to any Hero."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Tactical Genius",
+        "specialAbility": "For each 🟊 you perform this turn, give 1 &m or 1 &f token from the pool to any Hero."
+      },
+      {
+        "symbols": [
+          "f"
+        ],
+        "name": "Healing Factor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "hero",
+    "name": "Yondu",
+    "wave": 1,
+    "cards": [
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Turncoat",
+        "specialAbility": "You may turn each Civilian into a Thug, and each Thug into a Civilian at your Location."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Yaka Arrow Flurry",
+        "specialAbility": "Deal &f&f&f split as you like in your and adjacent Locations."
+      },
+      {
+        "symbols": [
+          null
+        ],
+        "name": "Yaka Arrow Whirlwind",
+        "specialAbility": "Starting from your Location and going clockwise, defeat 1 Thug in each Location. Only stop when there are no Thugs in the next Location."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  }
+]

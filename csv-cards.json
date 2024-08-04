@@ -1,0 +1,4177 @@
+[{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc84"
+  },
+  "Wave": 1,
+  "Hero": "Adam Warlock",
+  "Card 1/12": "Immortality: As long as this card is face-up in the Storyline, you cannot be forced to discard your last card.",
+  "Card 2/12": "Avatar of Life: The next Master Plan card will be played face down with no effect.",
+  "Card 3/12": "Quantum Magic: Look at the top 3 Master Plan cards and put them back on top in any order.",
+  "Guardians of\r\nthe Galaxy": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc85"
+  },
+  "Wave": 1,
+  "Hero": "Adam Warlock",
+  "Card 1/12": "#",
+  "Card 2/12": "🟊   ✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "#    #",
+  "Card 5/12": "➤   ➤",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "🟊   ✸",
+  "Card 10/12": "➤",
+  "Guardians of\r\nthe Galaxy": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc86"
+  },
+  "Wave": 1,
+  "Hero": "America Chavez",
+  "Card 1/12": "Star Portal: # #",
+  "Card 2/12": "Invulnerability: You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Energy Infusion: ✸ ✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc87"
+  },
+  "Wave": 1,
+  "Hero": "America Chavez",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc88"
+  },
+  "Wave": 2,
+  "Hero": "Angel",
+  "Card 1/12": "Attack from Above: Move to any Location and defeat 2 Thugs.",
+  "Card 2/12": "Attack from Above: Move to any Location and defeat 2 Thugs.",
+  "Card 3/12": "Worthington Industries Resources: Distribute 2 🟊 tokens from the pool among any number of Heroes.",
+  "Card 4/12": "Worthington Industries Resources: Distribute 2 🟊 tokens from the pool among any number of Heroes.",
+  "Champions": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc89"
+  },
+  "Wave": 2,
+  "Hero": "Angel",
+  "Card 1/12": "None",
+  "Card 2/12": "None",
+  "Card 3/12": "➤   ➤",
+  "Card 4/12": "➤   ➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Champions": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc8a"
+  },
+  "Wave": 1,
+  "Hero": "Ant-Man",
+  "Card 1/12": "Shrink: You cannot take any damage until the beginning of your next turn.",
+  "Card 2/12": "Grow: ➤ and then ✸✸ against a single target.",
+  "Card 3/12": "Quantum Leap: Swap this card with any of your face-up cards in the Storyline. That card becomes the one you played this turn.",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc8b"
+  },
+  "Wave": 1,
+  "Hero": "Ant-Man",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "None",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "🟊   🟊",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc8c"
+  },
+  "Wave": 2,
+  "Hero": "Apocalypse",
+  "Card 1/12": "Celestial Energy Manipulation: You MUST gain # # tokens. At the end of your turn, turn this card face down.",
+  "Card 2/12": "Celestial Energy Manipulation: You MUST gain # # tokens. At the end of your turn, turn this card face down.",
+  "Card 3/12": "Self Molecular Manipulation: You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down.",
+  "Card 4/12": "Self Molecular Manipulation: You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down.",
+  "Card 5/12": "Survival of the Fittest: You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+  "Card 6/12": "Survival of the Fittest: You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+  "Card 7/12": "Survival of the Fittest: You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+  "Card 8/12": "Immortality: Draw 1 card. As long as this card is face-up in the Storyline, when you are KO'd, the Villain doesn't activate their BAM or any alternate effect."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc8d"
+  },
+  "Wave": 2,
+  "Hero": "Apocalypse",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "#",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc8e"
+  },
+  "Wave": 2,
+  "Hero": "Archangel",
+  "Card 1/12": "Wing Shielding: You cannot take any damage until the beginning of your next turn.",
+  "Card 2/12": "Wing Shielding: You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Techno Organic Wings: ✸✸✸ in an adjacent location. ",
+  "Card 4/12": "Techno Organic Wings: ✸✸✸ in an adjacent location. ",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc8f"
+  },
+  "Wave": 2,
+  "Hero": "Archangel",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "➤",
+  "Card 10/12": "➤",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc90"
+  },
+  "Wave": 2,
+  "Hero": "Banshee",
+  "Card 1/12": "Stunning Waves: Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded.",
+  "Card 2/12": "Stunning Waves: Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded.",
+  "Card 3/12": "Sonic Blasts: ✸✸ in an adjacent location.",
+  "Card 4/12": "Sonic Blasts: ✸✸ in an adjacent location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc91"
+  },
+  "Wave": 2,
+  "Hero": "Banshee",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc92"
+  },
+  "Wave": 2,
+  "Hero": "Beast",
+  "Card 1/12": "Genius Intelligence: This turn you can treat 🟊 as #.",
+  "Card 2/12": "Genius Intelligence: This turn you can treat 🟊 as #.",
+  "Card 3/12": "Regenerating Factor: You may draw cards until you have 3 in your hand.",
+  "Card 4/12": "Regenerating Factor: You may draw cards until you have 3 in your hand.",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc93"
+  },
+  "Wave": 2,
+  "Hero": "Beast",
+  "Card 1/12": "🟊",
+  "Card 2/12": "🟊",
+  "Card 3/12": "➤   🟊",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   🟊",
+  "Card 9/12": "🟊   🟊",
+  "Card 10/12": "🟊",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc94"
+  },
+  "Wave": 2,
+  "Hero": "Beast (First Class)",
+  "Card 1/12": "Brilliant Student: Gain 1 ➤, 🟊 or ✸ token.",
+  "Card 2/12": "Brilliant Student: Gain 1 ➤, 🟊 or ✸ token.",
+  "Card 3/12": "Star Athlete: ➤ 🟊",
+  "Card 4/12": "Star Athlete: ➤ ✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc95"
+  },
+  "Wave": 2,
+  "Hero": "Beast (First Class)",
+  "Card 1/12": "➤   🟊",
+  "Card 2/12": "➤   🟊",
+  "Card 3/12": "🟊",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc96"
+  },
+  "Wave": 1,
+  "Hero": "Beta Ray Bill",
+  "Card 1/12": "Stormbreaker: ✸ ✸­­. Draw 1 card.",
+  "Card 2/12": "Stormbreaker: ✸ ✸­­. Draw 1 card.",
+  "Card 3/12": "Stormbreaker: ✸ ✸­­. Draw 1 card."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc97"
+  },
+  "Wave": 1,
+  "Hero": "Beta Ray Bill",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc98"
+  },
+  "Wave": 2,
+  "Hero": "Bishop",
+  "Card 1/12": "Energy Absorption: You gain 1 ✸ token. You may ignore 1 damage until the beginning of your next round.",
+  "Card 2/12": "Energy Absorption: You gain 1 ✸ token. You may ignore 1 damage until the beginning of your next round.",
+  "Card 3/12": "Energy Absorption: You gain 1 ✸ token. You may ignore 1 damage until the beginning of your next round.",
+  "Card 4/12": "Energy Resistance: As long as this card is face-up in the Storyline,  you cannot take any damage from adjacent locations.",
+  "Resistance Against\r\nApocalypse": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc99"
+  },
+  "Wave": 2,
+  "Hero": "Bishop",
+  "Card 1/12": "🟊",
+  "Card 2/12": "🟊",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Resistance Against\r\nApocalypse": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc9a"
+  },
+  "Wave": 1,
+  "Hero": "Black Cat",
+  "Card 1/12": "Cat Instincts: Gain any combination of 2 ➤, 🟊 or ✸ tokens.",
+  "Card 2/12": "Cat Instincts: Gain any combination of 2 ➤, 🟊 or ✸ tokens.",
+  "Card 3/12": "Cat Luck: When the next master Plan card is revealed, you may put it on the bottom and draw another one instead.",
+  "Card 4/12": "Cat Luck: When the next master Plan card is revealed, you may put it on the bottom and draw another one instead.",
+  "Card 5/12": "Cat Claws: When the next master Plan card is revealed, you may put it on the bottom and draw another one instead.",
+  "Card 6/12": "Cat Claws: When the next master Plan card is revealed, you may put it on the bottom and draw another one instead.",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc9b"
+  },
+  "Wave": 1,
+  "Hero": "Black Cat",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "✸",
+  "Card 6/12": "✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc9c"
+  },
+  "Wave": 1,
+  "Hero": "Black Panther",
+  "Card 1/12": "Panther Habit: 🟊 ✸",
+  "Card 2/12": "Panther Habit: ➤ ✸",
+  "Card 3/12": "Panther Habit: ➤ 🟊",
+  "Defenders": "x",
+  "Illuminati": "x",
+  "Wakandans": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc9d"
+  },
+  "Wave": 1,
+  "Hero": "Black Panther",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Defenders": "x",
+  "Illuminati": "x",
+  "Wakandans": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc9e"
+  },
+  "Wave": 1,
+  "Hero": "Black Widow",
+  "Card 1/12": "Interrogate: Look at the top card of the Master Plan deck. You may place it on the bottom.",
+  "Card 2/12": "Interrogate: Look at the top card of the Master Plan deck. You may place it on the bottom.",
+  "Card 3/12": "Interrogate: Look at the top card of the Master Plan deck. You may place it on the bottom.",
+  "Avengers": "x",
+  "Avengers, Savage": "x",
+  "Champions": "x",
+  "Infinity Watch": "x",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cc9f"
+  },
+  "Wave": 1,
+  "Hero": "Black Widow",
+  "Card 1/12": "✸",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Avengers": "x",
+  "Avengers, Savage": "x",
+  "Champions": "x",
+  "Infinity Watch": "x",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca0"
+  },
+  "Wave": 1,
+  "Hero": "Blade",
+  "Card 1/12": "Hunter Skills: Double each ✸ you use against a single enemy this turn.",
+  "Card 2/12": "Bloodbath: Defeat all Thugs in your Location.",
+  "Card 3/12": "Vampiric Healing: Draw 1 card."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca1"
+  },
+  "Wave": 1,
+  "Hero": "Blade",
+  "Card 1/12": "✸",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca2"
+  },
+  "Wave": 2,
+  "Hero": "Blink",
+  "Card 1/12": "Warp Portals: Move to any Location. Then you may move any Heroes to your Location.",
+  "Card 2/12": "Warp Portals: Move to any Location. Then you may move any Heroes to your Location.",
+  "Card 3/12": "Warp Portals: Move to any Location. Then you may move any Heroes to your Location.",
+  "Card 4/12": "Warp Portals: Move to any Location. Then you may move any Heroes to your Location.",
+  "Resistance Against\r\nApocalypse": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca3"
+  },
+  "Wave": 2,
+  "Hero": "Blink",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Resistance Against\r\nApocalypse": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca4"
+  },
+  "Wave": 2,
+  "Hero": "Bob of Hydra",
+  "Card 1/12": "Messing Stuff Up: # #. Draw a Master Plan card and add it face down in the Storyline, OR give 1 Crisis token to each Hero if there are effects in the game that use them.",
+  "Card 2/12": "Throw Clumsily: Give 2 ✸ tokens from the pool to another Hero in your location. Accelerate the next Villain turn by 1 card.",
+  "Card 3/12": "Run Away: Until the beginning of your next turn, if a Villain ends their movement in your Location, you MUST move to the next clockwise Location.",
+  "Card 4/12": "Plan Z: Add 2 Civilian, 2 Thug, or 1 Threat token from the pool to the corresponding Mission card of your choice. Accelerate the next Villain turn by 1 card.",
+  "Card 5/12": "Accidentally Heroic: Clear a Threat card in your Location. Then discard all cards from your hand to the bottom of your deck.",
+  "Card 6/12": "I Wish I Joined AIM Instead: Gain 1 # token. Each other Hero must discard 1 Action token if they have any.",
+  "Card 7/12": "Deadpool's Pet: Until the beginning of your next turn, if you have to discard cards, you can have hero Deadpool discard that number of cards instead.",
+  "Deadpool\r\nTeam-up": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca5"
+  },
+  "Wave": 2,
+  "Hero": "Bob of Hydra",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "🟊",
+  "Card 6/12": "🟊",
+  "Card 7/12": "✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Deadpool\r\nTeam-up": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca6"
+  },
+  "Wave": 2,
+  "Hero": "Boom-Boom",
+  "Card 1/12": "Time Bomb: Place a Bomb token in your Location or an adjacent one. At the start of the next Villain turn, remove the token, deal 1 damage to EVERYTHING in the location, and discard all Civilians there.",
+  "Card 2/12": "Time Bomb: Place a Bomb token in your Location or an adjacent one. At the start of the next Villain turn, remove the token, deal 1 damage to EVERYTHING in the location, and discard all Civilians there.",
+  "Card 3/12": "Meltdown: ✸ ­against a single target in an adjacent location.",
+  "Card 4/12": "Meltdown: ✸ ­against a single target in an adjacent location.",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca7"
+  },
+  "Wave": 2,
+  "Hero": "Boom-Boom",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca8"
+  },
+  "Wave": 2,
+  "Hero": "Cable",
+  "Card 1/12": "Technoactive Manipulation: Discard 1 card from your hand to the bottom of your deck to perform # #.",
+  "Card 2/12": "Technoactive Manipulation: Discard 1 card from your hand to the bottom of your deck to perform # #.",
+  "Card 3/12": "Techno-Organic Physiology: ✸ and you may draw cards until you have 3 in your hand.",
+  "Card 4/12": "Techno-Organic Physiology: ✸ and you may draw cards until you have 3 in your hand.",
+  "Card 5/12": "Psychic Mastery: Each Hero draws 1 card, then discards 1 card from their hand to the bottom of their deck.",
+  "Card 6/12": "Psychic Mastery: Each Hero draws 1 card, then discards 1 card from their hand to the bottom of their deck.",
+  "Deadpool\r\nTeam-up": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cca9"
+  },
+  "Wave": 2,
+  "Hero": "Cable",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "#",
+  "Card 5/12": "🟊",
+  "Card 6/12": "🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Deadpool\r\nTeam-up": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccaa"
+  },
+  "Wave": 2,
+  "Hero": "Cannonball",
+  "Card 1/12": "Energy Field Propulsion: This turn, each time you perform a ➤ action, gain a ✸ token.",
+  "Card 2/12": "Energy Field Propulsion: This turn, each time you perform a ➤ action, gain a ✸ token.",
+  "Card 3/12": "Blast Field: Gain 1 ➤ token. You cannot take any damage until the beginning of your next turn.",
+  "Card 4/12": "Blast Field: Gain 1 ➤ token. You cannot take any damage until the beginning of your next turn.",
+  "New Mutants": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccab"
+  },
+  "Wave": 2,
+  "Hero": "Cannonball",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "New Mutants": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccac"
+  },
+  "Wave": 1,
+  "Hero": "Captain America",
+  "Card 1/12": "Leadership: Give 1 # token from the pool to another Hero.",
+  "Card 2/12": "Leadership: Give 1 # token from the pool to another Hero.",
+  "Card 3/12": "Leadership: Give 1 # token from the pool to another Hero.",
+  "Avengers": "x",
+  "Avengers, New": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccad"
+  },
+  "Wave": 1,
+  "Hero": "Captain America",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "➤",
+  "Avengers": "x",
+  "Avengers, New": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccae"
+  },
+  "Wave": 2,
+  "Hero": "Captain Britain",
+  "Card 1/12": "Channel Interdimensional Energy: Draw 1 card OR gain any combination of 2 ➤, 🟊 or ✸ tokens.",
+  "Card 2/12": "Channel Interdimensional Energy: Draw 1 card OR gain any combination of 2 ➤, 🟊 or ✸ tokens.",
+  "Card 3/12": "Channel Interdimensional Energy: Draw 1 card OR gain any combination of 2 ➤, 🟊 or ✸ tokens.",
+  "Card 4/12": "Channel Interdimensional Energy: Draw 1 card OR gain any combination of 2 ➤, 🟊 or ✸ tokens.",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccaf"
+  },
+  "Wave": 2,
+  "Hero": "Captain Britain",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb0"
+  },
+  "Wave": 1,
+  "Hero": "Captain Marvel",
+  "Card 1/12": "Photon Blast: ­­✸ ✸ in one adjacent Location.",
+  "Card 2/12": "Photon Blast: ­­✸ ✸ in one adjacent Location.",
+  "Card 3/12": "Photon Blast: ­­✸ ✸ in one adjacent Location.",
+  "Avengers": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb1"
+  },
+  "Wave": 1,
+  "Hero": "Captain Marvel",
+  "Card 1/12": "✸",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "#",
+  "Card 10/12": "➤",
+  "Avengers": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb2"
+  },
+  "Wave": 2,
+  "Hero": "Cloak",
+  "Card 1/12": "Darkforce Channeling: Remove both Cloak and a Henchman in his Location from play. At the beginning of your next turn. Put them in any Location with no Threat and deal 2 damage to that Henchman.",
+  "Card 2/12": "Darkforce Channeling: Remove both Cloak and a Henchman in his Location from play. At the beginning of your next turn. Put them in any Location with no Threat and deal 2 damage to that Henchman.",
+  "Card 3/12": "Darkforce Teleportation: As long as this card is face-up in the Storyline, you can use ➤ to move to any Location. If Dagger is in your Location, she can move with you.",
+  "Card 4/12": "Darkforce Teleportation: As long as this card is face-up in the Storyline, you can use ➤ to move to any Location. If Dagger is in your Location, she can move with you."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb3"
+  },
+  "Wave": 2,
+  "Hero": "Cloak",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb4"
+  },
+  "Wave": 2,
+  "Hero": "Colossus",
+  "Card 1/12": "Fastball Special: Move another Hero from your location to an adjacent location. That Hero shows their hand and does as many ✸ there as are shown on the bottom of their cards.",
+  "Card 2/12": "Fastball Special: Move another Hero from your location to an adjacent location. That Hero shows their hand and does as many ✸ there as are shown on the bottom of their cards.",
+  "Card 3/12": "Fastball Special: Move another Hero from your location to an adjacent location. That Hero shows their hand and does as many ✸ there as are shown on the bottom of their cards.",
+  "Card 4/12": "Organic Steel Body: As long as this card is face-up in the Storyline, you may ignore 1 damage in each Villain turn.",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb5"
+  },
+  "Wave": 2,
+  "Hero": "Colossus",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb6"
+  },
+  "Wave": 2,
+  "Hero": "Cyclops",
+  "Card 1/12": "Leadership: Give 1 # token from the pool to another Hero.",
+  "Card 2/12": "Leadership: Give 1 # token from the pool to another Hero.",
+  "Card 3/12": "Optic Blasts: ✸­ in both adjacent Locations.",
+  "Card 4/12": "Optic Blasts: ✸­ in both adjacent Locations."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb7"
+  },
+  "Wave": 2,
+  "Hero": "Cyclops",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb8"
+  },
+  "Wave": 2,
+  "Hero": "Cyclops (First Class)",
+  "Card 1/12": "Precision Blast: ✸ in an adjacent Location.",
+  "Card 2/12": "Precision Blast: ✸ in an adjacent Location.",
+  "Card 3/12": "Optic Blasts: Deal 1 damage to EVERYTHING else in this Location (except Havok), and discard all Civilians here.",
+  "Card 4/12": "Optic Blasts: Deal 1 damage to EVERYTHING else in this Location (except Havok), and discard all Civilians here."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccb9"
+  },
+  "Wave": 2,
+  "Hero": "Cyclops (First Class)",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "➤"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccba"
+  },
+  "Wave": 2,
+  "Hero": "Dagger",
+  "Card 1/12": "Lightforce Generation: As long as this card is face-up in the Storyline, if you start this turn with 2 or more cards in hand (before the draw step), you may immediately play a free 🟊 in your Location.",
+  "Card 2/12": "Lightforce Purge: Turn up to 2 Thugs in your Location into Civilians, and then rescue them.",
+  "Card 3/12": "Lightforce Daggers: ✸ against up to 3 different targets in your Location.",
+  "Card 4/12": "Bond: If Cloak is in your Location, he may draw cards until there are 3 in his hand.",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccbb"
+  },
+  "Wave": 2,
+  "Hero": "Dagger",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccbc"
+  },
+  "Wave": 1,
+  "Hero": "Daredevil",
+  "Card 1/12": "Radar Sense: Gain either a 🟊 or ✸ token for each Location you enter this turn.",
+  "Card 2/12": "The Man Without Fear: Gain 1 ➤ token for each Civilian you rescue this turn.",
+  "Card 3/12": "Blind Justice: Gain 1 ➤ token for each Thug you defeat this turn.",
+  "Avengers, Savage": "x",
+  "Defenders": "x",
+  "Defenders,\nManhattan": "x",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccbd"
+  },
+  "Wave": 1,
+  "Hero": "Daredevil",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "🟊",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers, Savage": "x",
+  "Defenders": "x",
+  "Defenders,\nManhattan": "x",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccbe"
+  },
+  "Wave": 2,
+  "Hero": "Dazzler",
+  "Card 1/12": "Light Projection: Gain 🟊 tokens equal to the number of Thugs in your Location.",
+  "Card 2/12": "Light Projection: Gain 🟊 tokens equal to the number of Thugs in your Location.",
+  "Card 3/12": "Sound Conversion: Gain ✸ tokens equal to the number of Civilians in your Location.",
+  "Card 4/12": "Sound Conversion: Gain ✸ tokens equal to the number of Civilians in your Location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccbf"
+  },
+  "Wave": 2,
+  "Hero": "Dazzler",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc0"
+  },
+  "Wave": 2,
+  "Hero": "Deadpool",
+  "Card 1/12": "Unpredictable: Gain 1 # token. On your next turn, you must play your Hero card randomly.",
+  "Card 2/12": "Unpredictable: Gain 1 # token. On your next turn, you must play your Hero card randomly.",
+  "Card 3/12": "Regenerative Healing Factor: As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+  "Card 4/12": "Breaking the Fourth Wall: You must draw the top 2 cards from the Deadpool Chaos Challenge Deck, choose 1, and resolve it.",
+  "Card 5/12": "Breaking the Fourth Wall: You must draw the top 2 cards from the Deadpool Chaos Challenge Deck, choose 1, and resolve it.",
+  "Card 6/12": "Resistance to Everything: Any special effects on the next Master Plan card played have no effect on Deadpool.",
+  "Card 7/12": "Fight Through the Pain: Gain 1 ✸ token. You may ignore 1 damage until the beginning of your next turn.",
+  "Card 8/12": "Fight Through the Pain: Gain 1 ✸ token. You may ignore 1 damage until the beginning of your next turn.",
+  "Card 9/12": "Maximum Effort: ✸✸✸ against a single target in your Location.",
+  "Card 10/12": "Maximum Effort: ✸✸✸ against a single target in your Location.",
+  "Deadpool\r\nTeam-up": "x",
+  "Uncanny X-Force": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc1"
+  },
+  "Wave": 2,
+  "Hero": "Deadpool",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤",
+  "Card 6/12": "🟊",
+  "Card 7/12": "✸",
+  "Card 8/12": "✸",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Deadpool\r\nTeam-up": "x",
+  "Uncanny X-Force": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc2"
+  },
+  "Wave": 2,
+  "Hero": "Doctor Doom",
+  "Card 1/12": "Mine is the Power: This turn you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline. Then turn them all face down.",
+  "Card 2/12": "Mine is the Power: This turn you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline. Then turn them all face down.",
+  "Card 3/12": "Mine is the Power: This turn you can use the symbols at the bottom of the 3 previous Hero cards in the Storyline. Then turn them all face down.",
+  "Card 4/12": "Pain is for Lesser Men: As long as this card is face-up in the Storyline, for each damage you take during a Villain turn, you may gain 1 ➤, 🟊 or ✸ token.",
+  "Avengers, Savage": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc3"
+  },
+  "Wave": 2,
+  "Hero": "Doctor Doom",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "#",
+  "Card 9/12": "#",
+  "Card 10/12": "✸",
+  "Avengers, Savage": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc4"
+  },
+  "Wave": 1,
+  "Hero": "Doctor Strange",
+  "Card 1/12": "Eye of Agamotto: You may take any Master Plan card from the Storyline and reshuffle it into the Master Plan deck.",
+  "Card 2/12": "Cloak of Levitation: Either ✸ in an adjacent Location or ➤.",
+  "Card 3/12": "Dimensional Portal: Move to any Location.",
+  "Card 4/12": "Book of Vishanti: You may search the Master Plan deck, remove one card from the game, then reshuffle the deck.",
+  "Card 5/12": "Orb of Agamotto: As long as this card is face-up in the Storyline, the top card of the Master Plan deck is revealed.",
+  "Avengers, Savage": "x",
+  "Defenders": "x",
+  "Illuminati": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc5"
+  },
+  "Wave": 1,
+  "Hero": "Doctor Strange",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "🟊",
+  "Card 5/12": "None",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   🟊",
+  "Card 8/12": "➤   🟊",
+  "Card 9/12": "🟊   🟊",
+  "Card 10/12": "✸",
+  "Avengers, Savage": "x",
+  "Defenders": "x",
+  "Illuminati": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc6"
+  },
+  "Wave": 2,
+  "Hero": "Domino",
+  "Card 1/12": "Probability Manipulation: If this is the latest Domino card in the Storyline, BAM effects of Henchmen are canceled during the next Villain turn.",
+  "Card 2/12": "Probability Manipulation: If this is the latest Domino card in the Storyline, BAM effects of Henchmen are canceled during the next Villain turn.",
+  "Card 3/12": "Probability Manipulation: If this is the latest Domino card in the Storyline, BAM effects of Henchmen are canceled during the next Villain turn.",
+  "Card 4/12": "Master Assassin: ✸✸✸ to a single Villain or Henchman in your Location.",
+  "Deadpool\r\nTeam-up": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc7"
+  },
+  "Wave": 2,
+  "Hero": "Domino",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Deadpool\r\nTeam-up": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc8"
+  },
+  "Wave": 2,
+  "Hero": "Doop",
+  "Card 1/12": "Professional Videographer: As long as this card is face-up in the Storyline, if another Hero performs 2 or more 🟊 or ✸ in your Location, that Hero gains 1 # token.",
+  "Card 2/12": "Dimensional Gate: Move to any Location and # # there.",
+  "Card 3/12": "Psionic Mass Control: Relocate any number of Civilians and Thugs between Locations.",
+  "Card 4/12": "Travel Across the Margins: At the end of your turn, swap this card with any Hero card in the Storyline.",
+  "Card 5/12": "Travel Across the Margins: At the end of your turn, swap this card with any Hero card in the Storyline.",
+  "Card 6/12": "Travel Across the Margins: At the end of your turn, swap this card with any Hero card in the Storyline.",
+  "Card 7/12": "Accelerated Regeneration: As long as this card is face-up in the Storyline, gain 1 # token whenever you are KO'd.",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccc9"
+  },
+  "Wave": 2,
+  "Hero": "Doop",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤",
+  "Card 6/12": "➤",
+  "Card 7/12": "🟊",
+  "Card 8/12": "#",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccca"
+  },
+  "Wave": 1,
+  "Hero": "Drax",
+  "Card 1/12": "Revenge: Move to the next clockwise Location with any enemies and ✸ there.",
+  "Card 2/12": "Revenge: Move to the next clockwise Location with any enemies and ✸ there.",
+  "Card 3/12": "Revenge: Move to the next clockwise Location with any enemies and ✸ there.",
+  "Guardians of\r\nthe Galaxy": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cccb"
+  },
+  "Wave": 1,
+  "Hero": "Drax",
+  "Card 1/12": "✸",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Guardians of\r\nthe Galaxy": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cccc"
+  },
+  "Wave": 1,
+  "Hero": "Elektra",
+  "Card 1/12": "Master Assassin: ✸✸",
+  "Card 2/12": "Ninja Training: ✸✸, OR you cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Sai: Deal ✸ in both adjacent Locations.",
+  "Avengers, Savage": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cccd"
+  },
+  "Wave": 1,
+  "Hero": "Elektra",
+  "Card 1/12": "➤",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Avengers, Savage": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccce"
+  },
+  "Wave": 2,
+  "Hero": "Emma Frost",
+  "Card 1/12": "Omega Class Telepath: This turn, you can use the symbols at the bottom of the 2 previous Hero cards in the Storyline.",
+  "Card 2/12": "Omega Class Telepath: This turn, you can use the symbols at the bottom of the 2 previous Hero cards in the Storyline.",
+  "Card 3/12": "Organic Diamond Form: If you have less than 3 cards in hand, draw 1 card. You cannot take any damage until the beginning of your next turn.",
+  "Card 4/12": "Organic Diamond Form: If you have less than 3 cards in hand, draw 1 card. You cannot take any damage until the beginning of your next turn."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cccf"
+  },
+  "Wave": 2,
+  "Hero": "Emma Frost",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd0"
+  },
+  "Wave": 1,
+  "Hero": "Falcon",
+  "Card 1/12": "Air Strike: Move to any Location and ✸ there.",
+  "Card 2/12": "Air Strike: Move to any Location and ✸ there.",
+  "Card 3/12": "Air Strike: Move to any Location and ✸ there.",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd1"
+  },
+  "Wave": 1,
+  "Hero": "Falcon",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd2"
+  },
+  "Wave": 2,
+  "Hero": "Fantomex",
+  "Card 1/12": "Analytic Intelligence: Look at the top card of the Master Plan deck and put it back on top.",
+  "Card 2/12": "Analytic Intelligence: Look at the top card of the Master Plan deck and put it back on top.",
+  "Card 3/12": "Misdirection: As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately move to an adjacent location.",
+  "Card 4/12": "Cyber Mind: As long as this card is face-up in the Storyline, at the end of each Villain turn, you may perform 1 🟊 or 1 ✸ in the Villain's Location.",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd3"
+  },
+  "Wave": 2,
+  "Hero": "Fantomex",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "➤",
+  "Card 4/12": "None",
+  "Card 5/12": "#",
+  "Card 6/12": "#",
+  "Card 7/12": "#",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd4"
+  },
+  "Wave": 2,
+  "Hero": "Feral",
+  "Card 1/12": "Acute Senses: The next time you would take 1 damage or be assigned 1 Crisis token, you may flip this card face down to avoid it.",
+  "Card 2/12": "Acute Senses: The next time you would take 1 damage or be assigned 1 Crisis token, you may flip this card face down to avoid it.",
+  "Card 3/12": "Claws and Teeth: ✸✸",
+  "Card 4/12": "Claws and Teeth: ✸✸",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd5"
+  },
+  "Wave": 2,
+  "Hero": "Feral",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd6"
+  },
+  "Wave": 2,
+  "Hero": "Firestar",
+  "Card 1/12": "Microwave Heat Emission: ✸✸ against a single target in your location.",
+  "Card 2/12": "Microwave Heat Emission: ✸✸ against a single target in your location.",
+  "Card 3/12": "Microwave Energy Manipulation: 🟊🟊",
+  "Card 4/12": "Microwave Energy Manipulation: 🟊🟊",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd7"
+  },
+  "Wave": 2,
+  "Hero": "Firestar",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd8"
+  },
+  "Wave": 2,
+  "Hero": "Forge",
+  "Card 1/12": "Spirit Sight: Pick another Location. This turn, you may use your 🟊 and ✸ there.",
+  "Card 2/12": "Spirit Sight: Pick another Location. This turn, you may use your 🟊 and ✸ there.",
+  "Card 3/12": "Intuitive Genius: This turn, for each 🟊 you use to clear Threats, place 🟊🟊.",
+  "Card 4/12": "Intuitive Genius: This turn, for each 🟊 you use to clear Threats, place 🟊🟊.",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccd9"
+  },
+  "Wave": 2,
+  "Hero": "Forge",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccda"
+  },
+  "Wave": 2,
+  "Hero": "Gambit",
+  "Card 1/12": "Master Thief: Gain 1 # token and take 1 Action token of your choice from each other Hero.",
+  "Card 2/12": "Master Thief: Gain 1 # token and take 1 Action token of your choice from each other Hero.",
+  "Card 3/12": "Molecular Acceleration: Discard any token to ✸✸✸ in an adjacent Location. ",
+  "Card 4/12": "Molecular Acceleration: Discard any token to ✸✸✸ in an adjacent Location. "
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccdb"
+  },
+  "Wave": 2,
+  "Hero": "Gambit",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "#",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   🟊",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccdc"
+  },
+  "Wave": 1,
+  "Hero": "Gamora",
+  "Card 1/12": "Deadliest in the Galaxy: Each # or ✸ token you spend this turn gives you an additional ✸ action.",
+  "Card 2/12": "Deadliest in the Galaxy: Each # or ✸ token you spend this turn gives you an additional ✸ action.",
+  "Card 3/12": "Deadliest in the Galaxy: Each # or ✸ token you spend this turn gives you an additional ✸ action.",
+  "Guardians of\r\nthe Galaxy": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccdd"
+  },
+  "Wave": 1,
+  "Hero": "Gamora",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Guardians of\r\nthe Galaxy": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccde"
+  },
+  "Wave": 1,
+  "Hero": "Ghost Rider (R Reyes)",
+  "Card 1/12": "Hellfire Manipulation: Deal ✸✸✸ to a single enemy in your Location.",
+  "Card 2/12": "Mystical Chain: Deal ✸✸ to each Thug in your Location.",
+  "Card 3/12": "Supernatural Awareness: 🟊 and ✸ then draw 1 card.",
+  "Avengers, Savage": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccdf"
+  },
+  "Wave": 1,
+  "Hero": "Ghost Rider (R Reyes)",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers, Savage": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce0"
+  },
+  "Wave": 1,
+  "Hero": "Ghost-Spider",
+  "Card 1/12": "Free-Style Beatdown: Defeat all Thugs in this Location.",
+  "Card 2/12": "Spider-Sense: You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Web Weaver: Swap two Threat cards in play.",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce1"
+  },
+  "Wave": 1,
+  "Hero": "Ghost-Spider",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "🟊",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce2"
+  },
+  "Wave": 1,
+  "Hero": "Groot",
+  "Card 1/12": "I am Groot?: Move any other Hero to a Location adjacent to them.",
+  "Card 2/12": "I am Groot?: Move any other Hero to a Location adjacent to them.",
+  "Card 3/12": "I am Groot?: Move any other Hero to a Location adjacent to them.",
+  "Card 4/12": "We are Groot: You and another Hero draw 1 card.",
+  "Card 5/12": "We are Groot: You and another Hero draw 1 card.",
+  "Card 6/12": "We are Groot: You and another Hero draw 1 card.",
+  "Card 7/12": "I am Groot!: You and another Hero deal ✸ in your respective Locations.",
+  "Card 8/12": "I am Groot!: You and another Hero deal ✸ in your respective Locations.",
+  "Card 9/12": "I am Groot!: You and another Hero deal ✸ in your respective Locations.",
+  "Card 10/12": "I am Groot!: You and another Hero deal ✸ in your respective Locations.",
+  "Guardians of\r\nthe Galaxy": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce3"
+  },
+  "Wave": 1,
+  "Hero": "Groot",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "🟊",
+  "Card 5/12": "🟊",
+  "Card 6/12": "🟊",
+  "Card 7/12": "✸",
+  "Card 8/12": "✸",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Guardians of\r\nthe Galaxy": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce4"
+  },
+  "Wave": 2,
+  "Hero": "Guardian",
+  "Card 1/12": "Leadership: Give 1 # token from the pool to another Hero.",
+  "Card 2/12": "Alpha Flight: Gain 1 # token for each face-up Alpha Flight card in the Storyline.",
+  "Card 3/12": "Battlesuit Armor: You cannot take any damage until the beginning of your next turn.",
+  "Card 4/12": "Electromagnetic Beams: ✸ against up to 2 different targets in your Location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce5"
+  },
+  "Wave": 2,
+  "Hero": "Guardian",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce6"
+  },
+  "Wave": 2,
+  "Hero": "Gwenpool",
+  "Card 1/12": "Send to Gutter Space: Remove both Gwenpool and a Henchman in her Location from play. At the beginning of your next turn, place them in any location with no Threat and deal 2 damage to that Henchman.",
+  "Card 2/12": "Send to Gutter Space: Remove both Gwenpool and a Henchman in her Location from play. At the beginning of your next turn, place them in any location with no Threat and deal 2 damage to that Henchman.",
+  "Card 3/12": "Jeffrey the Land Shark: As long as this card is face-up in the Storyline, at the end of your turn, you can deal 1 damage to a Thug or Henchman in your Location that you did not damage this turn.",
+  "Card 4/12": "No Consequences in a Fictional World: Discard cards until you have 1 in your hand. For each card discarded, deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there.",
+  "Card 5/12": "No Consequences in a Fictional World: Discard cards until you have 1 in your hand. For each card discarded, deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce7"
+  },
+  "Wave": 2,
+  "Hero": "Gwenpool",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "🟊",
+  "Card 5/12": "🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊",
+  "Card 8/12": "✸",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce8"
+  },
+  "Wave": 2,
+  "Hero": "Havok",
+  "Card 1/12": "Absorb Cosmic Energy: Gain 1 ✸ token. You cannot take any damage until the beginning of your next turn.",
+  "Card 2/12": "Absorb Cosmic Energy: Gain 1 ✸ token. You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Plasma Blast: ✸✸✸ in 1 adjacent Location.",
+  "Card 4/12": "Plasma Blast: ✸✸✸ in 1 adjacent Location.",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cce9"
+  },
+  "Wave": 2,
+  "Hero": "Havok",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "None",
+  "Card 4/12": "None",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccea"
+  },
+  "Wave": 1,
+  "Hero": "Hawkeye",
+  "Card 1/12": "Master Marksman: This turn you may treat each symbol on the Storyline as  ✸✸.",
+  "Card 2/12": "Longshot: Deal ✸✸ in the opposite Location.",
+  "Card 3/12": "Martial Artist: Until the beginning of your next turn, any damage you would take can be redirected to enemies in your Location.",
+  "Avengers": "x",
+  "Avengers,\r\nWest Coast": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cceb"
+  },
+  "Wave": 1,
+  "Hero": "Hawkeye",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers": "x",
+  "Avengers,\r\nWest Coast": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccec"
+  },
+  "Wave": 2,
+  "Hero": "Hope Summers",
+  "Card 1/12": "Denying: The next Master Plan card is played face down in the Storyline with no affect. Then remove the top card of the Master Plan deck from play and flip this card face down.",
+  "Card 2/12": "Embracing Destiny: Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead.",
+  "Card 3/12": "Embracing Destiny: Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead.",
+  "Card 4/12": "Embracing Destiny: Discard 1 card to the bottom of your deck to clear the Threat card in your Location. If this is the first Embracing Destiny card in the Storyline, discard 2 cards instead.",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cced"
+  },
+  "Wave": 2,
+  "Hero": "Hope Summers",
+  "Card 1/12": "➤",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccee"
+  },
+  "Wave": 1,
+  "Hero": "Howard the Duck",
+  "Card 1/12": "Neutron Disintegrator: Deal damage to a Villain or Henchman in your Location until they have 1 Health. You cannot use any ✸ this turn.",
+  "Card 2/12": "No More Mister Nice Duck: Deal ✸✸ to each enemy in your Location.",
+  "Card 3/12": "Big Freaking Gun: Deal ✸✸ in any Location.",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccef"
+  },
+  "Wave": 1,
+  "Hero": "Howard the Duck",
+  "Card 1/12": "None",
+  "Card 2/12": "None",
+  "Card 3/12": "None",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "✸   ✸",
+  "Card 6/12": "➤",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf0"
+  },
+  "Wave": 1,
+  "Hero": "Hulk",
+  "Card 1/12": "Hulk Smash!: Deal 1 damage to EVERYTHING else in this Location. Discard all Civilians there.",
+  "Card 2/12": "Hulk Smash!: Deal 1 damage to EVERYTHING else in this Location. Discard all Civilians there.",
+  "Card 3/12": "Hulk Smash!: Deal 1 damage to EVERYTHING else in this Location. Discard all Civilians there.",
+  "Avengers": "x",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf1"
+  },
+  "Wave": 1,
+  "Hero": "Hulk",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "✸   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "🟊",
+  "Avengers": "x",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf2"
+  },
+  "Wave": 2,
+  "Hero": "Human Torch",
+  "Card 1/12": "Nova Flame: Discard 1 card from your hand to the bottom of your deck to deal 2 damage to EVERYTHING else in your Location. Discard all Civilians there.",
+  "Card 2/12": "Pyrogenesis: As long as this card is face-up in the Storyline, you can treat 🟊 as ✸.",
+  "Card 3/12": "Teamwork: Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 ➤ token from the pool to the Fantastic Four card.",
+  "Card 4/12": "Teamwork: Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 🟊 token from the pool to the Fantastic Four card.",
+  "Fantastic Four": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf3"
+  },
+  "Wave": 2,
+  "Hero": "Human Torch",
+  "Card 1/12": "➤   ✸",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Fantastic Four": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf4"
+  },
+  "Wave": 2,
+  "Hero": "Iceman",
+  "Card 1/12": "Organic Ice Body: You cannot take any damage until the beginning of your next turn.",
+  "Card 2/12": "Organic Ice Body: You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Cryokinesis: Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded.",
+  "Card 4/12": "Cryokinesis: Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded.",
+  "Champions": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf5"
+  },
+  "Wave": 2,
+  "Hero": "Iceman",
+  "Card 1/12": "➤   🟊",
+  "Card 2/12": "➤   ✸",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Champions": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf6"
+  },
+  "Wave": 2,
+  "Hero": "Iceman (First Class)",
+  "Card 1/12": "Freeze: Attach a Frozen token to a Villain in your Location. Next Villain turn, that Villain cannot move and the token is discarded.",
+  "Card 2/12": "Freeze: Attach a Frozen token to a Villain in your Location. Next Villain turn, that Villain cannot move and the token is discarded.",
+  "Card 3/12": "Ice Slide: Place a Frozen token in your Location. Heroes may leave this location without performing ➤. At the beginning of your next turn, discard the token.",
+  "Card 4/12": "Ice Slide: Place a Frozen token in your Location. Heroes may leave this location without performing ➤. At the beginning of your next turn, discard the token."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf7"
+  },
+  "Wave": 2,
+  "Hero": "Iceman (First Class)",
+  "Card 1/12": "➤   ✸",
+  "Card 2/12": "➤   ✸",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf8"
+  },
+  "Wave": 2,
+  "Hero": "Invisible Woman",
+  "Card 1/12": "Psionic Force Fields: Gain 2 # tokens.",
+  "Card 2/12": "Teamwork: Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 ➤ token from the pool to the Fantastic Four card.",
+  "Card 3/12": "Teamwork: Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 🟊 token from the pool to the Fantastic Four card.",
+  "Card 4/12": "Invisibility: As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may choose not to take any damage until the beginning of your next turn. If you do so, next turn you must play your card face down.",
+  "Fantastic Four": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccf9"
+  },
+  "Wave": 2,
+  "Hero": "Invisible Woman",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Fantastic Four": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccfa"
+  },
+  "Wave": 1,
+  "Hero": "Iron Fist",
+  "Card 1/12": "Chi Augmentation: Deal ✸✸ split as you like in your and adjacent Locations.",
+  "Card 2/12": "Chi Augmentation: Deal ✸✸ split as you like in your and adjacent Locations.",
+  "Card 3/12": "Chi Augmentation: Deal ✸✸ split as you like in your and adjacent Locations.",
+  "Defenders,\nManhattan": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccfb"
+  },
+  "Wave": 1,
+  "Hero": "Iron Fist",
+  "Card 1/12": "🟊",
+  "Card 2/12": "🟊",
+  "Card 3/12": "🟊",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Defenders,\nManhattan": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccfc"
+  },
+  "Wave": 1,
+  "Hero": "Iron Man",
+  "Card 1/12": "Advanced Combat Analysis: Distribute 2 ✸ tokens from the pool among any number of Heroes.",
+  "Card 2/12": "Power Recharge: You may draw cards until you have 3 in your hand.",
+  "Card 3/12": "Stark Resources: Distribute 2 ­➤ tokens from the pool among any number of Heroes.",
+  "Avengers": "x",
+  "Avengers, New": "x",
+  "Avengers,\r\nWest Coast": "x",
+  "Force  Works": "x",
+  "Illuminati": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccfd"
+  },
+  "Wave": 1,
+  "Hero": "Iron Man",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Avengers": "x",
+  "Avengers, New": "x",
+  "Avengers,\r\nWest Coast": "x",
+  "Force  Works": "x",
+  "Illuminati": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccfe"
+  },
+  "Wave": 2,
+  "Hero": "Jean Grey",
+  "Card 1/12": "Telepathy: Swap the previous Hero card in the Storyline with any other Hero card in the Storyline.",
+  "Card 2/12": "Telepathy: Swap the previous Hero card in the Storyline with any other Hero card in the Storyline.",
+  "Card 3/12": "Major Telekinesis: 🟊 ✸ split as you like in your and adjacent locations.",
+  "Card 4/12": "Major Telekinesis: 🟊 ✸ split as you like in your and adjacent locations."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0ccff"
+  },
+  "Wave": 2,
+  "Hero": "Jean Grey",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd00"
+  },
+  "Wave": 1,
+  "Hero": "Jessica Jones",
+  "Card 1/12": "Expert Detective: Remove the top card of the Master Plan deck. Gain # tokens equal to the movement number written on it.",
+  "Card 2/12": "Psionic Protection: You may draw cards until you have 3 in your hand.",
+  "Card 3/12": "Private Investigator: Reveal the top card of the master Plan deck. You may move to any Location.",
+  "Defenders,\nManhattan": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd01"
+  },
+  "Wave": 1,
+  "Hero": "Jessica Jones",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Defenders,\nManhattan": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd02"
+  },
+  "Wave": 2,
+  "Hero": "Jubilee",
+  "Card 1/12": "Explosive Light Blasts: ✸ against up to 3 different targets in your Location.",
+  "Card 2/12": "Explosive Light Blasts: ✸ against up to 3 different targets in your Location.",
+  "Card 3/12": "Psionic Shields: Ignore the direct effects of the next Villain BAM that would affect you (it can still affect other Heroes).",
+  "Card 4/12": "Psionic Shields: Ignore the direct effects of the next Villain BAM that would affect you (it can still affect other Heroes)."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd03"
+  },
+  "Wave": 2,
+  "Hero": "Jubilee",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd04"
+  },
+  "Wave": 2,
+  "Hero": "Kitty Pryde",
+  "Card 1/12": "Phasing Others: You can move another Hero with you this turn. Other Heroes in your Location cannot take any damage until the beginning of your next turn.",
+  "Card 2/12": "Phasing Others: You can move another Hero with you this turn. Other Heroes in your Location cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Phasing: You cannot take any damage until the beginning of your next turn. For each damage you would take, gain 1 🟊 token instead.",
+  "Card 4/12": "Phasing: You cannot take any damage until the beginning of your next turn. For each damage you would take, gain 1 🟊 token instead.",
+  "Card 5/12": "Lockheed, Go: Put Lockheed in play in your Location or an adjacent one. As long as this card is face-up in the Storyline, you may use your ➤ to move Lockheed.",
+  "Card 6/12": "Lockheed Fire Breath: ✸✸ in the Location Lockheed is in.",
+  "Card 7/12": "Lockheed Fire Breath: ✸✸ in the Location Lockheed is in.",
+  "Card 8/12": "Lockheed Fire Breath: ✸✸ in the Location Lockheed is in.",
+  "Card 9/12": "Help Them, Lockheed: 🟊 in the Location Lockheed is in.",
+  "Card 10/12": "Get Them, Lockheed: ­✸ n the Location Lockheed is in.",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd05"
+  },
+  "Wave": 2,
+  "Hero": "Kitty Pryde",
+  "Card 1/12": "➤   🟊",
+  "Card 2/12": "➤   🟊",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤",
+  "Card 6/12": "➤",
+  "Card 7/12": "🟊",
+  "Card 8/12": "✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd06"
+  },
+  "Wave": 1,
+  "Hero": "Korg",
+  "Card 1/12": "Kronan Fighter: ­­✸ in both adjacent Locations, OR ­­ ✸✸ in your Location.",
+  "Card 2/12": "Kronan Fighter: ­­✸ in both adjacent Locations, OR ­­ ✸✸ in your Location.",
+  "Card 3/12": "Kronan Fighter: ­­✸ in both adjacent Locations, OR ­­ ✸✸ in your Location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd07"
+  },
+  "Wave": 1,
+  "Hero": "Korg",
+  "Card 1/12": "✸",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd08"
+  },
+  "Wave": 2,
+  "Hero": "Lady Deadpool",
+  "Card 1/12": "Regenerative Healing Factor: As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+  "Card 2/12": "Rescuing Charles: Move to any Location with Civilians. Rescue 1 Civilian and defeat all Thugs there.",
+  "Card 3/12": "Rescuing Charles: Move to any Location with Civilians. Rescue 1 Civilian and defeat all Thugs there.",
+  "Card 4/12": "Resistance to Everything: Any special effects on the next Master Plan card played have no effect on Lady Deadpool.",
+  "Card 5/12": "Totally Unpredictable: Gain 1 # token. On your next turn, you must play your Hero card randomly.",
+  "Card 6/12": "Totally Unpredictable: Gain 1 # token. On your next turn, you must play your Hero card randomly.",
+  "Card 7/12": "Master Assassin: ✸✸✸ against a single target in your Location.",
+  "Card 8/12": "Master Assassin: ✸✸✸ against a single target in your Location.",
+  "Card 9/12": "Merc with a Mouth with Lipgloss: Rescue 1 Civilian in your location.",
+  "Card 10/12": "Merc with a Mouth with Lipgloss: Rescue 1 Civilian in your location.",
+  "Deadpool\r\nTeam-up": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd09"
+  },
+  "Wave": 2,
+  "Hero": "Lady Deadpool",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "🟊",
+  "Card 5/12": "🟊",
+  "Card 6/12": "🟊",
+  "Card 7/12": "✸",
+  "Card 8/12": "✸",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Deadpool\r\nTeam-up": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd0a"
+  },
+  "Wave": 2,
+  "Hero": "Legion",
+  "Card 1/12": "Jack Wayne: Heroes anywhere can freely exchange their Action tokens between them.",
+  "Card 2/12": "Susan in Sunshine: Each other Hero, Villain and Henchman in your Location takes double damage until your next turn.",
+  "Card 3/12": "Zero G. Priestly: If the next Master Plan card has a Special Effect, the effect is canceled. As long as this card is face-up in the Storyline, Heroes must play with their hands revealed.",
+  "Card 4/12": "Bleeding Image: Take 1 damage. Then deal 2 damage to EVERYTHING else in your Location. Discard all Civilians there.",
+  "Card 5/12": "Delphic: Look at the top card of the Master Plan deck. You may place it on the bottom. Each other Hero in your Location takes 1 damage.",
+  "Card 6/12": "Hypnoblocke: Delay the next Villain turn by 1 card. Heroes must play their card randomly until the next Villain turn.",
+  "Card 7/12": "Tyrranik: You may move any Heroes to any Locations of your choice. Moved Heroes must discard one card from their hands to the bottom of their decks.",
+  "Card 8/12": "Chain: This turn you may use your 🟊 and ✸ actions in Locations where there are other Heroes. If you do, Heroes in those Locations must discard 1 Action token each, if possible.",
+  "Card 9/12": "Cindy: ✸ in an adjacent Location. Each Hero there takes 1 damage.",
+  "Card 10/12": "Sally: Each other Hero in your Location takes 1 damage. You cannot take any damage until the beginning of your next turn.",
+  "New Mutants": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd0b"
+  },
+  "Wave": 2,
+  "Hero": "Legion",
+  "Card 1/12": "➤   🟊",
+  "Card 2/12": "➤   ✸",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "🟊",
+  "Card 6/12": "🟊",
+  "Card 7/12": "🟊",
+  "Card 8/12": "✸",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "New Mutants": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd0c"
+  },
+  "Wave": 2,
+  "Hero": "Logan",
+  "Card 1/12": "Withstanding the Pain: As long as this card is face-up in the Storyline, you may ignore 1 damage during each Villain turn.",
+  "Card 2/12": "Fighting Experience: ✸ and draw 1 card.",
+  "Card 3/12": "Fighting Experience: ✸ and draw 1 card.",
+  "Card 4/12": "Fighting Experience: ✸ and draw 1 card.",
+  "Avengers, New": "x",
+  "Avengers, Savage": "x",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd0d"
+  },
+  "Wave": 2,
+  "Hero": "Logan",
+  "Card 1/12": "➤",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Avengers, New": "x",
+  "Avengers, Savage": "x",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd0e"
+  },
+  "Wave": 2,
+  "Hero": "Longshot",
+  "Card 1/12": "Healing Factor: You may draw cards until you have 3 in your hand.",
+  "Card 2/12": "Healing Factor: You may draw cards until you have 3 in your hand.",
+  "Card 3/12": "Probability Manipulation: Look at the top 3 cards of the Master Plan deck, then place them back on top in any order.",
+  "Card 4/12": "Probability Manipulation: Look at the top 3 cards of the Master Plan deck, then place them back on top in any order."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd0f"
+  },
+  "Wave": 2,
+  "Hero": "Longshot",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd10"
+  },
+  "Wave": 1,
+  "Hero": "Luke Cage",
+  "Card 1/12": "Superhuman Strength: This turn you have as many ✸ as cards in your hand.",
+  "Card 2/12": "Nigh-Invulnerability: Draw 1 card. You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Regenerative Healing Factor: Draw 2 cards.",
+  "Avengers, New": "x",
+  "Defenders,\nManhattan": "x",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd11"
+  },
+  "Wave": 1,
+  "Hero": "Luke Cage",
+  "Card 1/12": "➤",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers, New": "x",
+  "Defenders,\nManhattan": "x",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd12"
+  },
+  "Wave": 2,
+  "Hero": "Magik",
+  "Card 1/12": "Mystical Armor: As long as this card is face-up in the Storyline, if you have any Crisis tokens at the end of a Villain turn, you may discard 1 with no consequence.",
+  "Card 2/12": "Soulsword: Deal 1 extra damage to any Villain, Henchman or Thug you deal any damage to this turn.",
+  "Card 3/12": "Soulsword: Deal 1 extra damage to any Villain, Henchman or Thug you deal any damage to this turn.",
+  "Card 4/12": "Stepping Disks: Move to any Location.",
+  "Card 5/12": "Stepping Disks: Move to any Location.",
+  "Avengers, Savage": "x",
+  "New Mutants": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd13"
+  },
+  "Wave": 2,
+  "Hero": "Magik",
+  "Card 1/12": "➤",
+  "Card 2/12": "✸   ✸",
+  "Card 3/12": "✸   ✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "✸",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers, Savage": "x",
+  "New Mutants": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd14"
+  },
+  "Wave": 2,
+  "Hero": "Magneto",
+  "Card 1/12": "Prodigal Intelligence: This turn you can treat all symbols as #.",
+  "Card 2/12": "Genius Intelligence: This turn you can treat ➤ as  #.",
+  "Card 3/12": "Magnetokinesis: ✸✸✸ split as you like in your and adjacent Locations.",
+  "Card 4/12": "Magnetokinesis: ✸✸✸ split as you like in your and adjacent Locations."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd15"
+  },
+  "Wave": 2,
+  "Hero": "Magneto",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "None",
+  "Card 4/12": "None",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd16"
+  },
+  "Wave": 1,
+  "Hero": "Mantis",
+  "Card 1/12": "Emphatic Manipulation: Cancel any BAM on the next Master Plan card.",
+  "Card 2/12": "Astral Projection: This turn you may use each Action as if you are in a different Location.",
+  "Card 3/12": "Psychic Healing: Another Hero draws 2 cards.",
+  "Guardians of\r\nthe Galaxy": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd17"
+  },
+  "Wave": 1,
+  "Hero": "Mantis",
+  "Card 1/12": "#",
+  "Card 2/12": "🟊",
+  "Card 3/12": "🟊",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Guardians of\r\nthe Galaxy": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd18"
+  },
+  "Wave": 2,
+  "Hero": "Marrow",
+  "Card 1/12": "Bone Weapons: ✸✸✸ split as you like in your and adjacent Locations.\n",
+  "Card 2/12": "Bone Weapons: ✸✸✸ split as you like in your and adjacent Locations.\n",
+  "Card 3/12": "Bone Armor: As long as this card is face-up in the Storyline, if a Villain or Henchman in your Location deals damage to you during a Villain turn, they take 1 damage at the end of that turn.",
+  "Card 4/12": "Bone Armor: As long as this card is face-up in the Storyline, if a Villain or Henchman in your Location deals damage to you during a Villain turn, they take 1 damage at the end of that turn."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd19"
+  },
+  "Wave": 2,
+  "Hero": "Marrow",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd1a"
+  },
+  "Wave": 2,
+  "Hero": "Marvel Girl",
+  "Card 1/12": "Telekinesis: 🟊 or ✸ in your or an adjacent Location.",
+  "Card 2/12": "Telekinesis: 🟊 or ✸ in your or an adjacent Location.",
+  "Card 3/12": "Telekinesis: 🟊 or ✸ in your or an adjacent Location.",
+  "Card 4/12": "Telekinesis: 🟊 or ✸ in your or an adjacent Location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd1b"
+  },
+  "Wave": 2,
+  "Hero": "Marvel Girl",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd1c"
+  },
+  "Wave": 1,
+  "Hero": "Miles Morales",
+  "Card 1/12": "Web: If you are in the same Location as the Villain, delay the next Villain turn by 1 card.",
+  "Card 2/12": "Invisibility: You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Venom Strike: ✸✸ against a single enemy in your Location.",
+  "Champions": "x",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd1d"
+  },
+  "Wave": 1,
+  "Hero": "Miles Morales",
+  "Card 1/12": "#",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "🟊   🟊",
+  "Card 6/12": "🟊   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Champions": "x",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd1e"
+  },
+  "Wave": 2,
+  "Hero": "Mirage",
+  "Card 1/12": "Resist Death: Until the beginning of your next turn, all heroes in your location cannot be forced to discard their last card.",
+  "Card 2/12": "Resist Death: Until the beginning of your next turn, all heroes in your location cannot be forced to discard their last card.",
+  "Card 3/12": "Empathic Illusion: Relocate any number of Civilian, Thug, and Threat cards between your and adjacent Locations.",
+  "Card 4/12": "Empathic Illusion: Relocate any number of Civilian, Thug, and Threat cards between your and adjacent Locations.",
+  "Card 5/12": "Neural Arrow: ­✸. This turn you can use your ✸ actions in adjacent Locations.",
+  "Card 6/12": "Neural Arrow: ­✸. This turn you can use your ✸ actions in adjacent Locations.",
+  "Defenders": "x",
+  "New Mutants": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd1f"
+  },
+  "Wave": 2,
+  "Hero": "Mirage",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "✸",
+  "Card 6/12": "✸",
+  "Card 7/12": "➤   🟊",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "🟊   🟊",
+  "Card 10/12": "✸",
+  "Defenders": "x",
+  "New Mutants": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd20"
+  },
+  "Wave": 2,
+  "Hero": "Mister Fantastic",
+  "Card 1/12": "Super Genius: This turn you can treat all symbols as #.",
+  "Card 2/12": "Plasticity: As long as this card is face-up in the Storyline, during your Hero turn you can use 1 of your 🟊 or ✸ actions in an adjacent location.",
+  "Card 3/12": "Teamwork: Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 # token from the pool to the Fantastic Four card.",
+  "Card 4/12": "Teamwork: Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 ➤ token from the pool to the Fantastic Four card.",
+  "Defenders": "x",
+  "Fantastic Four": "x",
+  "Illuminati": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd21"
+  },
+  "Wave": 2,
+  "Hero": "Mister Fantastic",
+  "Card 1/12": "🟊   ✸",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "🟊",
+  "Defenders": "x",
+  "Fantastic Four": "x",
+  "Illuminati": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd22"
+  },
+  "Wave": 1,
+  "Hero": "Mockingbird",
+  "Card 1/12": "Spymaster: The next Master Plan card played cannot add any Civilians or Thugs to your Location.",
+  "Card 2/12": "Spymaster: The next Master Plan card played cannot add any Civilians or Thugs to your Location.",
+  "Card 3/12": "Battle Staves: Defeat 2 Thugs in your Location.",
+  "Avengers,\r\nWest Coast": "x",
+  "Force  Works": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd23"
+  },
+  "Wave": 1,
+  "Hero": "Mockingbird",
+  "Card 1/12": "🟊",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Avengers,\r\nWest Coast": "x",
+  "Force  Works": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd24"
+  },
+  "Wave": 1,
+  "Hero": "Moon Knight",
+  "Card 1/12": "Dissociative Identity Disorder: Shuffle your hand and deck together, then draw 3 cards.",
+  "Card 2/12": "Moon Knight's Suit: Until the beginning of your next turn, if you would take damage, ignore it and move to any Location instead.",
+  "Card 3/12": "Konshu's Power: # for each of your Special Effect cards in the Storyline (including this one).",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd25"
+  },
+  "Wave": 1,
+  "Hero": "Moon Knight",
+  "Card 1/12": "✸   ✸",
+  "Card 2/12": "🟊",
+  "Card 3/12": "🟊",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd26"
+  },
+  "Wave": 1,
+  "Hero": "Ms. Marvel",
+  "Card 1/12": "Appearance Alteration: Count all Action symbols as # this turn.",
+  "Card 2/12": "Morphogenetics: Swap any number of cards in your hand with any of your face-up cards in the Storyline.",
+  "Card 3/12": "Elongation: Your attacks may target enemies in adjacent Locations this turn.",
+  "Champions": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd27"
+  },
+  "Wave": 1,
+  "Hero": "Ms. Marvel",
+  "Card 1/12": "#",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Champions": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd28"
+  },
+  "Wave": 2,
+  "Hero": "Multiple Man",
+  "Card 1/12": "Spreading Dupes: Move up to 2 Dupe tokens to Locations adjacent to them.",
+  "Card 2/12": "Spreading Dupes: Move up to 2 Dupe tokens to Locations adjacent to them.",
+  "Card 3/12": "Spreading Dupes: Move up to 2 Dupe tokens to Locations adjacent to them.",
+  "Card 4/12": "Spreading Dupes: Move up to 2 Dupe tokens to Locations adjacent to them.",
+  "Card 5/12": "Duplication Absorption: Remove as many Dupe tokens from your Location as you wish. Draw 1 card for each token removed.",
+  "Card 6/12": "Duplication Absorption: Remove as many Dupe tokens from your Location as you wish. Draw 1 card for each token removed.",
+  "Card 7/12": "Duplication Absorption: Remove as many Dupe tokens from your Location as you wish. Draw 1 card for each token removed.",
+  "Card 8/12": "Duplication Absorption: Remove as many Dupe tokens from your Location as you wish. Draw 1 card for each token removed.",
+  "Card 9/12": "Kinetic Duplication: As long as this card is face-up in the Storyline, once per turn you may place 1 Dupe token in your Location (functions as a Civilian). You may use 🟊 and ✸ actions as if you were in any Dupe's Location.",
+  "Card 10/12": "Dupes, Assemble: Each Dupe may perform 1 free 🟊 or ✸. Then remove each activated Dupe token.",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd29"
+  },
+  "Wave": 2,
+  "Hero": "Multiple Man",
+  "Card 1/12": "➤   🟊",
+  "Card 2/12": "➤   🟊",
+  "Card 3/12": "➤   🟊",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "#",
+  "Card 10/12": "➤",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd2a"
+  },
+  "Wave": 2,
+  "Hero": "Mystique",
+  "Card 1/12": "Spymaster: The next Master Plan card played cannot add Civilians or Thugs to your Location or one of the two  adjacent ones (your choice).",
+  "Card 2/12": "Spymaster: The next Master Plan card played cannot add Civilians or Thugs to your Location or one of the two  adjacent ones (your choice).",
+  "Card 3/12": "Metamorph: On the next Villain turn, you may redirect any damage dealt to you to a Henchman or any Thug in your Location.",
+  "Card 4/12": "Metamorph: On the next Villain turn, you may redirect any damage dealt to you to a Henchman or any Thug in your Location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd2b"
+  },
+  "Wave": 2,
+  "Hero": "Mystique",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd2c"
+  },
+  "Wave": 2,
+  "Hero": "Namor",
+  "Card 1/12": "King of Atlantis: You may discard either 1 Civilian or 1 Thug from your Location and from each adjacent Location.",
+  "Card 2/12": "King of Atlantis: You may discard either 1 Civilian or 1 Thug from your Location and from each adjacent Location.",
+  "Card 3/12": "Avenging Son of Atlantis: ✸✸ in any Location.",
+  "Card 4/12": "Avenging Son of Atlantis: ✸✸ in any Location.",
+  "Defenders": "x",
+  "Illuminati": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd2d"
+  },
+  "Wave": 2,
+  "Hero": "Namor",
+  "Card 1/12": "✸",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   ➤",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Defenders": "x",
+  "Illuminati": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd2e"
+  },
+  "Wave": 1,
+  "Hero": "Nebula",
+  "Card 1/12": "Image Projection: Every Hero can swap a card from their hand with one of their cards in the Storyline. Remove the top card of the Master Plan deck from the game.",
+  "Card 2/12": "Regeneration Implant: You may draw cards until you have 3 in your hand.",
+  "Card 3/12": "Electroshock Batons: ✸✸ in both adjacent locations.",
+  "Guardians of\r\nthe Galaxy": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd2f"
+  },
+  "Wave": 1,
+  "Hero": "Nebula",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "🟊   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Guardians of\r\nthe Galaxy": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd30"
+  },
+  "Wave": 1,
+  "Hero": "Nick Fury, Jr.",
+  "Card 1/12": "Director of SHIELD: A Hero of your choice immediately performs ➤➤.",
+  "Card 2/12": "Director of SHIELD: A Hero of your choice immediately performs 🟊🟊.",
+  "Card 3/12": "Director of SHIELD: A Hero of your choice immediately performs ✸✸."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd31"
+  },
+  "Wave": 1,
+  "Hero": "Nick Fury, Jr.",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "➤   ➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd32"
+  },
+  "Wave": 2,
+  "Hero": "Nightcrawler",
+  "Card 1/12": "*Bamf* Fear No Evil: You MUST move to any other Location.",
+  "Card 2/12": "*Bamf* Auf Wiedersehen!: You MUST move to any other Location.",
+  "Card 3/12": "*Bamf* Anybody Need a Lift?: You MUST move to any other Location. You may bring another Hero in your Location with you.",
+  "Card 4/12": "*Bamf* Anybody Need a Lift?: You MUST move to any other Location. You may bring another Hero in your Location with you.",
+  "Card 5/12": "*Bamf* Anybody Need a Lift?: You MUST move to any other Location. You may bring another Hero in your Location with you.",
+  "Card 6/12": "*Bamf* Anybody Need a Lift?: You MUST move to any other Location. You may bring another Hero in your Location with you.",
+  "Card 7/12": "*Bamf* En Garde!: You MUST move to any other Location.",
+  "Card 8/12": "*Bamf* En Garde!: You MUST move to any other Location.",
+  "Card 9/12": "*Bamf* En Garde!: You MUST move to any other Location.",
+  "Card 10/12": "*Bamf* En Garde!: You MUST move to any other Location.",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd33"
+  },
+  "Wave": 2,
+  "Hero": "Nightcrawler",
+  "Card 1/12": "🟊   🟊",
+  "Card 2/12": "✸   ✸",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "🟊",
+  "Card 6/12": "🟊",
+  "Card 7/12": "✸",
+  "Card 8/12": "✸",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd34"
+  },
+  "Wave": 2,
+  "Hero": "Northstar",
+  "Card 1/12": "Flight: As long as this card is face-up in the Storyline, when you perform ➤ actions, you may bring another Hero to your Location with you.",
+  "Card 2/12": "Concussive Blasts: ✸✸ split as you like between your and adjacent Locations.",
+  "Card 3/12": "Concussive Blasts: ✸✸ split as you like between your and adjacent Locations.",
+  "Card 4/12": "Alpha Flight: Gain 1 🟊 token for each face-up Alpha Flight card in the Storyline."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd35"
+  },
+  "Wave": 2,
+  "Hero": "Northstar",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   ➤",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd36"
+  },
+  "Wave": 1,
+  "Hero": "Nova",
+  "Card 1/12": "I am the Help: 🟊🟊 in an adjacent Location.",
+  "Card 2/12": "I am the Help: 🟊🟊 in an adjacent Location.",
+  "Card 3/12": "I am the Help: 🟊🟊 in an adjacent Location.",
+  "Champions": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd37"
+  },
+  "Wave": 1,
+  "Hero": "Nova",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "🟊   ✸",
+  "Card 6/12": "🟊   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Champions": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd38"
+  },
+  "Wave": 1,
+  "Hero": "Okoye",
+  "Card 1/12": "Dora Milaje: Until the beginning of your next turn, if another Hero in your Location takes damage, you may take it instead.",
+  "Card 2/12": "Accomplished Strategist: Reveal the top card of your deck. You may put it at the bottom of your deck.",
+  "Card 3/12": "Vibranium Spear: ✸✸ in an adjacent Location.",
+  "Wakandans": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd39"
+  },
+  "Wave": 1,
+  "Hero": "Okoye",
+  "Card 1/12": "🟊   🟊",
+  "Card 2/12": "#",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Wakandans": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd3a"
+  },
+  "Wave": 2,
+  "Hero": "Old Man Logan",
+  "Card 1/12": "My Name is Wolverine: Gain 4 ✸ tokens. If Retired is face-up in the Storyline, turn it face down.",
+  "Card 2/12": "Retired: Gain 2 ✸ tokens. As long as this card is face-up in the Storyline, you can't use ✸ tokens to Attack.",
+  "Card 3/12": "Tired of Fighting: If Retired is face-up in the Storyline, gain 1 ✸ token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn.",
+  "Card 4/12": "Tired of Fighting: If Retired is face-up in the Storyline, gain 1 ✸ token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn.",
+  "Card 5/12": "Tired of Fighting: If Retired is face-up in the Storyline, gain 1 ✸ token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn.",
+  "Card 6/12": "Tired of Fighting: If Retired is face-up in the Storyline, gain 1 ✸ token. Until the beginning of your next turn, you may ignore 1 damage each Villain turn."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd3b"
+  },
+  "Wave": 2,
+  "Hero": "Old Man Logan",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤",
+  "Card 6/12": "➤",
+  "Card 7/12": "➤   🟊",
+  "Card 8/12": "➤   🟊",
+  "Card 9/12": "🟊   🟊",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd3c"
+  },
+  "Wave": 2,
+  "Hero": "Phoenix",
+  "Card 1/12": "Uncanny Power: As long as this card is face-up in the Storyline, other Heroes must ignore and skip Phoenix cards in the Storyline.",
+  "Card 2/12": "Time Manipulation: Delay the next Villain turn by 1 card.",
+  "Card 3/12": "Empathy: Give 1 # token from the pool to another Hero.",
+  "Card 4/12": "Empathy: Give 1 # token from the pool to another Hero.",
+  "Card 5/12": "Phoenix Cry: # # # # # Then discard all cards from your hand to the bottom of your deck.",
+  "Card 6/12": "Phoenix Force Avatar: # # #",
+  "Card 7/12": "Phoenix Force Avatar: # # #",
+  "Card 8/12": "Phoenix Force Avatar: # #",
+  "Card 9/12": "Phoenix Force Avatar: # #",
+  "Card 10/12": "Phoenix Force Avatar: # #",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd3d"
+  },
+  "Wave": 2,
+  "Hero": "Phoenix",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "#",
+  "Card 5/12": "None",
+  "Card 6/12": "None",
+  "Card 7/12": "None",
+  "Card 8/12": "None",
+  "Card 9/12": "None",
+  "Card 10/12": "None",
+  "Excalibur": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd3e"
+  },
+  "Wave": 2,
+  "Hero": "Pixie",
+  "Card 1/12": "Hallucinatory Dust: Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded.",
+  "Card 2/12": "Hallucinatory Dust: Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is discarded.",
+  "Card 3/12": "Teleporting Spell: You and all other Heroes in your Location MUST move together to any other Location.",
+  "Card 4/12": "Teleporting Spell: You and all other Heroes in your Location MUST move together to any other Location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd3f"
+  },
+  "Wave": 2,
+  "Hero": "Pixie",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "➤",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd40"
+  },
+  "Wave": 2,
+  "Hero": "Polaris",
+  "Card 1/12": "Magnetic Manipulation: ✸✸ in your or an adjacent Location.",
+  "Card 2/12": "Magnetic Manipulation: ✸✸ in your or an adjacent Location.",
+  "Card 3/12": "Magnetic Field: You cannot take any damage until the beginning of your next turn.",
+  "Card 4/12": "Magnetic Field: You cannot take any damage until the beginning of your next turn.",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd41"
+  },
+  "Wave": 2,
+  "Hero": "Polaris",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd42"
+  },
+  "Wave": 2,
+  "Hero": "Professor X",
+  "Card 1/12": "Telepathy: Choose another Hero. They can swap any number of cards in their hand with cards in the Storyline.",
+  "Card 2/12": "Mind Alteration: Turn up to 2 Thugs in your Location into Civilians.",
+  "Card 3/12": "Genius Intelligence: This turn you may treat 🟊 as #.",
+  "Card 4/12": "Genius Intelligence: This turn you may treat ✸ as #.",
+  "Card 5/12": "Leadership: Give 🟊🟊 tokens from the pool to another Hero.",
+  "Card 6/12": "Leadership: Give ✸✸ tokens from the pool to another Hero.",
+  "Illuminati": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd43"
+  },
+  "Wave": 2,
+  "Hero": "Professor X",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "✸",
+  "Card 5/12": "🟊",
+  "Card 6/12": "✸",
+  "Card 7/12": "➤   🟊",
+  "Card 8/12": "➤   🟊",
+  "Card 9/12": "➤   ✸",
+  "Card 10/12": "🟊   ✸",
+  "Illuminati": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd44"
+  },
+  "Wave": 2,
+  "Hero": "Psylocke",
+  "Card 1/12": "Telepathy: Swap the previous Hero card in the Storyline with any other Hero card in the Storyline.",
+  "Card 2/12": "Telepathy: Swap the previous Hero card in the Storyline with any other Hero card in the Storyline.",
+  "Card 3/12": "Psionic Blast: Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is removed.",
+  "Card 4/12": "Psionic Blast: Attach a Stunned token to a Villain or Henchman in your Location. Next Villain turn, their BAM is canceled and the token is removed.",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd45"
+  },
+  "Wave": 2,
+  "Hero": "Psylocke",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd46"
+  },
+  "Wave": 2,
+  "Hero": "Puck",
+  "Card 1/12": "Tactical Intelligence: Swap the Threat in your Location with one in an adjacent location.",
+  "Card 2/12": "Alpha Flight: Gain 1 ➤ or 1 ✸ token for each face-up Alpha Flight card in the Storyline.",
+  "Card 3/12": "Compressed Rubber Physiology: As long as this card is face-up in the Storyline, you may ignore 1 damage dealt by a Henchman each Villain turn.",
+  "Card 4/12": "Acrobatic Fighting Style: ➤✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd47"
+  },
+  "Wave": 2,
+  "Hero": "Puck",
+  "Card 1/12": "🟊",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "#",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd48"
+  },
+  "Wave": 1,
+  "Hero": "Punisher",
+  "Card 1/12": "Special Ops Training: You can move to any Location and ✸✸ there.",
+  "Card 2/12": "Heavy Firepower: ✸✸ in any Location, and ✸ in both adjacent locations.",
+  "Card 3/12": "Precision Shot: ✸✸✸✸ against a single enemy. Damage you deal this turn can't be canceled or reduced."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd49"
+  },
+  "Wave": 1,
+  "Hero": "Punisher",
+  "Card 1/12": "➤",
+  "Card 2/12": "None",
+  "Card 3/12": "None",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "🟊",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd4a"
+  },
+  "Wave": 1,
+  "Hero": "Quicksilver",
+  "Card 1/12": "Superhuman Speed: You can move other Heroes with you this turn.",
+  "Card 2/12": "Speed Fighting: You can defeat 1 Thug in each Location you enter this turn.",
+  "Card 3/12": "Run to the Rescue: You can rescue 1 Civilian in each Location you enter this turn.",
+  "Avengers": "x",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd4b"
+  },
+  "Wave": 1,
+  "Hero": "Quicksilver",
+  "Card 1/12": "➤   ➤",
+  "Card 2/12": "➤   ➤",
+  "Card 3/12": "➤   ➤",
+  "Card 4/12": "➤   ➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers": "x",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd4c"
+  },
+  "Wave": 1,
+  "Hero": "Rocket",
+  "Card 1/12": "Master Tinkerer: Gain 1 # token, OR your Action tokens can be used twice this turn.",
+  "Card 2/12": "Master Tinkerer: Gain 1 # token, OR your Action tokens can be used twice this turn.",
+  "Card 3/12": "Raccoon Senses: Gain 1 # token, OR convert any number of Action tokens you own into # tokens.",
+  "Guardians of\r\nthe Galaxy": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd4d"
+  },
+  "Wave": 1,
+  "Hero": "Rocket",
+  "Card 1/12": "➤",
+  "Card 2/12": "✸",
+  "Card 3/12": "🟊",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Guardians of\r\nthe Galaxy": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd4e"
+  },
+  "Wave": 2,
+  "Hero": "Rogue",
+  "Card 1/12": "Power Absorption: Use the Action symbols at the bottom of another Hero's face-up card in the Storyline. At the end of your turn, turn that card face down.",
+  "Card 2/12": "Power Absorption: Use the Action symbols at the bottom of another Hero's face-up card in the Storyline. At the end of your turn, turn that card face down.",
+  "Card 3/12": "Power Absorption: Use the Action symbols at the bottom of another Hero's face-up card in the Storyline. At the end of your turn, turn that card face down.",
+  "Card 4/12": "Power Absorption: Use the Action symbols at the bottom of another Hero's face-up card in the Storyline. At the end of your turn, turn that card face down."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd4f"
+  },
+  "Wave": 2,
+  "Hero": "Rogue",
+  "Card 1/12": "🟊",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "#",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd50"
+  },
+  "Wave": 2,
+  "Hero": "Sasquatch",
+  "Card 1/12": "Alpha Flight: Gain 1 ✸ token for each face-up Alpha Flight card in the Storyline.",
+  "Card 2/12": "Claws: ✸✸ against a single target in your Location.",
+  "Card 3/12": "Controlled Fury: ✸ against up to 2 different targets in your Location.",
+  "Card 4/12": "Controlled Fury: ✸ against up to 2 different targets in your Location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd51"
+  },
+  "Wave": 2,
+  "Hero": "Sasquatch",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd52"
+  },
+  "Wave": 1,
+  "Hero": "Scarlet Witch",
+  "Card 1/12": "Chaos Magic: Another Hero can swap one card from their hand with one of their face-up cards in the Storyline.",
+  "Card 2/12": "Psionic Energy Blast: ✸✸✸ against a single enemy in an adjacent Location.",
+  "Card 3/12": "Psionic Energy Field: Cancel the first damage each Hero would suffer from the effects of the next Master Plan card.",
+  "Avengers": "x",
+  "Avengers,\r\nWest Coast": "x",
+  "Force  Works": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd53"
+  },
+  "Wave": 1,
+  "Hero": "Scarlet Witch",
+  "Card 1/12": "#",
+  "Card 2/12": "None",
+  "Card 3/12": "None",
+  "Card 4/12": "➤   ➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "➤",
+  "Avengers": "x",
+  "Avengers,\r\nWest Coast": "x",
+  "Force  Works": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd54"
+  },
+  "Wave": 1,
+  "Hero": "Shang Chi",
+  "Card 1/12": "Master Martial Artist: Double each ✸ on the previous Hero card in the Storyline.",
+  "Card 2/12": "Master Martial Artist: Double each ✸ on the previous Hero card in the Storyline.",
+  "Card 3/12": "Master Martial Artist: Double each ✸ on the previous Hero card in the Storyline.",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd55"
+  },
+  "Wave": 1,
+  "Hero": "Shang Chi",
+  "Card 1/12": "➤   ✸",
+  "Card 2/12": "➤   ✸",
+  "Card 3/12": "➤   ✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "🟊",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Marvel Kinghts": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd56"
+  },
+  "Wave": 2,
+  "Hero": "Shatterstar",
+  "Card 1/12": "Vibratory Shockwaves: You may discard 1 card from your hand to the bottom of your deck to ✸✸✸­­­, split as you like in your and adjacent Locations.",
+  "Card 2/12": "Vibratory Shockwaves: You may discard 1 card from your hand to the bottom of your deck to ✸✸✸­­­, split as you like in your and adjacent Locations.",
+  "Card 3/12": "Healing Factor: You may draw cards until you have 3 in your hand.",
+  "Card 4/12": "Healing Factor: You may draw cards until you have 3 in your hand.",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd57"
+  },
+  "Wave": 2,
+  "Hero": "Shatterstar",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd58"
+  },
+  "Wave": 1,
+  "Hero": "She-Hulk",
+  "Card 1/12": "Transformation: ✸ plus another ✸ for each Transformation card in the Storyline (including this one).",
+  "Card 2/12": "Transformation: ✸ plus another ✸ for each Transformation card in the Storyline (including this one).",
+  "Card 3/12": "Transformation: ✸ plus another ✸ for each Transformation card in the Storyline (including this one).",
+  "Card 4/12": "Transformation: ✸ plus another ✸ for each Transformation card in the Storyline (including this one).",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd59"
+  },
+  "Wave": 1,
+  "Hero": "She-Hulk",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd5a"
+  },
+  "Wave": 1,
+  "Hero": "Shuri",
+  "Card 1/12": "Young Genius: Give 1 # token from the pool to any Hero. They may draw cards until they have 3 in their hand.",
+  "Card 2/12": "Young Genius: Give 1 # token from the pool to any Hero. They may draw cards until they have 3 in their hand.",
+  "Card 3/12": "Young Genius: Give 1 # token from the pool to any Hero. They may draw cards until they have 3 in their hand.",
+  "Wakandans": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd5b"
+  },
+  "Wave": 1,
+  "Hero": "Shuri",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "🟊   🟊",
+  "Card 6/12": "🟊   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Wakandans": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd5c"
+  },
+  "Wave": 2,
+  "Hero": "Silver Surfer",
+  "Card 1/12": "Cosmic Awareness: As long as this card is face-up in the Storyline, during your turn one of your 🟊 or ✸ actions can be performed in any Location.",
+  "Card 2/12": "Dimensional Travel: If you are not in the Villain's starting Location, replace your Location with any other not in play (move everything from your Location to the new one).",
+  "Card 3/12": "Near Immortality: As long as this card is face-up in the Storyline, you draw 2 cards during the draw step of your turn.",
+  "Card 4/12": "Teleport: You may move to any Location.",
+  "Card 5/12": "Teleport: You may move to any Location.",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd5d"
+  },
+  "Wave": 2,
+  "Hero": "Silver Surfer",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "#",
+  "Card 5/12": "#",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd5e"
+  },
+  "Wave": 2,
+  "Hero": "Snowbird",
+  "Card 1/12": "Animal Shapeshifting: # 🟊",
+  "Card 2/12": "Animal Shapeshifting: # ✸",
+  "Card 3/12": "Alpha Flight: Gain 1 ➤ or 🟊 token for each face-up Alpha Flight card in the Storyline.",
+  "Card 4/12": "Post Cognition: As long as this card is face-up in the Storyline, gain 1 # whenever one of your cards in the Storyline is turned face down.",
+  "Card 5/12": "Mystical Resistance: As long as this card is face-up in the Storyline, you can't be forced to play cards randomly."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd5f"
+  },
+  "Wave": 2,
+  "Hero": "Snowbird",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   🟊",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "➤"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd60"
+  },
+  "Wave": 1,
+  "Hero": "Spider-Ham",
+  "Card 1/12": "Toony Web: If you end your turn in the Villain Location, negate the next Villain movement.",
+  "Card 2/12": "Toony Essence: Until the beginning of your next turn, you cannot be forced to discard your last card.",
+  "Card 3/12": "Toony Weapon: ✸ in any Location.",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd61"
+  },
+  "Wave": 1,
+  "Hero": "Spider-Ham",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd62"
+  },
+  "Wave": 1,
+  "Hero": "Spider-Man",
+  "Card 1/12": "Great Power: Defeat up to 3 Thugs in your Location. For each Thug defeated with this Special Effect, gain 1 🟊 token.",
+  "Card 2/12": "Great Responsibility: Rescue up to 3 Civilians in your Location. For each Civilian rescued with this Special Effect, gain 1 ✸ token.",
+  "Card 3/12": "Webslinging: Gain 2 ➤ tokens.",
+  "Avengers, New": "x",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd63"
+  },
+  "Wave": 1,
+  "Hero": "Spider-Man",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "🟊   🟊",
+  "Card 6/12": "🟊   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers, New": "x",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd64"
+  },
+  "Wave": 1,
+  "Hero": "Spider-Man 2099",
+  "Card 1/12": "Lyla Resistance: 🟊 in any Location.",
+  "Card 2/12": "Enhanced Senses: You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Claws: ✸✸ against a single enemy. Damage you deal this turn cannot be reduced.",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd65"
+  },
+  "Wave": 1,
+  "Hero": "Spider-Man 2099",
+  "Card 1/12": "➤",
+  "Card 2/12": "🟊",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd66"
+  },
+  "Wave": 1,
+  "Hero": "Spider-Woman",
+  "Card 1/12": "Super Resistance: You cannot take any damage until the beginning of your next turn.",
+  "Card 2/12": "Poison Blast: Choose ✸✸, OR delay the next Villain turn by 1 card.",
+  "Card 3/12": "Poison Blast: Choose ✸✸, OR delay the next Villain turn by 1 card.",
+  "Avengers, New": "x",
+  "Force  Works": "x",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd67"
+  },
+  "Wave": 1,
+  "Hero": "Spider-Woman",
+  "Card 1/12": "🟊",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "✸   ✸",
+  "Card 10/12": "➤",
+  "Avengers, New": "x",
+  "Force  Works": "x",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd68"
+  },
+  "Wave": 2,
+  "Hero": "Spiral",
+  "Card 1/12": "Teleport Away: Gain 1 # token. As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately discard 1 Action token to move all Heroes in your Location to any other Location.",
+  "Card 2/12": "Spell Dance: For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 🟊 token, or ✸ against a Thug or Henchman in your Location.",
+  "Card 3/12": "Spell Dance: For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 🟊 token, or ✸ against a Thug or Henchman in your Location.",
+  "Card 4/12": "Spell Dance: For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 🟊 token, or ✸ against a Thug or Henchman in your Location.",
+  "Card 5/12": "Spell Dance: For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 🟊 token, or ✸ against a Thug or Henchman in your Location.",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd69"
+  },
+  "Wave": 2,
+  "Hero": "Spiral",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "🟊   🟊",
+  "Card 10/12": "🟊",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd6a"
+  },
+  "Wave": 1,
+  "Hero": "Sqirrel Girl",
+  "Card 1/12": "Night Vision: Reveal the top card of the Master Plan deck. You may put it at the bottom.",
+  "Card 2/12": "Squirrel Army: Deal 1 damage to a single enemy in every Location.",
+  "Card 3/12": "Common Sense: If the number of Special Effect cards in the Storyline is greater than the Villain's current Health, the Heroes win the game.",
+  "Avengers, New": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd6b"
+  },
+  "Wave": 1,
+  "Hero": "Sqirrel Girl",
+  "Card 1/12": "#",
+  "Card 2/12": "✸",
+  "Card 3/12": "None",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Avengers, New": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd6c"
+  },
+  "Wave": 1,
+  "Hero": "Star-Lord",
+  "Card 1/12": "Problem Solver: Give a ➤, 🟊 or ✸ token from the pool to another Hero.",
+  "Card 2/12": "Problem Solver: Give a ➤, 🟊 or ✸ token from the pool to another Hero.",
+  "Card 3/12": "Problem Solver: Give a ➤, 🟊 or ✸ token from the pool to another Hero.",
+  "Guardians of\r\nthe Galaxy": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd6d"
+  },
+  "Wave": 1,
+  "Hero": "Star-Lord",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "#",
+  "Card 4/12": "➤   ➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Guardians of\r\nthe Galaxy": "x",
+  "Infinity Watch": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd6e"
+  },
+  "Wave": 2,
+  "Hero": "Storm",
+  "Card 1/12": "Goddess of Weather: Relocate any Heroes to different Locations.",
+  "Card 2/12": "Goddess of Weather: Relocate any Heroes to different Locations.",
+  "Card 3/12": "Atomkinesis: ✸✸ in any Location.",
+  "Card 4/12": "Atomkinesis: ✸✸ in any Location."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd6f"
+  },
+  "Wave": 2,
+  "Hero": "Storm",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd70"
+  },
+  "Wave": 2,
+  "Hero": "Storm (Mohawk)",
+  "Card 1/12": "Preemptive Strike: ✸ against up to 3 different targets in your Location.",
+  "Card 2/12": "Preemptive Strike: ✸ against up to 3 different targets in your Location.",
+  "Card 3/12": "Preemptive Strike: ✸ against up to 3 different targets in your Location.",
+  "Card 4/12": "Indomitable Will: As long as this card is face-up in the Storyline, ignore the first Crisis token you receive during each Hero and Villain turn."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd71"
+  },
+  "Wave": 2,
+  "Hero": "Storm (Mohawk)",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd72"
+  },
+  "Wave": 2,
+  "Hero": "Strong Guy",
+  "Card 1/12": "Kinetic Energy Absorption: You cannot take any damage until the start of your next turn. For each damage that you would take, gain 1 ✸ token instead. If this card is face-up in the Storyline and you have 4 or more Action tokens, discard all your Action tokens and your hand.",
+  "Card 2/12": "Kinetic Energy Absorption: You cannot take any damage until the start of your next turn. For each damage that you would take, gain 1 ✸ token instead. If this card is face-up in the Storyline and you have 4 or more Action tokens, discard all your Action tokens and your hand.",
+  "Card 3/12": "Kinetic Energy Absorption: You cannot take any damage until the start of your next turn. For each damage that you would take, gain 1 ✸ token instead. If this card is face-up in the Storyline and you have 4 or more Action tokens, discard all your Action tokens and your hand.",
+  "Card 4/12": "Kinetic Energy Absorption: You cannot take any damage until the start of your next turn. For each damage that you would take, gain 1 ✸ token instead. If this card is face-up in the Storyline and you have 4 or more Action tokens, discard all your Action tokens and your hand.",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd73"
+  },
+  "Wave": 2,
+  "Hero": "Strong Guy",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "🟊",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd74"
+  },
+  "Wave": 2,
+  "Hero": "Sunfire",
+  "Card 1/12": "Absorb Solar Radiation: Gain 1 ✸ token for each Location with no Civilians or Thugs.",
+  "Card 2/12": "Absorb Solar Radiation: Gain 1 ✸ token for each Location with no Civilians or Thugs.",
+  "Card 3/12": "Solar Flare: Deal 1 damage to EVERYTHING in an adjacent location and discard all Civilians there.",
+  "Card 4/12": "Solar Flare: Deal 1 damage to EVERYTHING in an adjacent location and discard all Civilians there."
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd75"
+  },
+  "Wave": 2,
+  "Hero": "Sunfire",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "None",
+  "Card 4/12": "None",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd76"
+  },
+  "Wave": 2,
+  "Hero": "Sunspot",
+  "Card 1/12": "Solar Radiation Absorption: At the end of your turn, gain 1 ➤, 🟊 or ✸ token for each different Location you visited this turn.",
+  "Card 2/12": "Solar Radiation Absorption: At the end of your turn, gain 1 ➤, 🟊 or ✸ token for each different Location you visited this turn.",
+  "Card 3/12": "Solar Radiation Absorption: At the end of your turn, gain 1 ➤, 🟊 or ✸ token for each different Location you visited this turn.",
+  "Card 4/12": "Solar Re-Channeling: Gain 1 # token. You may turn any Action tokens you have into # tokens.",
+  "Card 5/12": "Solar Re-Channeling: Gain 1 # token. You may turn any Action tokens you have into # tokens.",
+  "Card 6/12": "Solar Re-Channeling: Gain 1 # token. You may turn any Action tokens you have into # tokens.",
+  "New Mutants": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd77"
+  },
+  "Wave": 2,
+  "Hero": "Sunspot",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤",
+  "Card 6/12": "➤",
+  "Card 7/12": "➤   🟊",
+  "Card 8/12": "➤   ✸",
+  "Card 9/12": "➤   ✸",
+  "Card 10/12": "➤",
+  "New Mutants": "x",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd78"
+  },
+  "Wave": 2,
+  "Hero": "Thing",
+  "Card 1/12": "It's Clobberin' Time: ✸✸ against a single target in your location. Then ✸✸ against a different target there.",
+  "Card 2/12": "Teamwork: Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 ✸ token from the pool to the Fantastic Four card.",
+  "Card 3/12": "Teamwork: Perform actions of the same type as all Action tokens on the Fantastic Four card. Then add 1 ✸ token from the pool to the Fantastic Four card.",
+  "Card 4/12": "Rock-like Skin: As long as this card is face-up in the Storyline, you may ignore 1 damage during each Villain turn.",
+  "Avengers, New": "x",
+  "Fantastic Four": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd79"
+  },
+  "Wave": 2,
+  "Hero": "Thing",
+  "Card 1/12": "➤",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Avengers, New": "x",
+  "Fantastic Four": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd7a"
+  },
+  "Wave": 1,
+  "Hero": "Thor",
+  "Card 1/12": "Mjolnir: ✸✸✸ against a single enemy in your Location.",
+  "Card 2/12": "Mjolnir: ✸✸✸ against a single enemy in your Location.",
+  "Card 3/12": "Mjolnir: ✸✸✸ against a single enemy in your Location.",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd7b"
+  },
+  "Wave": 1,
+  "Hero": "Thor",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd7c"
+  },
+  "Wave": 1,
+  "Hero": "Valkyrie",
+  "Card 1/12": "Warsong: You may move to any Location.",
+  "Card 2/12": "Warsong: You may move to any Location.",
+  "Card 3/12": "Warsong: You may move to any Location.",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd7d"
+  },
+  "Wave": 1,
+  "Hero": "Valkyrie",
+  "Card 1/12": "✸",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "🟊",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd7e"
+  },
+  "Wave": 1,
+  "Hero": "Venom",
+  "Card 1/12": "Regeneration: You may draw cards until you have 3 in your hand.",
+  "Card 2/12": "Tracking: You can move to any Location and ✸ there.",
+  "Card 3/12": "Symbiote Enhancement: ➤✸",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd7f"
+  },
+  "Wave": 1,
+  "Hero": "Venom",
+  "Card 1/12": "➤",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Spider-Army": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd80"
+  },
+  "Wave": 1,
+  "Hero": "Vision",
+  "Card 1/12": "Evolving Intellect: Gain a # token for each Location with no empty Thug/Civilian slots.",
+  "Card 2/12": "Intangibility: You cannot take any damage until the beginning of your next turn.",
+  "Card 3/12": "Solar Gem Blast: Add all ✸ at the bottom of the last 4 Hero cards in the Storyline. Deal that much damage to a single enemy in your Location.",
+  "Avengers,\r\nWest Coast": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd81"
+  },
+  "Wave": 1,
+  "Hero": "Vision",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "None",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "🟊   🟊",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "🟊",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers,\r\nWest Coast": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd82"
+  },
+  "Wave": 1,
+  "Hero": "War Machine",
+  "Card 1/12": "Rocket Launcher: ✸✸ in an adjacent Location.",
+  "Card 2/12": "Strafing Run: ✸✸ then ➤",
+  "Card 3/12": "Beam Weapon: ✸ in an adjacent Location.",
+  "Avengers,\r\nWest Coast": "x",
+  "Force  Works": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd83"
+  },
+  "Wave": 1,
+  "Hero": "War Machine",
+  "Card 1/12": "➤",
+  "Card 2/12": "➤",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Avengers,\r\nWest Coast": "x",
+  "Force  Works": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd84"
+  },
+  "Wave": 2,
+  "Hero": "Warlock",
+  "Card 1/12": "Nanite Weapon: Gain 1 x token. Then you may freely exchange Action tokens with another Hero in your Location.",
+  "Card 2/12": "Nanite Weapon: Gain 1 x token. Then you may freely exchange Action tokens with another Hero in your Location.",
+  "Card 3/12": "Techno-Organic Feeding: Draw 1 card. Then discard 1 Crisis token from your Location or from another Hero in your Location (if possible).",
+  "Card 4/12": "Techno-Organic Feeding: Draw 1 card. Then discard 1 Crisis token from your Location or from another Hero in your Location (if possible).",
+  "Card 5/12": "Techno-Organic Lifeform: As long as this card is face-up in the Storyline, ignore the first Crisis token you receive during each Hero or Villain turn.",
+  "New Mutants": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd85"
+  },
+  "Wave": 2,
+  "Hero": "Warlock",
+  "Card 1/12": "➤   ✸",
+  "Card 2/12": "➤   ✸",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "🟊",
+  "Card 6/12": "➤   🟊",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   🟊",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "New Mutants": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd86"
+  },
+  "Wave": 2,
+  "Hero": "Warpath",
+  "Card 1/12": "Superhuman Physical Abilities: ✸ and draw 1 card.",
+  "Card 2/12": "Superhuman Physical Abilities: ✸ and draw 1 card.",
+  "Card 3/12": "Acute Senses: Look at the top card of the Master Plan deck and put it back on top.",
+  "Card 4/12": "Acute Senses: Look at the top card of the Master Plan deck and put it back on top.",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd87"
+  },
+  "Wave": 2,
+  "Hero": "Warpath",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd88"
+  },
+  "Wave": 1,
+  "Hero": "Wasp",
+  "Card 1/12": "Shrink: You cannot take any damage until the beginning of your next turn.",
+  "Card 2/12": "Wings: You may move yourself and any number of Heroes from your Location to any other Location.",
+  "Card 3/12": "Energy Projection: You can move to any Location and ✸ there.",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd89"
+  },
+  "Wave": 1,
+  "Hero": "Wasp",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd8a"
+  },
+  "Wave": 2,
+  "Hero": "Weapon X",
+  "Card 1/12": "Healing Factor: As long as this card is face-up in the Storyline, you may ignore 1 damage each Villain turn. If you do, your next Hero card must be played randomly.",
+  "Card 2/12": "Adamantium Claws: ✸✸",
+  "Card 3/12": "Adamantium Claws: ✸✸",
+  "Card 4/12": "Adamantium Claws: ✸✸",
+  "Avengers, New": "x",
+  "Avengers, Savage": "x",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd8b"
+  },
+  "Wave": 2,
+  "Hero": "Weapon X",
+  "Card 1/12": "🟊",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "Avengers, New": "x",
+  "Avengers, Savage": "x",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd8c"
+  },
+  "Wave": 1,
+  "Hero": "Winter Soldier",
+  "Card 1/12": "Expert Assassin: Gain 2 ✸ tokens.",
+  "Card 2/12": "Expert Assassin: Gain 2 ✸ tokens.",
+  "Card 3/12": "Expert Assassin: Gain 2 ✸ tokens.",
+  "Avengers": "x",
+  "Wakandans": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd8d"
+  },
+  "Wave": 1,
+  "Hero": "Winter Soldier",
+  "Card 1/12": "✸",
+  "Card 2/12": "✸",
+  "Card 3/12": "✸",
+  "Card 4/12": "➤   ✸",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "✸   ✸",
+  "Card 7/12": "➤",
+  "Card 8/12": "🟊",
+  "Card 9/12": "✸",
+  "Card 10/12": "✸",
+  "Avengers": "x",
+  "Wakandans": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd8e"
+  },
+  "Wave": 2,
+  "Hero": "Wolfsbane",
+  "Card 1/12": "Hyper-Keen Senses: If, during the next Villain turn, the Villain ends their movement in your Location, you may immediately move to an adjacent one and ✸✸ there.",
+  "Card 2/12": "Hyper-Keen Senses: If, during the next Villain turn, the Villain ends their movement in your Location, you may immediately move to an adjacent one and ✸✸ there.",
+  "Card 3/12": "Feral Attack: Defeat all Thugs in your Location.",
+  "Card 4/12": "Feral Attack: Defeat all Thugs in your Location.",
+  "New Mutants": "x",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd8f"
+  },
+  "Wave": 2,
+  "Hero": "Wolfsbane",
+  "Card 1/12": "#",
+  "Card 2/12": "#",
+  "Card 3/12": "➤",
+  "Card 4/12": "➤",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "➤",
+  "Card 9/12": "🟊",
+  "Card 10/12": "✸",
+  "New Mutants": "x",
+  "X-Factor": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd90"
+  },
+  "Wave": 2,
+  "Hero": "Wolverine",
+  "Card 1/12": "Adamantium Claws: ✸✸",
+  "Card 2/12": "Adamantium Claws: ✸✸",
+  "Card 3/12": "Adamantium Claws: ✸✸",
+  "Card 4/12": "Healing Factor: As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+  "Avengers, New": "x",
+  "Avengers, Savage": "x",
+  "Deadpool\r\nTeam-up": "x",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd91"
+  },
+  "Wave": 2,
+  "Hero": "Wolverine",
+  "Card 1/12": "#",
+  "Card 2/12": "➤",
+  "Card 3/12": "✸",
+  "Card 4/12": "🟊",
+  "Card 5/12": "➤   🟊",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "🟊   🟊",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Avengers, New": "x",
+  "Avengers, Savage": "x",
+  "Deadpool\r\nTeam-up": "x",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd92"
+  },
+  "Wave": 2,
+  "Hero": "X-23",
+  "Card 1/12": "Master Martial Artist: Double each ✸ on the previous Hero card in the Storyline.",
+  "Card 2/12": "Master Martial Artist: Double each ✸ on the previous Hero card in the Storyline.",
+  "Card 3/12": "Tactical Genius: For each 🟊 you perform this turn, give 1 ➤ or 1 ✸ token from the pool to any Hero.",
+  "Card 4/12": "Tactical Genius: For each 🟊 you perform this turn, give 1 ➤ or 1 ✸ token from the pool to any Hero.",
+  "Card 5/12": "Healing Factor: As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd93"
+  },
+  "Wave": 2,
+  "Hero": "X-23",
+  "Card 1/12": "➤   ✸",
+  "Card 2/12": "➤   ✸",
+  "Card 3/12": "🟊",
+  "Card 4/12": "🟊",
+  "Card 5/12": "✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "➤   ✸",
+  "Card 8/12": "🟊   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "🟊",
+  "Uncanny X-Force": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd94"
+  },
+  "Wave": 1,
+  "Hero": "Yondu",
+  "Card 1/12": "Turncoat: You may turn each Civilian into a Thug, and each Thug into a Civilian at your Location.",
+  "Card 2/12": "Yaka Arrow Flurry: Deal ✸✸✸ split as you like in your and adjacent Locations.",
+  "Card 3/12": "Yaka Arrow Whirlwind: Starting from your Location and going clockwise, defeat 1 Thug in each Location. Only stop when there are no Thugs in the next Location.",
+  "Defenders": "x"
+},
+{
+  "_id": {
+    "$oid": "66ac56b4b64fbe236fb0cd95"
+  },
+  "Wave": 1,
+  "Hero": "Yondu",
+  "Card 1/12": "🟊",
+  "Card 2/12": "🟊",
+  "Card 3/12": "None",
+  "Card 4/12": "➤   🟊",
+  "Card 5/12": "➤   ✸",
+  "Card 6/12": "➤   ✸",
+  "Card 7/12": "✸   ✸",
+  "Card 8/12": "✸   ✸",
+  "Card 9/12": "➤",
+  "Card 10/12": "✸",
+  "Defenders": "x"
+}]
