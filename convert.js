@@ -19,15 +19,15 @@ async function convert() {
         const consolidatedCard = {};
         const key = `Card ${i}/12`;
         const symbolConversionTable = {
-          "#": "w",
-          "🟊": "h",
-          "➤": "m",
-          "✸": "f",
+          "#": "&w",
+          "🟊": "&h",
+          "➤": "&m",
+          "✸": "&f",
         };
 
         consolidatedCard.symbols = next[key]
           .split("   ")
-          .map((symbol) => symbolConversionTable[symbol]);
+          .map((symbol) => symbolConversionTable[symbol] || symbol);
 
         if (consolidatedCard.symbols.includes(undefined)) {
           delete consolidatedCard.symbols;
@@ -40,7 +40,7 @@ async function convert() {
           consolidatedCard.specialAbility = consolidatedCard.specialAbility
             .split("")
             .map((char) =>
-              char in symbolConversionTable ? '&' + symbolConversionTable[char] : char
+              char in symbolConversionTable ? symbolConversionTable[char] : char
             )
             .join("");
         }
