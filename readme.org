@@ -4,8 +4,86 @@ This is a fan app for the board game Marvel United: X-Men. Currently I am cleani
 
 ** TODOS
 
+- Reach out for villain data.
 - Create MongoDB database.
 - Add boxes collection with =_id=, =wave=, and =name=.
 - Add =box= field to each hero, holding the box =id=. This can be done programmatically-ish with some JS arrays. See =convert.js= for an example.
 - Add =anti-hero= with =true= to anti-heroes, similarly to the above step.
-- Add heroes to a
+- Add =heroes.json= to a =heroes= collection.
+
+** Potential DB Queries
+
+#+begin_src
+/api/v1/heroes
+
+[
+  {
+    "type": "hero",
+    "name": "Marrow",
+    "cards": [
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Bone Weapons",
+        "specialAbility": "&f&f&f split as you like in your and adjacent Locations.\n"
+      },
+      {
+        "symbols": [
+          "m"
+        ],
+        "name": "Bone Weapons",
+        "specialAbility": "&f&f&f split as you like in your and adjacent Locations.\n"
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Bone Armor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if a Villain or Henchman in your Location deals damage to you during a Villain turn, they take 1 damage at the end of that turn."
+      },
+      {
+        "symbols": [
+          "h"
+        ],
+        "name": "Bone Armor",
+        "specialAbility": "As long as this card is face-up in the Storyline, if a Villain or Henchman in your Location deals damage to you during a Villain turn, they take 1 damage at the end of that turn."
+      },
+      {
+        "symbols": [
+          "m",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "h",
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f",
+          "f"
+        ]
+      },
+      {
+        "symbols": [
+          "m"
+        ]
+      },
+      {
+        "symbols": [
+          "h"
+        ]
+      },
+      {
+        "symbols": [
+          "f"
+        ]
+      }
+    ]
+  },
+  ...
+]
+#+end_src
