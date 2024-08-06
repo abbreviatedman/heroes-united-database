@@ -29,6 +29,10 @@ async function convert() {
           .split("   ")
           .map((symbol) => symbolConversionTable[symbol]);
 
+        if (consolidatedCard.symbols.includes(undefined)) {
+          delete consolidatedCard.symbols;
+        }
+
         if (hero[key]) {
           const splitLocation = hero[key].indexOf(": ");
           consolidatedCard.name = hero[key].slice(0, splitLocation);

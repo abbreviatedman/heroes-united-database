@@ -28,7 +28,7 @@
       {
         "symbols": [
           "w",
-          null
+          "w"
         ]
       },
       {
@@ -140,16 +140,10 @@
     "name": "Angel",
     "cards": [
       {
-        "symbols": [
-          null
-        ],
         "name": "Attack from Above",
         "specialAbility": "Move to any Location and defeat 2 Thugs."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Attack from Above",
         "specialAbility": "Move to any Location and defeat 2 Thugs."
       },
@@ -223,9 +217,6 @@
         "specialAbility": "&m and then &f&f against a single target."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Quantum Leap",
         "specialAbility": "Swap this card with any of your face-up cards in the Storyline. That card becomes the one you played this turn."
       },
@@ -2220,9 +2211,6 @@
         "specialAbility": "You may search the Master Plan deck, remove one card from the game, then reshuffle the deck."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Orb of Agamotto",
         "specialAbility": "As long as this card is face-up in the Storyline, the top card of the Master Plan deck is revealed."
       },
@@ -2684,9 +2672,6 @@
         "specialAbility": "As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately move to an adjacent location."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Cyber Mind",
         "specialAbility": "As long as this card is face-up in the Storyline, at the end of each Villain turn, you may perform 1 🟊 or 1 &f in the Villain's Location."
       },
@@ -3424,16 +3409,10 @@
         "specialAbility": "Gain 1 &f token. You cannot take any damage until the beginning of your next turn."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Plasma Blast",
         "specialAbility": "&f&f&f in 1 adjacent Location."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Plasma Blast",
         "specialAbility": "&f&f&f in 1 adjacent Location."
       },
@@ -3611,23 +3590,14 @@
     "name": "Howard the Duck",
     "cards": [
       {
-        "symbols": [
-          null
-        ],
         "name": "Neutron Disintegrator",
         "specialAbility": "Deal damage to a Villain or Henchman in your Location until they have 1 Health. You cannot use any &f this turn."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "No More Mister Nice Duck",
         "specialAbility": "Deal &f&f to each enemy in your Location."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Big Freaking Gun",
         "specialAbility": "Deal &f&f in any Location."
       },
@@ -4937,16 +4907,10 @@
         "specialAbility": "This turn you can treat &m as  &w."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Magnetokinesis",
         "specialAbility": "&f&f&f split as you like in your and adjacent Locations."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Magnetokinesis",
         "specialAbility": "&f&f&f split as you like in your and adjacent Locations."
       },
@@ -6325,44 +6289,26 @@
         "specialAbility": "Give 1 &w token from the pool to another Hero."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Phoenix Cry",
         "specialAbility": "&w &w &w &w &w Then discard all cards from your hand to the bottom of your deck."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w &w"
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w &w"
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w"
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w"
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w"
       }
@@ -6723,16 +6669,10 @@
         "specialAbility": "You can move to any Location and &f&f there."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Heavy Firepower",
         "specialAbility": "&f&f in any Location, and &f in both adjacent locations."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Precision Shot",
         "specialAbility": "&f&f&f&f against a single enemy. Damage you deal this turn can't be canceled or reduced."
       },
@@ -7055,16 +6995,10 @@
         "specialAbility": "Another Hero can swap one card from their hand with one of their face-up cards in the Storyline."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Psionic Energy Blast",
         "specialAbility": "&f&f&f against a single enemy in an adjacent Location."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Psionic Energy Field",
         "specialAbility": "Cancel the first damage each Hero would suffer from the effects of the next Master Plan card."
       },
@@ -7874,9 +7808,6 @@
         "specialAbility": "Deal 1 damage to a single enemy in every Location."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Common Sense",
         "specialAbility": "If the number of Special Effect cards in the Storyline is greater than the Villain's current Health, the Heroes win the game."
       },
@@ -8209,16 +8140,10 @@
         "specialAbility": "Gain 1 &f token for each Location with no Civilians or Thugs."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Solar Flare",
         "specialAbility": "Deal 1 damage to EVERYTHING in an adjacent location and discard all Civilians there."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Solar Flare",
         "specialAbility": "Deal 1 damage to EVERYTHING in an adjacent location and discard all Civilians there."
       },
@@ -8616,9 +8541,6 @@
         "specialAbility": "You cannot take any damage until the beginning of your next turn."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Solar Gem Blast",
         "specialAbility": "Add all &f at the bottom of the last 4 Hero cards in the Storyline. Deal that much damage to a single enemy in your Location."
       },
@@ -9293,9 +9215,6 @@
         "specialAbility": "Deal &f&f&f split as you like in your and adjacent Locations."
       },
       {
-        "symbols": [
-          null
-        ],
         "name": "Yaka Arrow Whirlwind",
         "specialAbility": "Starting from your Location and going clockwise, defeat 1 Thug in each Location. Only stop when there are no Thugs in the next Location."
       },
