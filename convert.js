@@ -10,7 +10,6 @@ async function convert() {
 
     if (i !== heroes.length - 1 && hero.Hero === next.Hero) {
       const consolidatedHero = {
-        type: "hero",
         name: hero.Hero,
         cards: [],
       };
