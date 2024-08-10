@@ -1,7 +1,7 @@
 [
   {
     "name": "Adam Warlock",
-    "box": "Adam Warlock",
+    "box": "66b6c90432482ef0b1b9c997",
     "cards": [
       {
         "symbols": ["&w"],
@@ -43,7 +43,7 @@
   },
   {
     "name": "America Chavez",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -85,7 +85,7 @@
   },
   {
     "name": "Angel",
-    "box": "MUXFC",
+    "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
       {
         "symbols": ["None"],
@@ -129,7 +129,7 @@
   },
   {
     "name": "Ant-Man",
-    "box": "MUC",
+    "box": "66b6c90432482ef0b1b9c991",
     "cards": [
       {
         "symbols": ["&w"],
@@ -171,7 +171,7 @@
   },
   {
     "name": "Apocalypse",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c9a2",
     "anti-hero": true,
     "cards": [
       {
@@ -224,7 +224,7 @@
   },
   {
     "name": "Archangel",
-    "box": "MUXGT",
+    "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
       {
         "symbols": ["&m"],
@@ -268,7 +268,7 @@
   },
   {
     "name": "Banshee",
-    "box": "MUXBT",
+    "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
       {
         "symbols": ["&m"],
@@ -312,7 +312,7 @@
   },
   {
     "name": "Beast",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c999",
     "cards": [
       {
         "symbols": ["&h"],
@@ -356,7 +356,7 @@
   },
   {
     "name": "Beast (First Class)",
-    "box": "MUXFC",
+    "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
       {
         "symbols": ["&m", "&h"],
@@ -400,7 +400,7 @@
   },
   {
     "name": "Beta Ray Bill",
-    "box": "MUTA",
+    "box": "66b6c90432482ef0b1b9c994",
     "cards": [
       {
         "symbols": ["&m"],
@@ -442,7 +442,7 @@
   },
   {
     "name": "Bishop",
-    "box": "MUXGT",
+    "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
       {
         "symbols": ["&h"],
@@ -486,7 +486,7 @@
   },
   {
     "name": "Black Cat",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -534,7 +534,7 @@
   },
   {
     "name": "Black Panther",
-    "box": "MUBP",
+    "box": "66b6c90432482ef0b1b9c995",
     "cards": [
       {
         "symbols": ["&m"],
@@ -576,7 +576,7 @@
   },
   {
     "name": "Black Widow",
-    "box": "MUC",
+    "box": "66b6c90432482ef0b1b9c991",
     "cards": [
       {
         "symbols": ["&f"],
@@ -618,7 +618,7 @@
   },
   {
     "name": "Blade",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&f"],
@@ -660,7 +660,7 @@
   },
   {
     "name": "Blink",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -705,7 +705,7 @@
   {
     "name": "Bob, Agent of Hydra",
     "anti-hero": true,
-    "box": "MUXDP",
+    "box": "66b6c90432482ef0b1b9c99f",
     "cards": [
       {
         "symbols": ["&w"],
@@ -755,7 +755,7 @@
   },
   {
     "name": "Boom-Boom",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -799,7 +799,7 @@
   },
   {
     "name": "Cable",
-    "box": "MUXXF",
+    "box": "66b6c90432482ef0b1b9c9a0",
     "cards": [
       {
         "symbols": ["&w"],
@@ -847,7 +847,7 @@
   },
   {
     "name": "Cannonball",
-    "box": "MUXXF",
+    "box": "66b6c90432482ef0b1b9c9a0",
     "cards": [
       {
         "symbols": ["&m"],
@@ -891,7 +891,7 @@
   },
   {
     "name": "Captain America",
-    "box": "MUC",
+    "box": "66b6c90432482ef0b1b9c991",
     "cards": [
       {
         "symbols": ["&m"],
@@ -933,7 +933,7 @@
   },
   {
     "name": "Captain Britain",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -977,7 +977,7 @@
   },
   {
     "name": "Captain Marvel",
-    "box": "MUC",
+    "box": "66b6c90432482ef0b1b9c991",
     "cards": [
       {
         "symbols": ["&f"],
@@ -1019,7 +1019,7 @@
   },
   {
     "name": "Cloak",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1063,7 +1063,7 @@
   },
   {
     "name": "Colossus",
-    "box": "MUXGT",
+    "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1107,7 +1107,7 @@
   },
   {
     "name": "Cyclops",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c999",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1151,7 +1151,7 @@
   },
   {
     "name": "Cyclops (First Class)",
-    "box": "MUXFC",
+    "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1195,7 +1195,7 @@
   },
   {
     "name": "Dagger",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1239,7 +1239,7 @@
   },
   {
     "name": "Daredevil",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1281,7 +1281,7 @@
   },
   {
     "name": "Dazzler",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1325,7 +1325,7 @@
   },
   {
     "name": "Deadpool",
-    "box": "MUXDP",
+    "box": "66b6c90432482ef0b1b9c99f",
     "cards": [
       {
         "symbols": ["&w"],
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Doctor Doom",
-    "box": "MUXF4",
+    "box": "66b6c90432482ef0b1b9c9a1",
     "anti-hero": true,
     "cards": [
       {
@@ -1426,7 +1426,7 @@
   },
   {
     "name": "Doctor Strange",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -1472,7 +1472,7 @@
   },
   {
     "name": "Domino",
-    "box": "MUXXF",
+    "box": "66b6c90432482ef0b1b9c9a0",
     "cards": [
       {
         "symbols": ["&w"],
@@ -1516,7 +1516,7 @@
   },
   {
     "name": "Doop",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1566,7 +1566,7 @@
   },
   {
     "name": "Drax",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&f"],
@@ -1608,7 +1608,7 @@
   },
   {
     "name": "Elektra",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1650,7 +1650,7 @@
   },
   {
     "name": "Emma Frost",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
     "cards": [
       {
@@ -1695,7 +1695,7 @@
   },
   {
     "name": "Falcon",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1737,7 +1737,7 @@
   },
   {
     "name": "Fantomex",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -1781,7 +1781,7 @@
   },
   {
     "name": "Feral",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1825,7 +1825,7 @@
   },
   {
     "name": "Firestar",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1869,7 +1869,7 @@
   },
   {
     "name": "Forge",
-    "box": "MUXGT",
+    "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
       {
         "symbols": ["&w"],
@@ -1913,7 +1913,7 @@
   },
   {
     "name": "Gambit",
-    "box": "MUXBT",
+    "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
       {
         "symbols": ["&w"],
@@ -1957,7 +1957,7 @@
   },
   {
     "name": "Gamora",
-    "box": "MUGR",
+    "box": "66b6c90432482ef0b1b9c993",
     "cards": [
       {
         "symbols": ["&m"],
@@ -1999,7 +1999,7 @@
   },
   {
     "name": "Ghost Rider",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2041,7 +2041,7 @@
   },
   {
     "name": "Ghost-Spider",
-    "box": "MUSV",
+    "box": "66b6c90432482ef0b1b9c992",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2083,7 +2083,7 @@
   },
   {
     "name": "Groot",
-    "box": "MUGR",
+    "box": "66b6c90432482ef0b1b9c993",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2139,7 +2139,7 @@
   },
   {
     "name": "Guardian",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2183,7 +2183,7 @@
   },
   {
     "name": "Gwenpool",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2229,7 +2229,7 @@
   },
   {
     "name": "Havok",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2273,7 +2273,7 @@
   },
   {
     "name": "Hawkeye",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2315,7 +2315,7 @@
   },
   {
     "name": "Hope Summers",
-    "box": "MUXF5",
+    "box": "66b6c90432482ef0b1b9c99c",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2359,7 +2359,7 @@
   },
   {
     "name": "Howard the Duck",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["None"],
@@ -2401,7 +2401,7 @@
   },
   {
     "name": "Hulk",
-    "box": "MUC",
+    "box": "66b6c90432482ef0b1b9c991",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2443,7 +2443,7 @@
   },
   {
     "name": "Human Torch",
-    "box": "MUXF4",
+    "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
       {
         "symbols": ["&m", "&f"],
@@ -2487,7 +2487,7 @@
   },
   {
     "name": "Iceman",
-    "box": "MUXGT",
+    "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
       {
         "symbols": ["&m", "&h"],
@@ -2531,7 +2531,7 @@
   },
   {
     "name": "Iceman (First Class)",
-    "box": "MUXFC",
+    "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
       {
         "symbols": ["&m", "&f"],
@@ -2575,7 +2575,7 @@
   },
   {
     "name": "Invisible Woman",
-    "box": "MUXF4",
+    "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
       {
         "symbols": ["&w"],
@@ -2619,7 +2619,7 @@
   },
   {
     "name": "Iron Fist",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&h"],
@@ -2661,7 +2661,7 @@
   },
   {
     "name": "Iron Man",
-    "box": "MUC",
+    "box": "66b6c90432482ef0b1b9c991",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2703,7 +2703,7 @@
   },
   {
     "name": "Jean Grey",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c999",
     "cards": [
       {
         "symbols": ["&w"],
@@ -2747,7 +2747,7 @@
   },
   {
     "name": "Jessica Jones",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2789,7 +2789,7 @@
   },
   {
     "name": "Jubilee",
-    "box": "MUXBT",
+    "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2833,7 +2833,7 @@
   },
   {
     "name": "Kitty Pryde",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m", "&h"],
@@ -2889,7 +2889,7 @@
   },
   {
     "name": "Korg",
-    "box": "MUTA",
+    "box": "66b6c90432482ef0b1b9c994",
     "cards": [
       {
         "symbols": ["&f"],
@@ -2931,7 +2931,7 @@
   },
   {
     "name": "Lady Deadpool",
-    "box": "MUXDP",
+    "box": "66b6c90432482ef0b1b9c99f",
     "cards": [
       {
         "symbols": ["&m"],
@@ -2987,7 +2987,7 @@
   },
   {
     "name": "Legion",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
     "cards": [
       {
@@ -3044,7 +3044,7 @@
   },
   {
     "name": "Logan",
-    "box": "MUXDFP",
+    "box": "66b6c90432482ef0b1b9c99d",
     "cards": [
       {
         "symbols": ["&m"],
@@ -3088,7 +3088,7 @@
   },
   {
     "name": "Longshot",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -3132,7 +3132,7 @@
   },
   {
     "name": "Luke Cage",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -3174,7 +3174,7 @@
   },
   {
     "name": "Magik",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -3220,7 +3220,7 @@
   },
   {
     "name": "Magneto",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c999",
     "anti-hero": true,
     "cards": [
       {
@@ -3265,7 +3265,7 @@
   },
   {
     "name": "Mantis",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -3307,7 +3307,7 @@
   },
   {
     "name": "Marrow",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
     "cards": [
       {
@@ -3352,7 +3352,7 @@
   },
   {
     "name": "Marvel Girl",
-    "box": "MUXFC",
+    "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
       {
         "symbols": ["&w"],
@@ -3396,7 +3396,7 @@
   },
   {
     "name": "Miles Morales",
-    "box": "MUSV",
+    "box": "66b6c90432482ef0b1b9c992",
     "cards": [
       {
         "symbols": ["&w"],
@@ -3438,7 +3438,7 @@
   },
   {
     "name": "Mirage",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -3486,7 +3486,7 @@
   },
   {
     "name": "Mister Fantastic",
-    "box": "MUXF4",
+    "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
       {
         "symbols": ["&h", "&f"],
@@ -3530,7 +3530,7 @@
   },
   {
     "name": "Mockingbird",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&h"],
@@ -3572,7 +3572,7 @@
   },
   {
     "name": "Moon Knight",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&f", "&f"],
@@ -3614,7 +3614,7 @@
   },
   {
     "name": "Ms. Marvel",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -3656,7 +3656,7 @@
   },
   {
     "name": "Multiple Man",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m", "&h"],
@@ -3712,7 +3712,7 @@
   },
   {
     "name": "Mystique",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c999",
     "anti-hero": true,
     "cards": [
       {
@@ -3757,7 +3757,7 @@
   },
   {
     "name": "Namor",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
     "cards": [
       {
@@ -3802,7 +3802,7 @@
   },
   {
     "name": "Nebula",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -3844,7 +3844,7 @@
   },
   {
     "name": "Nick Fury",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -3886,7 +3886,7 @@
   },
   {
     "name": "Nightcrawler",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&h", "&h"],
@@ -3942,7 +3942,7 @@
   },
   {
     "name": "Northstar",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -3986,7 +3986,7 @@
   },
   {
     "name": "Nova",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -4028,7 +4028,7 @@
   },
   {
     "name": "Okoye",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&h", "&h"],
@@ -4118,7 +4118,7 @@
   },
   {
     "name": "Phoenix",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -4174,7 +4174,7 @@
   },
   {
     "name": "Pixie",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4218,7 +4218,7 @@
   },
   {
     "name": "Polaris",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4262,7 +4262,7 @@
   },
   {
     "name": "Professor X",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c999",
     "cards": [
       {
         "symbols": ["&w"],
@@ -4310,7 +4310,7 @@
   },
   {
     "name": "Psylocke",
-    "box": "MUXBT",
+    "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4354,7 +4354,7 @@
   },
   {
     "name": "Puck",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&h"],
@@ -4398,7 +4398,7 @@
   },
   {
     "name": "Punisher",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4440,7 +4440,7 @@
   },
   {
     "name": "Quicksilver",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m", "&m"],
@@ -4482,7 +4482,7 @@
   },
   {
     "name": "Rocket",
-    "box": "MUGR",
+    "box": "66b6c90432482ef0b1b9c993",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4524,7 +4524,7 @@
   },
   {
     "name": "Rogue",
-    "box": "MUXBT",
+    "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
       {
         "symbols": ["&h"],
@@ -4568,7 +4568,7 @@
   },
   {
     "name": "Sasquatch",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4612,7 +4612,7 @@
   },
   {
     "name": "Scarlet Witch",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -4654,7 +4654,7 @@
   },
   {
     "name": "Shang Chi",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m", "&f"],
@@ -4696,7 +4696,7 @@
   },
   {
     "name": "Shatterstar",
-    "box": "MUXXF",
+    "box": "66b6c90432482ef0b1b9c9a0",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4740,7 +4740,7 @@
   },
   {
     "name": "She-Hulk",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4784,7 +4784,7 @@
   },
   {
     "name": "Shuri",
-    "box": "MUBP",
+    "box": "66b6c90432482ef0b1b9c995",
     "cards": [
       {
         "symbols": ["&w"],
@@ -4826,7 +4826,7 @@
   },
   {
     "name": "Silver Surfer",
-    "box": "MUXF4",
+    "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
       {
         "symbols": ["&w"],
@@ -4872,7 +4872,7 @@
   },
   {
     "name": "Snowbird",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4918,7 +4918,7 @@
   },
   {
     "name": "Spider-Ham",
-    "box": "MUSV",
+    "box": "66b6c90432482ef0b1b9c992",
     "cards": [
       {
         "symbols": ["&m"],
@@ -4960,7 +4960,7 @@
   },
   {
     "name": "Spider-Man",
-    "box": "MUSV",
+    "box": "66b6c90432482ef0b1b9c992",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5002,7 +5002,7 @@
   },
   {
     "name": "Spider-Man 2099",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5044,7 +5044,7 @@
   },
   {
     "name": "Spider-Woman",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&h"],
@@ -5086,7 +5086,7 @@
   },
   {
     "name": "Spiral",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
     "cards": [
       {
@@ -5133,7 +5133,7 @@
   },
   {
     "name": "Squirrel Girl",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -5175,7 +5175,7 @@
   },
   {
     "name": "Star-Lord",
-    "box": "MUGR",
+    "box": "66b6c90432482ef0b1b9c993",
     "cards": [
       {
         "symbols": ["&w"],
@@ -5217,7 +5217,7 @@
   },
   {
     "name": "Storm",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c999",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5305,7 +5305,7 @@
   },
   {
     "name": "Strong Guy",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -5349,7 +5349,7 @@
   },
   {
     "name": "Sunfire",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5393,7 +5393,7 @@
   },
   {
     "name": "Sunspot",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5441,7 +5441,7 @@
   },
   {
     "name": "The Thing",
-    "box": "MUXF4",
+    "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5485,7 +5485,7 @@
   },
   {
     "name": "Thor",
-    "box": "MUTA",
+    "box": "66b6c90432482ef0b1b9c994",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5527,7 +5527,7 @@
   },
   {
     "name": "Valkyrie",
-    "box": "MUTA",
+    "box": "66b6c90432482ef0b1b9c994",
     "cards": [
       {
         "symbols": ["&f"],
@@ -5569,7 +5569,7 @@
   },
   {
     "name": "Venom",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5611,7 +5611,7 @@
   },
   {
     "name": "Vision",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -5653,7 +5653,7 @@
   },
   {
     "name": "War Machine",
-    "box": "MUSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m"],
@@ -5695,7 +5695,7 @@
   },
   {
     "name": "Warlock",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m", "&f"],
@@ -5741,7 +5741,7 @@
   },
   {
     "name": "Warpath",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -5785,7 +5785,7 @@
   },
   {
     "name": "Wasp",
-    "box": "MUC",
+    "box": "66b6c90432482ef0b1b9c991",
     "cards": [
       {
         "symbols": ["&w"],
@@ -5827,7 +5827,7 @@
   },
   {
     "name": "Weapon X",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&h"],
@@ -5871,7 +5871,7 @@
   },
   {
     "name": "Winter Soldier",
-    "box": "MUBP",
+    "box": "66b6c90432482ef0b1b9c995",
     "cards": [
       {
         "symbols": ["&f"],
@@ -5913,7 +5913,7 @@
   },
   {
     "name": "Wolfsbane",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&w"],
@@ -5957,7 +5957,7 @@
   },
   {
     "name": "Wolverine",
-    "box": "MUXC",
+    "box": "66b6c90432482ef0b1b9c999",
     "cards": [
       {
         "symbols": ["&w"],
@@ -6001,7 +6001,7 @@
   },
   {
     "name": "X-23",
-    "box": "MUXSG",
+    "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
         "symbols": ["&m", "&f"],
