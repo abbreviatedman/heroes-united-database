@@ -1,0 +1,573 @@
+* API Route Testing
+:PROPERTIES:
+:header-args: :var domain="http://localhost:3000/api/v1"
+:END:
+
+** Boxes
+:PROPERTIES:
+:header-args+: :var route="boxes"
+:END:
+
+*** GET Boxes
+
+#+begin_src restclient
+   GET :domain/:route/
+#+end_src
+
+#+RESULTS:
+#+BEGIN_SRC js
+{
+  "message": "success",
+  "payload": [
+    {
+      "_id": "66b6c90432482ef0b1b9c991",
+      "name": "Marvel United",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c992",
+      "name": "Marvel United: Enter the Spider-Verse",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c993",
+      "name": "Marvel United: Guardians of the Galaxy Remix",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c994",
+      "name": "Marvel United: Tales of Asgard",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c995",
+      "name": "Marvel United: Rise of the Black Panther",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c996",
+      "name": "Marvel United: Kickstarter Promos Box",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c997",
+      "name": "Adam Warlock",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c998",
+      "name": "Yondu",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c999",
+      "name": "Marvel United: X-Men",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c99a",
+      "name": "Marvel United: X-Men - Gold Team",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c99b",
+      "name": "Marvel United: X-Men - Blue Team",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c99c",
+      "name": "Marvel United: X-Men - Phoenix Five",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c99d",
+      "name": "Marvel United: X-Men - Days of Future Past",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c99e",
+      "name": "Marvel United: X-Men - First Class",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c99f",
+      "name": "Marvel United: Deadpool",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c9a0",
+      "name": "Marvel United: X-Men - X-Force",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c9a1",
+      "name": "Marvel United: Fantastic Four",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c9a2",
+      "name": "Marvel United: X-Men - Horsemen of the Apocalypse",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c9a3",
+      "name": "Marvel United: X-Men - Kickstarter Promos Box",
+      "wave": 1
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c9a4",
+      "name": "Storm (Mohawk)",
+      "wave": 2
+    },
+    {
+      "_id": "66b6c90432482ef0b1b9c9a5",
+      "name": "Old Man Logan",
+      "wave": 2
+    }
+  ]
+}
+// GET http://localhost:3000/api/v1/boxes/
+// HTTP/1.1 200 OK
+// X-Powered-By: Express
+// Content-Type: application/json; charset=utf-8
+// Content-Length: 1783
+// ETag: W/"6f7-GMbNwy647a1So1Bv0P+j18rytw4"
+// Date: Sat, 10 Aug 2024 19:05:35 GMT
+// Connection: keep-alive
+// Keep-Alive: timeout=5
+// Request duration: 0.151083s
+#+END_SRC
+
+** GET Heroes
+:PROPERTIES:
+:header-args+: :var route="heroes"
+:END:
+
+*** GET Heroes
+#+begin_src restclient
+GET :domain/:route
+#+end_src
+
+Results truncated for space.
+
+#+RESULTS:
+#+BEGIN_SRC js
+  {
+    "message": "success",
+    "payload": [
+      {
+        "_id": "66b6d2b632482ef0b1b9c9a8",
+        "name": "Adam Warlock",
+        "box": "66b6c90432482ef0b1b9c997",
+        "cards": [
+          {
+            "_id": "66b7baf33b6b036ad80571d1",
+            "symbols": [
+              "&w"
+            ],
+            "name": "Immortality",
+            "specialAbility": "As long as this card is face-up in the Storyline, you cannot be forced to discard your last card."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571d2",
+            "symbols": [
+              "&h",
+              "&f"
+            ],
+            "name": "Avatar of Life",
+            "specialAbility": "The next Master Plan card will be played face down with no effect."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571d3",
+            "symbols": [
+              "&f"
+            ],
+            "name": "Quantum Magic",
+            "specialAbility": "Look at the top 3 Master Plan cards and put them back on top in any order."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571d4",
+            "symbols": [
+              "&w",
+              "&w"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571d5",
+            "symbols": [
+              "&m",
+              "&m"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571d6",
+            "symbols": [
+              "&m",
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571d7",
+            "symbols": [
+              "&h",
+              "&f"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571d8",
+            "symbols": [
+              "&h",
+              "&f"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571d9",
+            "symbols": [
+              "&h",
+              "&f"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571da",
+            "symbols": [
+              "&m"
+            ]
+          }
+        ]
+      },
+      {
+        "_id": "66b6d2b632482ef0b1b9c9a9",
+        "name": "America Chavez",
+        "box": "66b6c90432482ef0b1b9c9a3",
+        "cards": [
+          {
+            "_id": "66b7baf33b6b036ad80571db",
+            "symbols": [
+              "&m"
+            ],
+            "name": "Star Portal",
+            "specialAbility": "&w &w"
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571dc",
+            "symbols": [
+              "&h"
+            ],
+            "name": "Invulnerability",
+            "specialAbility": "You cannot take any damage until the beginning of your next turn."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571dd",
+            "symbols": [
+              "&f"
+            ],
+            "name": "Energy Infusion",
+            "specialAbility": "&f &f"
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571de",
+            "symbols": [
+              "&m",
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571df",
+            "symbols": [
+              "&m",
+              "&f"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571e0",
+            "symbols": [
+              "&h",
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571e1",
+            "symbols": [
+              "&h",
+              "&f"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571e2",
+            "symbols": [
+              "&f",
+              "&f"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571e3",
+            "symbols": [
+              "&m"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571e4",
+            "symbols": [
+              "&f"
+            ]
+          }
+        ]
+      },
+      {
+        "_id": "66b6d2b632482ef0b1b9c9aa",
+        "name": "Angel",
+        "box": "66b6c90432482ef0b1b9c99e",
+        "cards": [
+          {
+            "symbols": [],
+            "_id": "66b7baf33b6b036ad80571e5",
+            "name": "Attack from Above",
+            "specialAbility": "Move to any Location and defeat 2 Thugs."
+          },
+          {
+            "symbols": [],
+            "_id": "66b7baf33b6b036ad80571e6",
+            "name": "Attack from Above",
+            "specialAbility": "Move to any Location and defeat 2 Thugs."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571e7",
+            "symbols": [
+              "&m",
+              "&m"
+            ],
+            "name": "Worthington Industries Resources",
+            "specialAbility": "Distribute 2 &h tokens from the pool among any number of Heroes."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571e8",
+            "symbols": [
+              "&m",
+              "&m"
+            ],
+            "name": "Worthington Industries Resources",
+            "specialAbility": "Distribute 2 &h tokens from the pool among any number of Heroes."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571e9",
+            "symbols": [
+              "&m",
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571ea",
+            "symbols": [
+              "&m",
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571eb",
+            "symbols": [
+              "&m",
+              "&f"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571ec",
+            "symbols": [
+              "&m"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571ed",
+            "symbols": [
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571ee",
+            "symbols": [
+              "&f"
+            ]
+          }
+        ]
+      },
+      {
+        "_id": "66b6d2b632482ef0b1b9c9ab",
+        "name": "Ant-Man",
+        "box": "66b6c90432482ef0b1b9c991",
+        "cards": [
+          {
+            "_id": "66b7baf33b6b036ad80571ef",
+            "symbols": [
+              "&w"
+            ],
+            "name": "Shrink",
+            "specialAbility": "You cannot take any damage until the beginning of your next turn."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571f0",
+            "symbols": [
+              "&m"
+            ],
+            "name": "Grow",
+            "specialAbility": "&m and then &f&f against a single target."
+          },
+          {
+            "symbols": [],
+            "_id": "66b7baf33b6b036ad80571f1",
+            "name": "Quantum Leap",
+            "specialAbility": "Swap this card with any of your face-up cards in the Storyline. That card becomes the one you played this turn."
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571f2",
+            "symbols": [
+              "&m",
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571f3",
+            "symbols": [
+              "&h",
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571f4",
+            "symbols": [
+              "&h",
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571f5",
+            "symbols": [
+              "&h",
+              "&f"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571f6",
+            "symbols": [
+              "&m"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571f7",
+            "symbols": [
+              "&h"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571f8",
+            "symbols": [
+              "&f"
+            ]
+          }
+        ]
+      },
+      {
+        "_id": "66b6d2b632482ef0b1b9c9ac",
+        "name": "Apocalypse",
+        "box": "66b6c90432482ef0b1b9c9a2",
+        "antihero": true,
+        "cards": [
+          {
+            "_id": "66b7baf33b6b036ad80571f9",
+            "symbols": [
+              "&w"
+            ],
+            "name": "Celestial Energy Manipulation",
+            "specialAbility": "You MUST gain &w &w tokens. At the end of your turn, turn this card face down.",
+            "specialIsMandatory": true
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571fa",
+            "symbols": [
+              "&w"
+            ],
+            "name": "Celestial Energy Manipulation",
+            "specialAbility": "You MUST gain &w &w tokens. At the end of your turn, turn this card face down.",
+            "specialIsMandatory": true
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571fb",
+            "symbols": [
+              "&w"
+            ],
+            "name": "Self Molecular Manipulation",
+            "specialAbility": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down.",
+            "specialIsMandatory": true
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571fc",
+            "symbols": [
+              "&w"
+            ],
+            "name": "Self Molecular Manipulation",
+            "specialAbility": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down.",
+            "specialIsMandatory": true
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571fd",
+            "symbols": [
+              "&m",
+              "&f"
+            ],
+            "name": "Survival of the Fittest",
+            "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+            "specialIsMandatory": true
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571fe",
+            "symbols": [
+              "&m",
+              "&f"
+            ],
+            "name": "Survival of the Fittest",
+            "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+            "specialIsMandatory": true
+          },
+          {
+            "_id": "66b7baf33b6b036ad80571ff",
+            "symbols": [
+              "&m",
+              "&f"
+            ],
+            "name": "Survival of the Fittest",
+            "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+            "specialIsMandatory": true
+          },
+          {
+            "_id": "66b7baf33b6b036ad8057200",
+            "symbols": [
+              "&m"
+            ],
+            "name": "Immortality",
+            "specialAbility": "Draw 1 card. As long as this card is face-up in the Storyline, when you are KO'd, the Villain doesn't activate their BAM or any alternate effect."
+          },
+          {
+            "_id": "66b7baf33b6b036ad8057201",
+            "symbols": [
+              "&m"
+            ]
+          },
+          {
+            "_id": "66b7baf33b6b036ad8057202",
+            "symbols": [
+              "&f"
+            ]
+          }
+        ]
+      },
+    ]
+  }
+  // GET http://localhost:3000/api/v1/heroes
+  // HTTP/1.1 200 OK
+  // X-Powered-By: Express
+  // Content-Type: application/json; charset=utf-8
+  // Content-Length: 157731
+  // ETag: W/"26823-A/BYleBQmryF5dE01/LP5UjrqlQ"
+  // Date: Sat, 10 Aug 2024 19:09:39 GMT
+  // Connection: keep-alive
+  // Keep-Alive: timeout=5
+  // Request duration: 0.628075s
+#+END_SRC

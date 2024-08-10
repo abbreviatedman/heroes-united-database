@@ -97,12 +97,10 @@
     "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
       {
-        "symbols": ["None"],
         "name": "Attack from Above",
         "specialAbility": "Move to any Location and defeat 2 Thugs."
       },
       {
-        "symbols": ["None"],
         "name": "Attack from Above",
         "specialAbility": "Move to any Location and defeat 2 Thugs."
       },
@@ -154,7 +152,6 @@
         "specialAbility": "&m and then &f&f against a single target."
       },
       {
-        "symbols": ["None"],
         "name": "Quantum Leap",
         "specialAbility": "Swap this card with any of your face-up cards in the Storyline. That card becomes the one you played this turn."
       },
@@ -187,42 +184,49 @@
     },
     "name": "Apocalypse",
     "box": "66b6c90432482ef0b1b9c9a2",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&w"],
         "name": "Celestial Energy Manipulation",
-        "specialAbility": "You MUST gain &w &w tokens. At the end of your turn, turn this card face down."
+        "specialAbility": "You MUST gain &w &w tokens. At the end of your turn, turn this card face down.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&w"],
         "name": "Celestial Energy Manipulation",
-        "specialAbility": "You MUST gain &w &w tokens. At the end of your turn, turn this card face down."
+        "specialAbility": "You MUST gain &w &w tokens. At the end of your turn, turn this card face down.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&w"],
         "name": "Self Molecular Manipulation",
-        "specialAbility": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down."
+        "specialAbility": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&w"],
         "name": "Self Molecular Manipulation",
-        "specialAbility": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down."
+        "specialAbility": "You MUST draw 2 cards, if possible. At the end of your turn, turn this card face down.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&m", "&f"],
         "name": "Survival of the Fittest",
-        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down."
+        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&m", "&f"],
         "name": "Survival of the Fittest",
-        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down."
+        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&m", "&f"],
         "name": "Survival of the Fittest",
-        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down."
+        "specialAbility": "You MUST deal 1 damage to EVERYTHING else in your Location. Discard all Civilians there. At the end of your turn, turn this card face down.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&m"],
@@ -755,7 +759,7 @@
       "$oid": "66b6d2b632482ef0b1b9c9b8"
     },
     "name": "Bob, Agent of Hydra",
-    "anti-hero": true,
+    "antihero": true,
     "box": "66b6c90432482ef0b1b9c99f",
     "cards": [
       {
@@ -771,7 +775,8 @@
       {
         "symbols": ["&m"],
         "name": "Run Away",
-        "specialAbility": "Until the beginning of your next turn, if a Villain ends their movement in your Location, you MUST move to the next clockwise Location."
+        "specialAbility": "Until the beginning of your next turn, if a Villain ends their movement in your Location, you MUST move to the next clockwise Location.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&m"],
@@ -1478,7 +1483,7 @@
     },
     "name": "Doctor Doom",
     "box": "66b6c90432482ef0b1b9c9a1",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&w"],
@@ -1548,7 +1553,6 @@
         "specialAbility": "You may search the Master Plan deck, remove one card from the game, then reshuffle the deck."
       },
       {
-        "symbols": ["None"],
         "name": "Orb of Agamotto",
         "specialAbility": "As long as this card is face-up in the Storyline, the top card of the Master Plan deck is revealed."
       },
@@ -1765,7 +1769,7 @@
     },
     "name": "Emma Frost",
     "box": "66b6c90432482ef0b1b9c9a3",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&w"],
@@ -1875,7 +1879,6 @@
         "specialAbility": "As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately move to an adjacent location."
       },
       {
-        "symbols": ["None"],
         "name": "Cyber Mind",
         "specialAbility": "As long as this card is face-up in the Storyline, at the end of each Villain turn, you may perform 1 &h or 1 &f in the Villain's Location."
       },
@@ -2395,12 +2398,10 @@
         "specialAbility": "Gain 1 &f token. You cannot take any damage until the beginning of your next turn."
       },
       {
-        "symbols": ["None"],
         "name": "Plasma Blast",
         "specialAbility": "&f&f&f in 1 adjacent Location."
       },
       {
-        "symbols": ["None"],
         "name": "Plasma Blast",
         "specialAbility": "&f&f&f in 1 adjacent Location."
       },
@@ -2524,17 +2525,14 @@
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
-        "symbols": ["None"],
         "name": "Neutron Disintegrator",
         "specialAbility": "Deal damage to a Villain or Henchman in your Location until they have 1 Health. You cannot use any &f this turn."
       },
       {
-        "symbols": ["None"],
         "name": "No More Mister Nice Duck",
         "specialAbility": "Deal &f&f to each enemy in your Location."
       },
       {
-        "symbols": ["None"],
         "name": "Big Freaking Gun",
         "specialAbility": "Deal &f&f in any Location."
       },
@@ -3192,7 +3190,7 @@
     },
     "name": "Legion",
     "box": "66b6c90432482ef0b1b9c9a3",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&m", "&h"],
@@ -3440,7 +3438,7 @@
     },
     "name": "Magneto",
     "box": "66b6c90432482ef0b1b9c999",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&w"],
@@ -3453,12 +3451,10 @@
         "specialAbility": "This turn you can treat &m as  &w."
       },
       {
-        "symbols": ["None"],
         "name": "Magnetokinesis",
         "specialAbility": "&f&f&f split as you like in your and adjacent Locations."
       },
       {
-        "symbols": ["None"],
         "name": "Magnetokinesis",
         "specialAbility": "&f&f&f split as you like in your and adjacent Locations."
       },
@@ -3533,7 +3529,7 @@
     },
     "name": "Marrow",
     "box": "66b6c90432482ef0b1b9c9a3",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&m"],
@@ -3965,7 +3961,7 @@
     },
     "name": "Mystique",
     "box": "66b6c90432482ef0b1b9c999",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&m"],
@@ -4013,7 +4009,7 @@
     },
     "name": "Namor",
     "box": "66b6c90432482ef0b1b9c9a3",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&f"],
@@ -4155,52 +4151,62 @@
       {
         "symbols": ["&h", "&h"],
         "name": "*Bamf* Fear No Evil",
-        "specialAbility": "You MUST move to any other Location."
+        "specialAbility": "You MUST move to any other Location.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&f", "&f"],
         "name": "*Bamf* Auf Wiedersehen!",
-        "specialAbility": "You MUST move to any other Location."
+        "specialAbility": "You MUST move to any other Location.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&h"],
         "name": "*Bamf* Anybody Need a Lift?",
-        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you."
+        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&h"],
         "name": "*Bamf* Anybody Need a Lift?",
-        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you."
+        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&h"],
         "name": "*Bamf* Anybody Need a Lift?",
-        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you."
+        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&h"],
         "name": "*Bamf* Anybody Need a Lift?",
-        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you."
+        "specialAbility": "You MUST move to any other Location. You may bring another Hero in your Location with you.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&f"],
         "name": "*Bamf* En Garde!",
-        "specialAbility": "You MUST move to any other Location."
+        "specialAbility": "You MUST move to any other Location.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&f"],
         "name": "*Bamf* En Garde!",
-        "specialAbility": "You MUST move to any other Location."
+        "specialAbility": "You MUST move to any other Location.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&f"],
         "name": "*Bamf* En Garde!",
-        "specialAbility": "You MUST move to any other Location."
+        "specialAbility": "You MUST move to any other Location.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&f"],
         "name": "*Bamf* En Garde!",
-        "specialAbility": "You MUST move to any other Location."
+        "specialAbility": "You MUST move to any other Location.",
+        "specialIsMandatory": true
       }
     ]
   },
@@ -4420,32 +4426,26 @@
         "specialAbility": "Give 1 &w token from the pool to another Hero."
       },
       {
-        "symbols": ["None"],
         "name": "Phoenix Cry",
         "specialAbility": "&w &w &w &w &w Then discard all cards from your hand to the bottom of your deck."
       },
       {
-        "symbols": ["None"],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w &w"
       },
       {
-        "symbols": ["None"],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w &w"
       },
       {
-        "symbols": ["None"],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w"
       },
       {
-        "symbols": ["None"],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w"
       },
       {
-        "symbols": ["None"],
         "name": "Phoenix Force Avatar",
         "specialAbility": "&w &w"
       }
@@ -4471,12 +4471,14 @@
       {
         "symbols": ["&m"],
         "name": "Teleporting Spell",
-        "specialAbility": "You and all other Heroes in your Location MUST move together to any other Location."
+        "specialAbility": "You and all other Heroes in your Location MUST move together to any other Location.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&h"],
         "name": "Teleporting Spell",
-        "specialAbility": "You and all other Heroes in your Location MUST move together to any other Location."
+        "specialAbility": "You and all other Heroes in your Location MUST move together to any other Location.",
+        "specialIsMandatory": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -4703,12 +4705,10 @@
         "specialAbility": "You can move to any Location and &f&f there."
       },
       {
-        "symbols": ["None"],
         "name": "Heavy Firepower",
         "specialAbility": "&f&f in any Location, and &f in both adjacent locations."
       },
       {
-        "symbols": ["None"],
         "name": "Precision Shot",
         "specialAbility": "&f&f&f&f against a single enemy. Damage you deal this turn can't be canceled or reduced."
       },
@@ -4932,12 +4932,10 @@
         "specialAbility": "Another Hero can swap one card from their hand with one of their face-up cards in the Storyline."
       },
       {
-        "symbols": ["None"],
         "name": "Psionic Energy Blast",
         "specialAbility": "&f&f&f against a single enemy in an adjacent Location."
       },
       {
-        "symbols": ["None"],
         "name": "Psionic Energy Field",
         "specialAbility": "Cancel the first damage each Hero would suffer from the effects of the next Master Plan card."
       },
@@ -5432,7 +5430,7 @@
     },
     "name": "Spiral",
     "box": "66b6c90432482ef0b1b9c9a3",
-    "anti-hero": true,
+    "antihero": true,
     "cards": [
       {
         "symbols": ["&m"],
@@ -5494,7 +5492,6 @@
         "specialAbility": "Deal 1 damage to a single enemy in every Location."
       },
       {
-        "symbols": ["None"],
         "name": "Common Sense",
         "specialAbility": "If the number of Special Effect cards in the Storyline is greater than the Villain's current Health, the Heroes win the game."
       },
@@ -5725,12 +5722,10 @@
         "specialAbility": "Gain 1 &f token for each Location with no Civilians or Thugs."
       },
       {
-        "symbols": ["None"],
         "name": "Solar Flare",
         "specialAbility": "Deal 1 damage to EVERYTHING in an adjacent location and discard all Civilians there."
       },
       {
-        "symbols": ["None"],
         "name": "Solar Flare",
         "specialAbility": "Deal 1 damage to EVERYTHING in an adjacent location and discard all Civilians there."
       },
@@ -6005,7 +6000,6 @@
         "specialAbility": "You cannot take any damage until the beginning of your next turn."
       },
       {
-        "symbols": ["None"],
         "name": "Solar Gem Blast",
         "specialAbility": "Add all &f at the bottom of the last 4 Hero cards in the Storyline. Deal that much damage to a single enemy in your Location."
       },
@@ -6471,7 +6465,6 @@
         "specialAbility": "Deal &f&f&f split as you like in your and adjacent Locations."
       },
       {
-        "symbols": ["None"],
         "name": "Yaka Arrow Whirlwind",
         "specialAbility": "Starting from your Location and going clockwise, defeat 1 Thug in each Location. Only stop when there are no Thugs in the next Location."
       },
