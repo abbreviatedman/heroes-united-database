@@ -1,86 +1,149 @@
 [
   {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c991"
+    },
     "name": "Marvel United",
     "wave": 1
   },
   {
-    "name": "Marvel United Enter the Spider-Verse",
-    "wave": 1,
-  },
-  {
-    "name": "Marvel United Guardians of the Galaxy Remix",
-    "wave": 1,
-  },
-  {
-    "name": "Marvel United Tales of Asgard",
-    "wave": 1,
-  },
-  {
-    "name": "Marvel United Rise of the Black Panther",
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c992"
+    },
+    "name": "Marvel United: Enter the Spider-Verse",
     "wave": 1
   },
   {
-    "name": "Marvel United Stretch Goals",
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c993"
+    },
+    "name": "Marvel United: Guardians of the Galaxy Remix",
     "wave": 1
   },
   {
-    "name":  "Adam Warlock",
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c994"
+    },
+    "name": "Marvel United: Tales of Asgard",
     "wave": 1
   },
   {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c995"
+    },
+    "name": "Marvel United: Rise of the Black Panther",
+    "wave": 1
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c996"
+    },
+    "name": "Marvel United: Kickstarter Promos Box",
+    "wave": 1
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c997"
+    },
+    "name": "Adam Warlock",
+    "wave": 1
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c998"
+    },
     "name": "Yondu",
-    "wave": 1,
-  },
-  {
-    "name": "Marvel United: X-Men",
-    "wave": 2
-  },
-  {
-    "name": "Marvel United: X-Men Gold Team",
-    "wave": 2,
-  },
-  {
-    "name": "Marvel United: X-Men Blue Team",
-    "wave": 2,
-  },
-  {
-    "name": "Marvel United: X-Men Phoenix Five",
-    "wave": 2
-  },
-  {
-    "name": "Marvel United: X-Men Days of Future Past",
-    "wave": 2
-  },
-  {
-    "name": "Marvel United: X-Men First Class",
-    "wave": 2
-  },
-  {
-    "name": "Marvel United: X-Men Deadpool",
-    "wave": 2
-  },
-  {
-    "name": "Marvel United: X-Men X-Force",
-    "wave": 2
-  },
-  {
-    "name": "Marvel United: X-Men Fantastic Four",
-    "wave": 2
-  },
-  {
-    "name": "Marvel United: X-Men Horsemen of the Apocalypse",
-    "wave": 2
-  },
-  {
-    "name": "Marvel United: X-Men Stretch Goals",
     "wave": 1
   },
   {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c999"
+    },
+    "name": "Marvel United: X-Men -",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c99a"
+    },
+    "name": "Marvel United: X-Men - Gold Team",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c99b"
+    },
+    "name": "Marvel United: X-Men - Blue Team",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c99c"
+    },
+    "name": "Marvel United: X-Men - Phoenix Five",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c99d"
+    },
+    "name": "Marvel United: X-Men - Days of Future Past",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c99e"
+    },
+    "name": "Marvel United: X-Men - First Class",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c99f"
+    },
+    "name": "Marvel United: Deadpool",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c9a0"
+    },
+    "name": "Marvel United: X-Men - X-Force",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c9a1"
+    },
+    "name": "Marvel United: Fantastic Four",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c9a2"
+    },
+    "name": "Marvel United: X-Men - Horsemen of the Apocalypse",
+    "wave": 2
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c9a3"
+    },
+    "name": "Marvel United: X-Men - Kickstarter Promos Box",
+    "wave": 1
+  },
+  {
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c9a4"
+    },
     "name": "Storm (Mohawk)",
     "wave": 2
   },
   {
-    "name": "Marvel United: X-Men Old Man Logan",
+    "_id": {
+      "$oid": "66b6c90432482ef0b1b9c9a5"
+    },
+    "name": "Old Man Logan",
     "wave": 2
   }
 ]
