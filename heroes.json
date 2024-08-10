@@ -1,5 +1,8 @@
 [
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9a8"
+    },
     "name": "Adam Warlock",
     "box": "66b6c90432482ef0b1b9c997",
     "cards": [
@@ -42,6 +45,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9a9"
+    },
     "name": "America Chavez",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -84,6 +90,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9aa"
+    },
     "name": "Angel",
     "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
@@ -128,6 +137,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ab"
+    },
     "name": "Ant-Man",
     "box": "66b6c90432482ef0b1b9c991",
     "cards": [
@@ -170,6 +182,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ac"
+    },
     "name": "Apocalypse",
     "box": "66b6c90432482ef0b1b9c9a2",
     "anti-hero": true,
@@ -223,6 +238,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ad"
+    },
     "name": "Archangel",
     "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
@@ -267,6 +285,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ae"
+    },
     "name": "Banshee",
     "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
@@ -311,6 +332,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9af"
+    },
     "name": "Beast",
     "box": "66b6c90432482ef0b1b9c999",
     "cards": [
@@ -355,6 +379,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b0"
+    },
     "name": "Beast (First Class)",
     "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
@@ -399,6 +426,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b1"
+    },
     "name": "Beta Ray Bill",
     "box": "66b6c90432482ef0b1b9c994",
     "cards": [
@@ -441,6 +471,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b2"
+    },
     "name": "Bishop",
     "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
@@ -485,6 +518,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b3"
+    },
     "name": "Black Cat",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -533,6 +569,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b4"
+    },
     "name": "Black Panther",
     "box": "66b6c90432482ef0b1b9c995",
     "cards": [
@@ -575,6 +614,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b5"
+    },
     "name": "Black Widow",
     "box": "66b6c90432482ef0b1b9c991",
     "cards": [
@@ -617,6 +659,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b6"
+    },
     "name": "Blade",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -659,6 +704,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b7"
+    },
     "name": "Blink",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -703,6 +751,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b8"
+    },
     "name": "Bob, Agent of Hydra",
     "anti-hero": true,
     "box": "66b6c90432482ef0b1b9c99f",
@@ -754,6 +805,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9b9"
+    },
     "name": "Boom-Boom",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -798,6 +852,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ba"
+    },
     "name": "Cable",
     "box": "66b6c90432482ef0b1b9c9a0",
     "cards": [
@@ -846,6 +903,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9bb"
+    },
     "name": "Cannonball",
     "box": "66b6c90432482ef0b1b9c9a0",
     "cards": [
@@ -890,6 +950,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9bc"
+    },
     "name": "Captain America",
     "box": "66b6c90432482ef0b1b9c991",
     "cards": [
@@ -932,6 +995,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9bd"
+    },
     "name": "Captain Britain",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -976,6 +1042,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9be"
+    },
     "name": "Captain Marvel",
     "box": "66b6c90432482ef0b1b9c991",
     "cards": [
@@ -1018,6 +1087,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9bf"
+    },
     "name": "Cloak",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1062,6 +1134,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c0"
+    },
     "name": "Colossus",
     "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
@@ -1106,6 +1181,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c1"
+    },
     "name": "Cyclops",
     "box": "66b6c90432482ef0b1b9c999",
     "cards": [
@@ -1150,6 +1228,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c2"
+    },
     "name": "Cyclops (First Class)",
     "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
@@ -1194,6 +1275,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c3"
+    },
     "name": "Dagger",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1238,6 +1322,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c4"
+    },
     "name": "Daredevil",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1280,6 +1367,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c5"
+    },
     "name": "Dazzler",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1324,6 +1414,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c6"
+    },
     "name": "Deadpool",
     "box": "66b6c90432482ef0b1b9c99f",
     "cards": [
@@ -1380,6 +1473,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c7"
+    },
     "name": "Doctor Doom",
     "box": "66b6c90432482ef0b1b9c9a1",
     "anti-hero": true,
@@ -1425,6 +1521,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c8"
+    },
     "name": "Doctor Strange",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1471,6 +1570,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9c9"
+    },
     "name": "Domino",
     "box": "66b6c90432482ef0b1b9c9a0",
     "cards": [
@@ -1515,6 +1617,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ca"
+    },
     "name": "Doop",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1565,6 +1670,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9cb"
+    },
     "name": "Drax",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1607,6 +1715,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9cc"
+    },
     "name": "Elektra",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1649,6 +1760,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9cd"
+    },
     "name": "Emma Frost",
     "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
@@ -1694,6 +1808,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ce"
+    },
     "name": "Falcon",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1736,6 +1853,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9cf"
+    },
     "name": "Fantomex",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1780,6 +1900,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d0"
+    },
     "name": "Feral",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1824,6 +1947,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d1"
+    },
     "name": "Firestar",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -1868,6 +1994,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d2"
+    },
     "name": "Forge",
     "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
@@ -1912,6 +2041,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d3"
+    },
     "name": "Gambit",
     "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
@@ -1956,6 +2088,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d4"
+    },
     "name": "Gamora",
     "box": "66b6c90432482ef0b1b9c993",
     "cards": [
@@ -1998,6 +2133,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d5"
+    },
     "name": "Ghost Rider",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2040,6 +2178,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d6"
+    },
     "name": "Ghost-Spider",
     "box": "66b6c90432482ef0b1b9c992",
     "cards": [
@@ -2082,6 +2223,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d7"
+    },
     "name": "Groot",
     "box": "66b6c90432482ef0b1b9c993",
     "cards": [
@@ -2138,6 +2282,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d8"
+    },
     "name": "Guardian",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2182,6 +2329,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9d9"
+    },
     "name": "Gwenpool",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2228,6 +2378,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9da"
+    },
     "name": "Havok",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2272,6 +2425,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9db"
+    },
     "name": "Hawkeye",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2314,6 +2470,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9dc"
+    },
     "name": "Hope Summers",
     "box": "66b6c90432482ef0b1b9c99c",
     "cards": [
@@ -2358,6 +2517,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9dd"
+    },
     "name": "Howard the Duck",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2400,6 +2562,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9de"
+    },
     "name": "Hulk",
     "box": "66b6c90432482ef0b1b9c991",
     "cards": [
@@ -2442,6 +2607,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9df"
+    },
     "name": "Human Torch",
     "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
@@ -2486,6 +2654,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e0"
+    },
     "name": "Iceman",
     "box": "66b6c90432482ef0b1b9c99a",
     "cards": [
@@ -2530,6 +2701,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e1"
+    },
     "name": "Iceman (First Class)",
     "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
@@ -2574,6 +2748,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e2"
+    },
     "name": "Invisible Woman",
     "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
@@ -2618,6 +2795,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e3"
+    },
     "name": "Iron Fist",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2660,6 +2840,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e4"
+    },
     "name": "Iron Man",
     "box": "66b6c90432482ef0b1b9c991",
     "cards": [
@@ -2702,6 +2885,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e5"
+    },
     "name": "Jean Grey",
     "box": "66b6c90432482ef0b1b9c999",
     "cards": [
@@ -2746,6 +2932,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e6"
+    },
     "name": "Jessica Jones",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2788,6 +2977,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e7"
+    },
     "name": "Jubilee",
     "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
@@ -2832,6 +3024,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e8"
+    },
     "name": "Kitty Pryde",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -2888,6 +3083,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9e9"
+    },
     "name": "Korg",
     "box": "66b6c90432482ef0b1b9c994",
     "cards": [
@@ -2930,6 +3128,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ea"
+    },
     "name": "Lady Deadpool",
     "box": "66b6c90432482ef0b1b9c99f",
     "cards": [
@@ -2986,6 +3187,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9eb"
+    },
     "name": "Legion",
     "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
@@ -3043,6 +3247,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ec"
+    },
     "name": "Logan",
     "box": "66b6c90432482ef0b1b9c99d",
     "cards": [
@@ -3087,6 +3294,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ed"
+    },
     "name": "Longshot",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3131,6 +3341,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ee"
+    },
     "name": "Luke Cage",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3173,6 +3386,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ef"
+    },
     "name": "Magik",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3219,6 +3435,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f0"
+    },
     "name": "Magneto",
     "box": "66b6c90432482ef0b1b9c999",
     "anti-hero": true,
@@ -3264,6 +3483,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f1"
+    },
     "name": "Mantis",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3306,6 +3528,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f2"
+    },
     "name": "Marrow",
     "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
@@ -3351,6 +3576,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f3"
+    },
     "name": "Marvel Girl",
     "box": "66b6c90432482ef0b1b9c99e",
     "cards": [
@@ -3395,6 +3623,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f4"
+    },
     "name": "Miles Morales",
     "box": "66b6c90432482ef0b1b9c992",
     "cards": [
@@ -3437,6 +3668,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f5"
+    },
     "name": "Mirage",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3485,6 +3719,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f6"
+    },
     "name": "Mister Fantastic",
     "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
@@ -3529,6 +3766,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f7"
+    },
     "name": "Mockingbird",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3571,6 +3811,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f8"
+    },
     "name": "Moon Knight",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3613,6 +3856,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9f9"
+    },
     "name": "Ms. Marvel",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3655,6 +3901,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9fa"
+    },
     "name": "Multiple Man",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3711,6 +3960,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9fb"
+    },
     "name": "Mystique",
     "box": "66b6c90432482ef0b1b9c999",
     "anti-hero": true,
@@ -3756,6 +4008,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9fc"
+    },
     "name": "Namor",
     "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
@@ -3801,6 +4056,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9fd"
+    },
     "name": "Nebula",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3843,6 +4101,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9fe"
+    },
     "name": "Nick Fury",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3885,6 +4146,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9c9ff"
+    },
     "name": "Nightcrawler",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3941,6 +4205,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca00"
+    },
     "name": "Northstar",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -3985,6 +4252,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca01"
+    },
     "name": "Nova",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4027,6 +4297,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca02"
+    },
     "name": "Okoye",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4069,6 +4342,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca03"
+    },
     "name": "Old Man Logan",
     "box": "Old Man Logan",
     "cards": [
@@ -4117,6 +4393,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca04"
+    },
     "name": "Phoenix",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4173,6 +4452,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca05"
+    },
     "name": "Pixie",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4217,6 +4499,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca06"
+    },
     "name": "Polaris",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4261,6 +4546,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca07"
+    },
     "name": "Professor X",
     "box": "66b6c90432482ef0b1b9c999",
     "cards": [
@@ -4309,6 +4597,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca08"
+    },
     "name": "Psylocke",
     "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
@@ -4353,6 +4644,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca09"
+    },
     "name": "Puck",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4397,6 +4691,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca0a"
+    },
     "name": "Punisher",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4439,6 +4736,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca0b"
+    },
     "name": "Quicksilver",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4481,6 +4781,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca0c"
+    },
     "name": "Rocket",
     "box": "66b6c90432482ef0b1b9c993",
     "cards": [
@@ -4523,6 +4826,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca0d"
+    },
     "name": "Rogue",
     "box": "66b6c90432482ef0b1b9c99b",
     "cards": [
@@ -4567,6 +4873,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca0e"
+    },
     "name": "Sasquatch",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4611,6 +4920,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca0f"
+    },
     "name": "Scarlet Witch",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4653,6 +4965,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca10"
+    },
     "name": "Shang Chi",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4695,6 +5010,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca11"
+    },
     "name": "Shatterstar",
     "box": "66b6c90432482ef0b1b9c9a0",
     "cards": [
@@ -4739,6 +5057,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca12"
+    },
     "name": "She-Hulk",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4783,6 +5104,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca13"
+    },
     "name": "Shuri",
     "box": "66b6c90432482ef0b1b9c995",
     "cards": [
@@ -4825,6 +5149,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca14"
+    },
     "name": "Silver Surfer",
     "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
@@ -4871,6 +5198,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca15"
+    },
     "name": "Snowbird",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -4917,6 +5247,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca16"
+    },
     "name": "Spider-Ham",
     "box": "66b6c90432482ef0b1b9c992",
     "cards": [
@@ -4959,6 +5292,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca17"
+    },
     "name": "Spider-Man",
     "box": "66b6c90432482ef0b1b9c992",
     "cards": [
@@ -5001,6 +5337,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca18"
+    },
     "name": "Spider-Man 2099",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5043,6 +5382,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca19"
+    },
     "name": "Spider-Woman",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5085,6 +5427,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca1a"
+    },
     "name": "Spiral",
     "box": "66b6c90432482ef0b1b9c9a3",
     "anti-hero": true,
@@ -5132,6 +5477,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca1b"
+    },
     "name": "Squirrel Girl",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5174,6 +5522,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca1c"
+    },
     "name": "Star-Lord",
     "box": "66b6c90432482ef0b1b9c993",
     "cards": [
@@ -5216,6 +5567,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca1d"
+    },
     "name": "Storm",
     "box": "66b6c90432482ef0b1b9c999",
     "cards": [
@@ -5260,6 +5614,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca1e"
+    },
     "name": "Storm (Mohawk)",
     "box": "Storm (Mohawk)",
     "cards": [
@@ -5304,6 +5661,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca1f"
+    },
     "name": "Strong Guy",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5348,6 +5708,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca20"
+    },
     "name": "Sunfire",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5392,6 +5755,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca21"
+    },
     "name": "Sunspot",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5440,6 +5806,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca22"
+    },
     "name": "The Thing",
     "box": "66b6c90432482ef0b1b9c9a1",
     "cards": [
@@ -5484,6 +5853,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca23"
+    },
     "name": "Thor",
     "box": "66b6c90432482ef0b1b9c994",
     "cards": [
@@ -5526,6 +5898,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca24"
+    },
     "name": "Valkyrie",
     "box": "66b6c90432482ef0b1b9c994",
     "cards": [
@@ -5568,6 +5943,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca25"
+    },
     "name": "Venom",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5610,6 +5988,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca26"
+    },
     "name": "Vision",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5652,6 +6033,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca27"
+    },
     "name": "War Machine",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5694,6 +6078,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca28"
+    },
     "name": "Warlock",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5740,6 +6127,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca29"
+    },
     "name": "Warpath",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5784,6 +6174,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca2a"
+    },
     "name": "Wasp",
     "box": "66b6c90432482ef0b1b9c991",
     "cards": [
@@ -5826,6 +6219,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca2b"
+    },
     "name": "Weapon X",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5870,6 +6266,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca2c"
+    },
     "name": "Winter Soldier",
     "box": "66b6c90432482ef0b1b9c995",
     "cards": [
@@ -5912,6 +6311,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca2d"
+    },
     "name": "Wolfsbane",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -5956,6 +6358,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca2e"
+    },
     "name": "Wolverine",
     "box": "66b6c90432482ef0b1b9c999",
     "cards": [
@@ -6000,6 +6405,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca2f"
+    },
     "name": "X-23",
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
@@ -6046,6 +6454,9 @@
     ]
   },
   {
+    "_id": {
+      "$oid": "66b6d2b632482ef0b1b9ca30"
+    },
     "name": "Yondu",
     "box": "Yondu",
     "cards": [
