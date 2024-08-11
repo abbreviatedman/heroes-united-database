@@ -3077,7 +3077,7 @@
       {
         "symbols": ["&f"],
         "name": "Get Them, Lockheed",
-        "specialAbility": "­&f n the Location Lockheed is in."
+        "specialAbility": "&f in the Location Lockheed is in."
       }
     ]
   },
@@ -5454,11 +5454,6 @@
         "specialAbility": "For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 &h token, or &f against a Thug or Henchman in your Location."
       },
       {
-        "symbols": ["&m"],
-        "name": "Spell Dance",
-        "specialAbility": "For each Spell Dance card in the Storyline, choose 1: draw 1 card, gain 1 &h token, or &f against a Thug or Henchman in your Location."
-      },
-      {
         "symbols": ["&m", "&h"]
       },
       {
@@ -5469,6 +5464,9 @@
       },
       {
         "symbols": ["&h", "&h"]
+      },
+      {
+        "symbols": ["&f"],
       },
       {
         "symbols": ["&h"]
