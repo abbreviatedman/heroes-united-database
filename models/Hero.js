@@ -2,6 +2,8 @@ const { Schema, model, Types } = require("mongoose");
 
 const heroSchema = new Schema(
   {
+    antihero: Boolean,
+
     name: {
       type: String,
       unique: true,
@@ -20,10 +22,10 @@ const heroSchema = new Schema(
         name: String,
         specialAbility: String,
         specialIsMandatory: Boolean,
+        isStartingCard: Boolean,
+        isBottomOfDeck: Boolean,
       },
     ],
-
-    antihero: Boolean,
   },
   { collection: "heroes" }
 );
