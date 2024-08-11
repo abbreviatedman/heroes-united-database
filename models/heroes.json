@@ -3029,29 +3029,30 @@
     "box": "66b6c90432482ef0b1b9c9a3",
     "cards": [
       {
-        "symbols": ["&m", "&h"],
-        "name": "Phasing Others",
-        "specialAbility": "You can move another Hero with you this turn. Other Heroes in your Location cannot take any damage until the beginning of your next turn."
-      },
-      {
-        "symbols": ["&m", "&h"],
-        "name": "Phasing Others",
-        "specialAbility": "You can move another Hero with you this turn. Other Heroes in your Location cannot take any damage until the beginning of your next turn."
-      },
-      {
-        "symbols": ["&m"],
-        "name": "Phasing",
-        "specialAbility": "You cannot take any damage until the beginning of your next turn. For each damage you would take, gain 1 &h token instead."
-      },
-      {
-        "symbols": ["&m"],
-        "name": "Phasing",
-        "specialAbility": "You cannot take any damage until the beginning of your next turn. For each damage you would take, gain 1 &h token instead."
-      },
-      {
         "symbols": ["&m"],
         "name": "Lockheed, Go",
-        "specialAbility": "Put Lockheed in play in your Location or an adjacent one. As long as this card is face-up in the Storyline, you may use your &m to move Lockheed."
+        "specialAbility": "Put Lockheed in play in your Location or an adjacent one. As long as this card is face-up in the Storyline, you may use your &m to move Lockheed.",
+        "isStartingCard": true
+      },
+      {
+        "symbols": ["&m", "&h"],
+        "name": "Phasing Others",
+        "specialAbility": "You can move another Hero with you this turn. Other Heroes in your Location cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": ["&m", "&h"],
+        "name": "Phasing Others",
+        "specialAbility": "You can move another Hero with you this turn. Other Heroes in your Location cannot take any damage until the beginning of your next turn."
+      },
+      {
+        "symbols": ["&m"],
+        "name": "Phasing",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn. For each damage you would take, gain 1 &h token instead."
+      },
+      {
+        "symbols": ["&m"],
+        "name": "Phasing",
+        "specialAbility": "You cannot take any damage until the beginning of your next turn. For each damage you would take, gain 1 &h token instead."
       },
       {
         "symbols": ["&m"],
