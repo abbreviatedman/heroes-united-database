@@ -3229,7 +3229,8 @@
       {
         "symbols": ["&m"],
         "name": "Lockheed, Go",
-        "specialAbility": "Put Lockheed in play in your Location or an adjacent one. As long as this card is face-up in the Storyline, you may use your &m to move Lockheed."
+        "specialAbility": "Put Lockheed in play in your Location or an adjacent one. As long as this card is face-up in the Storyline, you may use your &m to move Lockheed.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
