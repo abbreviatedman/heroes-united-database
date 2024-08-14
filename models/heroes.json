@@ -14,12 +14,12 @@
       {
         "symbols": ["&w"],
         "name": "Probability Manipulation",
-        "specialAbility": "If this is the latest Domino card in the Storyline, BAM effects of Henchmen are canceled during the next Villain turn."
+        "specialAbility": "If this is the latest Domino card in the Storyline, Overflow effects are ignored during the next Villain turn."
       },
       {
         "symbols": ["&w"],
         "name": "Probability Manipulation",
-        "specialAbility": "If this is the latest Domino card in the Storyline, BAM effects of Henchmen are canceled during the next Villain turn."
+        "specialAbility": "If this is the latest Domino card in the Storyline, Villains cannot move during the next Villain turn."
       },
       {
         "symbols": ["&m"],
