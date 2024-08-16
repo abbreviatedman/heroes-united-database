@@ -352,7 +352,8 @@
       {
         "symbols": ["&m"],
         "name": "Regenerative Healing Factor",
-        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -406,7 +407,8 @@
       {
         "symbols": ["&m"],
         "name": "Pyrogenesis",
-        "specialAbility": "As long as this card is face-up in the Storyline, you can treat &h as &f."
+        "specialAbility": "As long as this card is face-up in the Storyline, you can treat &h as &f.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -1138,7 +1140,8 @@
       {
         "symbols": ["&m"],
         "name": "Lightforce Generation",
-        "specialAbility": "As long as this card is face-up in the Storyline, if you start this turn with 2 or more cards in hand (before the draw step), you may immediately play a free &h in your Location."
+        "specialAbility": "As long as this card is face-up in the Storyline, if you start this turn with 2 or more cards in hand (before the draw step), you may immediately play a free &h in your Location.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -1697,12 +1700,13 @@
       {
         "symbols": ["&h"],
         "name": "Darkforce Teleportation",
-        "specialAbility": "As long as this card is face-up in the Storyline, you can use &m to move to any Location. If Dagger is in your Location, she can move with you."
+        "specialAbility": "As long as this card is face-up in the Storyline, you can use &m to move to any Location. If Dagger is in your Location, she can move with you.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&h"],
-        "name": "Darkforce Teleportation",
-        "specialAbility": "As long as this card is face-up in the Storyline, you can use &m to move to any Location. If Dagger is in your Location, she can move with you."
+        "name": "Bond",
+        "specialAbility": "If Dagger is in your Location, she may draw cards until there are 3 in her hand."
       },
       {
         "symbols": ["&m", "&h"]
@@ -2231,7 +2235,8 @@
       {
         "symbols": ["&m"],
         "name": "Pain is for Lesser Men",
-        "specialAbility": "As long as this card is face-up in the Storyline, for each damage you take during a Villain turn, you may gain 1 &m, &h or &f token."
+        "specialAbility": "As long as this card is face-up in the Storyline, for each damage you take during a Villain turn, you may gain 1 &m, &h or &f token.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -2263,7 +2268,8 @@
       {
         "symbols": ["&m"],
         "name": "Professional Videographer",
-        "specialAbility": "As long as this card is face-up in the Storyline, if another Hero performs 2 or more &h or &f in your Location, that Hero gains 1 &w token."
+        "specialAbility": "As long as this card is face-up in the Storyline, if another Hero performs 2 or more &h or &f in your Location, that Hero gains 1 &w token.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -2293,7 +2299,8 @@
       {
         "symbols": ["&h"],
         "name": "Accelerated Regeneration",
-        "specialAbility": "As long as this card is face-up in the Storyline, gain 1 &w token whenever you are KO'd."
+        "specialAbility": "As long as this card is face-up in the Storyline, gain 1 &w token whenever you are KO'd.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&w"]
@@ -2326,11 +2333,13 @@
       {
         "symbols": ["&m"],
         "name": "Misdirection",
-        "specialAbility": "As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately move to an adjacent location."
+        "specialAbility": "As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately move to an adjacent location.",
+        "isStartingCard": true
       },
       {
         "name": "Cyber Mind",
-        "specialAbility": "As long as this card is face-up in the Storyline, at the end of each Villain turn, you may perform 1 &h or 1 &f in the Villain's Location."
+        "specialAbility": "As long as this card is face-up in the Storyline, at the end of each Villain turn, you may perform 1 &h or 1 &f in the Villain's Location.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&w"]
@@ -2424,7 +2433,8 @@
       {
         "symbols": ["&f"],
         "name": "Organic Steel Body",
-        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage in each Villain turn."
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage in each Villain turn.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -2602,7 +2612,8 @@
       {
         "symbols": ["&m"],
         "name": "Jeffrey the Land Shark",
-        "specialAbility": "As long as this card is face-up in the Storyline, at the end of your turn, you can deal 1 damage to a Thug or Henchman in your Location that you did not damage this turn."
+        "specialAbility": "As long as this card is face-up in the Storyline, at the end of your turn, you can deal 1 damage to a Thug or Henchman in your Location that you did not damage this turn.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&h"],
@@ -2684,7 +2695,8 @@
       {
         "symbols": ["&m"],
         "name": "Immortality",
-        "specialAbility": "Draw 1 card. As long as this card is face-up in the Storyline, when you are KO'd, the Villain doesn't activate their BAM or any alternate effect."
+        "specialAbility": "Draw 1 card. As long as this card is face-up in the Storyline, when you are KO'd, the Villain doesn't activate their BAM or any alternate effect.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"]
@@ -2719,7 +2731,8 @@
       {
         "symbols": ["&h"],
         "name": "Energy Resistance",
-        "specialAbility": "As long as this card is face-up in the Storyline,  you cannot take any damage from adjacent locations."
+        "specialAbility": "As long as this card is face-up in the Storyline,  you cannot take any damage from adjacent locations.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&f"]
@@ -2952,7 +2965,8 @@
       {
         "symbols": ["&h"],
         "name": "Invisibility",
-        "specialAbility": "As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may choose not to take any damage until the beginning of your next turn. If you do so, next turn you must play your card face down."
+        "specialAbility": "As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may choose not to take any damage until the beginning of your next turn. If you do so, next turn you must play your card face down.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -3071,7 +3085,8 @@
       {
         "symbols": ["&w"],
         "name": "Kinetic Duplication",
-        "specialAbility": "As long as this card is face-up in the Storyline, once per turn you may place 1 Dupe token in your Location (functions as a Civilian). You may use &h and &f actions as if you were in any Dupe's Location."
+        "specialAbility": "As long as this card is face-up in the Storyline, once per turn you may place 1 Dupe token in your Location (functions as a Civilian). You may use &h and &f actions as if you were in any Dupe's Location.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -3150,7 +3165,8 @@
       {
         "symbols": ["&m"],
         "name": "Regenerative Healing Factor",
-        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -3458,7 +3474,8 @@
       {
         "symbols": ["&w"],
         "name": "Plasticity",
-        "specialAbility": "As long as this card is face-up in the Storyline, during your Hero turn you can use 1 of your &h or &f actions in an adjacent location."
+        "specialAbility": "As long as this card is face-up in the Storyline, during your Hero turn you can use 1 of your &h or &f actions in an adjacent location.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&w"],
@@ -4268,7 +4285,8 @@
       {
         "symbols": ["&h"],
         "name": "Healing Factor",
-        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -4438,7 +4456,8 @@
       {
         "symbols": ["&m"],
         "name": "Teleport Away",
-        "specialAbility": "Gain 1 &w token. As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately discard 1 Action token to move all Heroes in your Location to any other Location."
+        "specialAbility": "Gain 1 &w token. As long as this card is face-up in the Storyline, when the top card of the Master Plan deck is revealed, you may immediately discard 1 Action token to move all Heroes in your Location to any other Location.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -4666,7 +4685,8 @@
       {
         "symbols": ["&w"],
         "name": "Cosmic Awareness",
-        "specialAbility": "As long as this card is face-up in the Storyline, during your turn one of your &h or &f actions can be performed in any Location."
+        "specialAbility": "As long as this card is face-up in the Storyline, during your turn one of your &h or &f actions can be performed in any Location.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&w"],
@@ -4730,7 +4750,8 @@
       {
         "symbols": ["&h"],
         "name": "Indomitable Will",
-        "specialAbility": "As long as this card is face-up in the Storyline, ignore the first Crisis token you receive during each Hero and Villain turn."
+        "specialAbility": "As long as this card is face-up in the Storyline, ignore the first Crisis token you receive during each Hero and Villain turn.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -4916,7 +4937,8 @@
       {
         "symbols": ["&f"],
         "name": "Rock-like Skin",
-        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage during each Villain turn."
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage during each Villain turn.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -5099,12 +5121,14 @@
       {
         "symbols": ["&h"],
         "name": "Metamorph",
-        "specialAbility": "On the next Villain turn, you may redirect any damage dealt to you to a Henchman or any Thug in your Location."
+        "specialAbility": "On the next Villain turn, you may redirect any damage dealt to you to a Henchman or any Thug in your Location.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&f"],
         "name": "Metamorph",
-        "specialAbility": "On the next Villain turn, you may redirect any damage dealt to you to a Henchman or any Thug in your Location."
+        "specialAbility": "On the next Villain turn, you may redirect any damage dealt to you to a Henchman or any Thug in your Location.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&f"]
@@ -5226,7 +5250,8 @@
       {
         "symbols": ["&h"],
         "name": "Healing Factor",
-        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage each Villain turn. If you do, your next Hero card must be played randomly."
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage each Villain turn. If you do, your next Hero card must be played randomly.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&f"],
@@ -5320,7 +5345,8 @@
       {
         "symbols": ["&m"],
         "name": "Withstanding the Pain",
-        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage during each Villain turn."
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage during each Villain turn.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&f"],
@@ -5459,7 +5485,8 @@
       {
         "symbols": ["&m"],
         "name": "Mystical Armor",
-        "specialAbility": "As long as this card is face-up in the Storyline, if you have any Crisis tokens at the end of a Villain turn, you may discard 1 with no consequence."
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have any Crisis tokens at the end of a Villain turn, you may discard 1 with no consequence.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&f", "&f"],
@@ -5663,7 +5690,8 @@
       {
         "symbols": ["&h"],
         "name": "Techno-Organic Lifeform",
-        "specialAbility": "As long as this card is face-up in the Storyline, ignore the first Crisis token you receive during each Hero or Villain turn."
+        "specialAbility": "As long as this card is face-up in the Storyline, ignore the first Crisis token you receive during each Hero or Villain turn.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -5785,12 +5813,14 @@
       {
         "symbols": ["&w"],
         "name": "My Name is Wolverine",
-        "specialAbility": "Gain 4 &f tokens. If Retired is face-up in the Storyline, turn it face down."
+        "specialAbility": "Gain 4 &f tokens. If Retired is face-up in the Storyline, turn it face down.",
+        "isBottomOfDeck": true
       },
       {
         "symbols": ["&m"],
         "name": "Retired",
-        "specialAbility": "Gain 2 &f tokens. As long as this card is face-up in the Storyline, you can't use &f tokens to Attack."
+        "specialAbility": "Gain 2 &f tokens. As long as this card is face-up in the Storyline, you can't use &f tokens to Attack.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -5836,7 +5866,8 @@
       {
         "symbols": ["&w"],
         "name": "Uncanny Power",
-        "specialAbility": "As long as this card is face-up in the Storyline, other Heroes must ignore and skip Phoenix cards in the Storyline."
+        "specialAbility": "As long as this card is face-up in the Storyline, other Heroes must ignore and skip Phoenix cards in the Storyline.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&w"],
@@ -5855,7 +5886,8 @@
       },
       {
         "name": "Phoenix Cry",
-        "specialAbility": "&w &w &w &w &w Then discard all cards from your hand to the bottom of your deck."
+        "specialAbility": "&w &w &w &w &w Then discard all cards from your hand to the bottom of your deck.",
+        "isBottomCard": true
       },
       {
         "name": "Phoenix Force Avatar",
@@ -5899,7 +5931,8 @@
       {
         "symbols": ["&f"],
         "name": "Compressed Rubber Physiology",
-        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage dealt by a Henchman each Villain turn."
+        "specialAbility": "As long as this card is face-up in the Storyline, you may ignore 1 damage dealt by a Henchman each Villain turn.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&f"],
@@ -5993,7 +6026,8 @@
       {
         "symbols": ["&f"],
         "name": "Regenerative Healing Factor",
-        "specialAbility": "Draw 2 cards."
+        "specialAbility": "Draw 2 cards.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -6028,7 +6062,8 @@
       {
         "symbols": ["&m"],
         "name": "Flight",
-        "specialAbility": "As long as this card is face-up in the Storyline, when you perform &m actions, you may bring another Hero to your Location with you."
+        "specialAbility": "As long as this card is face-up in the Storyline, when you perform &m actions, you may bring another Hero to your Location with you.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m"],
@@ -6142,7 +6177,8 @@
       {
         "symbols": ["&h"],
         "name": "Mystical Resistance",
-        "specialAbility": "As long as this card is face-up in the Storyline, you can't be forced to play cards randomly."
+        "specialAbility": "As long as this card is face-up in the Storyline, you can't be forced to play cards randomly.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
@@ -6269,20 +6305,21 @@
         "specialAbility": "&f&f&f split as you like in your and adjacent Locations.\n"
       },
       {
-        "symbols": ["&h"],
+        "symbols": ["&m"],
         "name": "Bone Armor",
         "specialAbility": "As long as this card is face-up in the Storyline, if a Villain or Henchman in your Location deals damage to you during a Villain turn, they take 1 damage at the end of that turn."
       },
       {
         "symbols": ["&h"],
-        "name": "Bone Armor",
-        "specialAbility": "As long as this card is face-up in the Storyline, if a Villain or Henchman in your Location deals damage to you during a Villain turn, they take 1 damage at the end of that turn."
+        "name": "Dual Hearts",
+        "specialAbility": "If this card is faceup in the Storyline and you're about to be KO'd, instead of discarding your last card, you can flip this card facedown to draw 1 card.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&h"]
       },
       {
-        "symbols": ["&h", "&h"]
+        "symbols": ["&m", "&f"]
       },
       {
         "symbols": ["&f", "&f"]
@@ -6471,7 +6508,8 @@
       {
         "symbols": ["&f"],
         "name": "Healing Factor",
-        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card."
+        "specialAbility": "As long as this card is face-up in the Storyline, if you have less than 3 cards in your hand at the end of a Villain turn, you may draw 1 card.",
+        "isStartingCard": true
       },
       {
         "symbols": ["&m", "&f"]
