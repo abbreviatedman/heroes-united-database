@@ -10,4 +10,6 @@ const boxSchema = new Schema({
   },
 });
 
-module.exports = model("Box", boxSchema);
+const Box = model("Box", boxSchema);
+
+module.exports = { Box, boxSchema };

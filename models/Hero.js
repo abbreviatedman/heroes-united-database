@@ -1,5 +1,7 @@
 const { Schema, model, Types } = require("mongoose");
 
+const { heroCardSchema } = require("./HeroCard");
+
 const heroSchema = new Schema(
   {
     antihero: Boolean,
@@ -16,18 +18,11 @@ const heroSchema = new Schema(
       required: true,
     },
 
-    cards: [
-      {
-        symbols: [String],
-        name: String,
-        specialAbility: String,
-        specialIsMandatory: Boolean,
-        isStartingCard: Boolean,
-        isBottomOfDeck: Boolean,
-      },
-    ],
+    cards: [heroCardSchema],
   },
   { collection: "heroes" }
 );
 
-module.exports = model("Hero", heroSchema);
+const Hero = model("Hero", heroSchema);
+
+module.exports = { Hero, heroSchema };

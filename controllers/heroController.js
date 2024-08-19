@@ -1,4 +1,4 @@
-const Hero = require('../models/Hero');
+const {Hero} = require('../models/Hero');
 
 async function getAllHeroes() {
   try {
